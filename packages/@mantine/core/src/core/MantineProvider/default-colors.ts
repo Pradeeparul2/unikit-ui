@@ -93,16 +93,16 @@ export const DEFAULT_COLORS: MantineThemeColors = {
   ],
 
   blue: [
-    '#e7f5ff',
-    '#d0ebff',
-    '#a5d8ff',
-    '#74c0fc',
-    '#4dabf7',
-    '#339af0',
-    '#228be6',
-    '#1c7ed6',
-    '#1971c2',
-    '#1864ab',
+    '#e8efff',
+    '#d0daff',
+    '#9fb2fd',
+    '#6a87fa',
+    '#4a6cf7',
+    '#224bf5',
+    '#0f40f6',
+    '#0032db',
+    '#002cc5',
+    '#0025ae',
   ],
 
   cyan: [
