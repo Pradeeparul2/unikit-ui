@@ -55,3 +55,6 @@ apps/mantine.dev/out
 apps/mantine.dev/.next
 apps/mantine.dev/src/.docgen/
 .samples
+
+# custom
+.npmrc

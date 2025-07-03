@@ -135,7 +135,6 @@ export const PickerInputBase = factory<PickerInputBaseFactory>((_props, ref) => 
     }
 
     dropdownHandlers.close();
-    onDropdownClose?.();
   };
 
   return (
@@ -161,6 +160,7 @@ export const PickerInputBase = factory<PickerInputBaseFactory>((_props, ref) => 
           trapFocus
           returnFocus={false}
           unstyled={unstyled}
+          onClose={onDropdownClose}
           {...popoverProps}
           disabled={popoverProps?.disabled || dropdownType === 'modal' || readOnly}
           onChange={(_opened) => {
@@ -177,7 +177,6 @@ export const PickerInputBase = factory<PickerInputBaseFactory>((_props, ref) => 
               disabled={disabled}
               component="button"
               type="button"
-              multiline
               onClick={(event) => {
                 onClick?.(event);
                 dropdownHandlers.toggle();
