@@ -1,5 +1,5 @@
 {
-  "name": "@mantine/tiptap",
+  "name": "@pradeeparul2/mantine-tiptap",
   "version": "8.1.1",
   "description": "Rich text editor based on tiptap",
   "homepage": "https://mantine.dev/x/tiptap",
@@ -39,7 +39,7 @@
     "./styles.layer.css": "./styles.layer.css"
   },
   "repository": {
-    "url": "https://github.com/mantinedev/mantine.git",
+    "url": "https://github.com/Pradeeparul2/unikit-ui.git",
     "type": "git",
     "directory": "packages/@mantine/tiptap"
   },

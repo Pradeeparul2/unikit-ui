@@ -1,5 +1,5 @@
 {
-  "name": "@mantine/charts",
+  "name": "@pradeeparul2/mantine-charts",
   "version": "8.1.1",
   "description": "Charts components built with recharts and Mantine",
   "homepage": "https://mantine.dev/",
@@ -30,7 +30,7 @@
     "./styles.layer.css": "./styles.layer.css"
   },
   "repository": {
-    "url": "https://github.com/mantinedev/mantine.git",
+    "url": "https://github.com/Pradeeparul2/unikit-ui.git",
     "type": "git",
     "directory": "packages/@mantine/charts"
   },

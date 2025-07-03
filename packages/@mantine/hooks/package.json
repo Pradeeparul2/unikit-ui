@@ -1,5 +1,5 @@
 {
-  "name": "@mantine/hooks",
+  "name": "@pradeeparul2/mantine-hooks",
   "version": "8.1.1",
   "description": "A collection of 50+ hooks for state and UI management",
   "homepage": "https://mantine.dev",
@@ -32,7 +32,7 @@
     }
   },
   "repository": {
-    "url": "https://github.com/mantinedev/mantine.git",
+    "url": "https://github.com/Pradeeparul2/unikit-ui.git",
     "type": "git",
     "directory": "packages/@mantine/hooks"
   },

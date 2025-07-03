@@ -1,5 +1,5 @@
 {
-  "name": "@mantine/colors-generator",
+  "name": "@pradeeparul2/mantine-colors-generator",
   "version": "8.1.1",
   "description": "A library to generate 10 shades of color based on provided color value",
   "homepage": "https://mantine.dev",
@@ -32,7 +32,7 @@
     }
   },
   "repository": {
-    "url": "https://github.com/mantinedev/mantine.git",
+    "url": "https://github.com/Pradeeparul2/unikit-ui.git",
     "type": "git",
     "directory": "packages/@mantine/colors-generator"
   },
