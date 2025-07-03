@@ -1,5 +1,5 @@
 {
-  "name": "@mantine/dates",
+  "name": "@pradeeparul2/mantine-dates",
   "version": "8.1.2",
   "description": "Calendars, date and time pickers based on Mantine components",
   "homepage": "https://mantine.dev/dates/getting-started/",
@@ -40,7 +40,7 @@
     "./styles.layer.css": "./styles.layer.css"
   },
   "repository": {
-    "url": "https://github.com/mantinedev/mantine.git",
+    "url": "https://github.com/Pradeeparul2/unikit-ui.git",
     "type": "git",
     "directory": "packages/@mantine/dates"
   },

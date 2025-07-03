@@ -1,5 +1,5 @@
 {
-  "name": "@mantine/carousel",
+  "name": "@pradeeparul2/mantine-carousel",
   "version": "8.1.2",
   "description": "Embla based carousel",
   "homepage": "https://mantine.dev/x/carousel/",
@@ -39,7 +39,7 @@
     "./styles.layer.css": "./styles.layer.css"
   },
   "repository": {
-    "url": "https://github.com/mantinedev/mantine.git",
+    "url": "https://github.com/Pradeeparul2/unikit-ui.git",
     "type": "git",
     "directory": "packages/@mantine/carousel"
   },

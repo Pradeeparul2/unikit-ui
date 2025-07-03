@@ -1,5 +1,5 @@
 {
-  "name": "@mantine/store",
+  "name": "@pradeeparul2/mantine-store",
   "version": "8.1.2",
   "description": "A library to sync external React state updates",
   "homepage": "https://mantine.dev",
@@ -32,7 +32,7 @@
     }
   },
   "repository": {
-    "url": "https://github.com/mantinedev/mantine.git",
+    "url": "https://github.com/Pradeeparul2/unikit-ui.git",
     "type": "git",
     "directory": "packages/@mantine/store"
   },
