@@ -1,9 +1,9 @@
-import { MultiSelect } from '@mantine/core';
+import { MultiSelect } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { inputControls } from '../../../shared';
 
 const code = `
-import { MultiSelect } from '@mantine/core';
+import { MultiSelect } from '@pradeeparul2/mantine-core';
 
 
 function Demo() {

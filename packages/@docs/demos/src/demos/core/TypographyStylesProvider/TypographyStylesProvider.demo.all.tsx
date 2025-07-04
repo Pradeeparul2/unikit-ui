@@ -1,4 +1,4 @@
-import { TypographyStylesProvider } from '@mantine/core';
+import { TypographyStylesProvider } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const html = `<h1>Heading 1</h1>
@@ -33,7 +33,7 @@ const html = `<h1>Heading 1</h1>
 <p>This is <code>code</code>, <kbd>kbd</kbd> and <mark>mark</mark> inside paragraph</p>
 
 <pre>
-import { Avatar } from '@mantine/core';
+import { Avatar } from '@pradeeparul2/mantine-core';
 import image from './image.png';
 
 export function AvatarDemo() {

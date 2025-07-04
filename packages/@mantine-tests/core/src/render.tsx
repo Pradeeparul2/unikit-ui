@@ -1,5 +1,9 @@
+import {
+  MantineProvider,
+  MantineProviderProps,
+  MantineThemeOverride,
+} from '@pradeeparul2/mantine-core';
 import { act, RenderResult, render as testingLibraryRender } from '@testing-library/react';
-import { MantineProvider, MantineProviderProps, MantineThemeOverride } from '@mantine/core';
 
 export function render(
   ui: React.ReactNode,

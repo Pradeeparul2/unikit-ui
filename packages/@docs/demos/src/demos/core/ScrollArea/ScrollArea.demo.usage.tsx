@@ -1,4 +1,4 @@
-import { Box, ScrollArea, ScrollAreaProps } from '@mantine/core';
+import { Box, ScrollArea, ScrollAreaProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { Content } from './_content';
 
@@ -13,7 +13,7 @@ function Wrapper(props: ScrollAreaProps) {
 }
 
 const code = `
-import { ScrollArea } from '@mantine/core';
+import { ScrollArea } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

@@ -1,4 +1,4 @@
-import { getThemeColor, MantineColor, useMantineTheme } from '@mantine/core';
+import { getThemeColor, MantineColor, useMantineTheme } from '@pradeeparul2/mantine-core';
 
 interface AreaSplitProps {
   offset: number;

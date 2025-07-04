@@ -128,4 +128,4 @@ export const TabsTab = factory<TabsTabFactory>((_props, ref) => {
 });
 
 TabsTab.classes = classes;
-TabsTab.displayName = '@mantine/core/TabsTab';
+TabsTab.displayName = '@pradeeparul2/mantine-core/TabsTab';

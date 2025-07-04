@@ -1,9 +1,9 @@
+import { Chip } from '@pradeeparul2/mantine-core';
 import { IconX } from '@tabler/icons-react';
-import { Chip } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Chip } from '@mantine/core';
+import { Chip } from '@pradeeparul2/mantine-core';
 import { IconX } from '@tabler/icons-react';
 
 function Demo() {

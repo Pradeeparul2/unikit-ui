@@ -119,4 +119,4 @@ export const Overlay = polymorphicFactory<OverlayFactory>((_props, ref) => {
 });
 
 Overlay.classes = classes;
-Overlay.displayName = '@mantine/core/Overlay';
+Overlay.displayName = '@pradeeparul2/mantine-core/Overlay';

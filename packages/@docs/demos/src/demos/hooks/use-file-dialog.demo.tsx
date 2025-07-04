@@ -1,10 +1,10 @@
-import { Button, Group, List } from '@mantine/core';
-import { useFileDialog } from '@mantine/hooks';
+import { Button, Group, List } from '@pradeeparul2/mantine-core';
+import { useFileDialog } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button, Group, List } from '@mantine/core';
-import { useFileDialog } from '@mantine/hooks';
+import { Button, Group, List } from '@pradeeparul2/mantine-core';
+import { useFileDialog } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const fileDialog = useFileDialog();

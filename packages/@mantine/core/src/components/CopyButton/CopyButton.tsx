@@ -1,4 +1,4 @@
-import { useClipboard } from '@mantine/hooks';
+import { useClipboard } from '@pradeeparul2/mantine-hooks';
 import { useProps } from '../../core';
 
 export interface CopyButtonProps {
@@ -23,4 +23,4 @@ export function CopyButton(props: CopyButtonProps) {
   return <>{children({ copy, copied: clipboard.copied, ...others })}</>;
 }
 
-CopyButton.displayName = '@mantine/core/CopyButton';
+CopyButton.displayName = '@pradeeparul2/mantine-core/CopyButton';

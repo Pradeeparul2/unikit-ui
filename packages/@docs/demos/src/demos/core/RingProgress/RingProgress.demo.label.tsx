@@ -1,9 +1,9 @@
+import { ActionIcon, Center, Group, RingProgress, Text } from '@pradeeparul2/mantine-core';
 import { IconCheck } from '@tabler/icons-react';
-import { ActionIcon, Center, Group, RingProgress, Text } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { ActionIcon, RingProgress, Text, Center } from '@mantine/core';
+import { ActionIcon, RingProgress, Text, Center } from '@pradeeparul2/mantine-core';
 import { IconCheck } from '@tabler/icons-react';
 
 function Demo() {

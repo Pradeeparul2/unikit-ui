@@ -1,9 +1,9 @@
-import { Input } from '@mantine/core';
+import { Input } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Styles.demo.customVariant.module.css';
 
 const code = `
-import { Input, MantineProvider, createTheme } from '@mantine/core';
+import { Input, MantineProvider, createTheme } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 // It is better to add new variants in theme.components

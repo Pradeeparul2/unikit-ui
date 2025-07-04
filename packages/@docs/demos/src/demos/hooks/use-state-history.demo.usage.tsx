@@ -1,10 +1,10 @@
-import { Button, Code, Group, Text } from '@mantine/core';
-import { useStateHistory } from '@mantine/hooks';
+import { Button, Code, Group, Text } from '@pradeeparul2/mantine-core';
+import { useStateHistory } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button, Code, Group, Text } from '@mantine/core';
-import { useStateHistory } from '@mantine/hooks';
+import { Button, Code, Group, Text } from '@pradeeparul2/mantine-core';
+import { useStateHistory } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const [value, handlers, history] = useStateHistory(1);

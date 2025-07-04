@@ -1,4 +1,4 @@
-import { useDisclosure, useId } from '@mantine/hooks';
+import { useDisclosure, useId } from '@pradeeparul2/mantine-hooks';
 import { ExtendComponent, Factory, useProps } from '../../../core';
 import { FloatingAxesOffsets, FloatingPosition, useDelayedHover } from '../../Floating';
 import { __PopoverProps, Popover } from '../../Popover';
@@ -79,7 +79,7 @@ export function MenuSub(_props: MenuSubProps) {
 }
 
 MenuSub.extend = (input: ExtendComponent<MenuSubFactory>) => input;
-MenuSub.displayName = '@mantine/core/MenuSub';
+MenuSub.displayName = '@pradeeparul2/mantine-core/MenuSub';
 MenuSub.Target = MenuSubTarget;
 MenuSub.Dropdown = MenuSubDropdown;
 MenuSub.Item = MenuSubItem;

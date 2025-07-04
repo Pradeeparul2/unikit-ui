@@ -1,9 +1,9 @@
-import { SimpleGrid } from '@mantine/core';
+import { SimpleGrid } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { defaultItems } from './_demo-item';
 
 const code = `
-import { SimpleGrid } from '@mantine/core';
+import { SimpleGrid } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

@@ -1,12 +1,12 @@
 /* eslint-disable no-console */
 
-import { Button, Group, TextInput } from '@mantine/core';
-import { isEmail, isNotEmpty, useForm } from '@mantine/form';
+import { Button, Group, TextInput } from '@pradeeparul2/mantine-core';
+import { isEmail, isNotEmpty, useForm } from '@pradeeparul2/mantine-form';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button, Group, TextInput } from '@mantine/core';
-import { isEmail, isNotEmpty, useForm } from '@mantine/form';
+import { Button, Group, TextInput } from '@pradeeparul2/mantine-core';
+import { isEmail, isNotEmpty, useForm } from '@pradeeparul2/mantine-form';
 
 function Demo() {
   const form = useForm({

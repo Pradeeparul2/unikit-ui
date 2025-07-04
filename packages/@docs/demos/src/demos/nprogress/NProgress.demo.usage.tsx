@@ -1,10 +1,10 @@
-import { Button, Group } from '@mantine/core';
-import { NavigationProgress, nprogress } from '@mantine/nprogress';
+import { Button, Group } from '@pradeeparul2/mantine-core';
+import { NavigationProgress, nprogress } from '@pradeeparul2/mantine-nprogress';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button, Group } from '@mantine/core';
-import { nprogress, NavigationProgress } from '@mantine/nprogress';
+import { Button, Group } from '@pradeeparul2/mantine-core';
+import { nprogress, NavigationProgress } from '@pradeeparul2/mantine-nprogress';
 
 function Demo() {
   return (

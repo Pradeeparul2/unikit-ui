@@ -28,4 +28,4 @@ export function HoverCardDropdown(props: HoverCardDropdownProps) {
   );
 }
 
-HoverCardDropdown.displayName = '@mantine/core/HoverCardDropdown';
+HoverCardDropdown.displayName = '@pradeeparul2/mantine-core/HoverCardDropdown';

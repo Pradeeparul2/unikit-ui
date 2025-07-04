@@ -1,4 +1,4 @@
-import { Button, Tooltip } from '@mantine/core';
+import { Button, Tooltip } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: any) {
@@ -10,7 +10,7 @@ function Wrapper(props: any) {
 }
 
 const code = `
-import { Tooltip, Button } from '@mantine/core';
+import { Tooltip, Button } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

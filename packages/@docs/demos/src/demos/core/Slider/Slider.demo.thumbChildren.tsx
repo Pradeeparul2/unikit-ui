@@ -1,9 +1,9 @@
+import { RangeSlider, Slider } from '@pradeeparul2/mantine-core';
 import { IconHeart, IconHeartBroken } from '@tabler/icons-react';
-import { RangeSlider, Slider } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Slider, RangeSlider } from '@mantine/core';
+import { Slider, RangeSlider } from '@pradeeparul2/mantine-core';
 import { IconHeart, IconHeartBroken } from '@tabler/icons-react';
 
 function Demo() {

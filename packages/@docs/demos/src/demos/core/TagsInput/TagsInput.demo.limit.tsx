@@ -1,8 +1,8 @@
-import { TagsInput } from '@mantine/core';
+import { TagsInput } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { TagsInput } from '@mantine/core';
+import { TagsInput } from '@pradeeparul2/mantine-core';
 
 const largeData = Array(100_000)
   .fill(0)

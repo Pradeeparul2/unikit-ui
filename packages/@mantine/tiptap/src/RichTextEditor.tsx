@@ -1,5 +1,4 @@
 import { useMemo } from 'react';
-import { Editor } from '@tiptap/react';
 import {
   Box,
   BoxProps,
@@ -9,7 +8,8 @@ import {
   StylesApiProps,
   useProps,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
+import { Editor } from '@tiptap/react';
 import { DEFAULT_LABELS, RichTextEditorLabels } from './labels';
 import { RichTextEditorProvider } from './RichTextEditor.context';
 import { RichTextEditorContent } from './RichTextEditorContent/RichTextEditorContent';

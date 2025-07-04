@@ -7,7 +7,7 @@ import {
   MantineProvider,
   MantineTheme,
   SegmentedControl,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { createStyles, EmotionHelpers } from './create-styles';
 import { emotionTransform } from './emotion-transform';
 import { Global } from './Global';

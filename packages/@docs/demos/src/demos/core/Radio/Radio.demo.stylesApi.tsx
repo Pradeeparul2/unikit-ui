@@ -1,9 +1,9 @@
-import { Radio } from '@mantine/core';
+import { Radio } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { RadioStylesApi } from '@docs/styles-api';
 
 const code = `
-import { Radio } from '@mantine/core';
+import { Radio } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

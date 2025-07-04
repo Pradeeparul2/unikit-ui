@@ -1,10 +1,10 @@
 import { useRef, useState } from 'react';
-import { Button, FileButton, Group, Text } from '@mantine/core';
+import { Button, FileButton, Group, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState, useRef } from 'react';
-import { FileButton, Button, Group, Text } from '@mantine/core';
+import { FileButton, Button, Group, Text } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [file, setFile] = useState<File | null>(null);

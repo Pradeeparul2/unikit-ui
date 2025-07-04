@@ -1,4 +1,4 @@
-import type { __BaseInputProps, __InputStylesNames } from '@mantine/core';
+import type { __BaseInputProps, __InputStylesNames } from '@pradeeparul2/mantine-core';
 
 export const inputDefaultProps: __BaseInputProps = {
   label: 'test-label',

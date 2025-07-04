@@ -1,6 +1,6 @@
-import { Button, Code, Text } from '@mantine/core';
-import { useCounter } from '@mantine/hooks';
-import { notifications, useNotifications } from '@mantine/notifications';
+import { Button, Code, Text } from '@pradeeparul2/mantine-core';
+import { useCounter } from '@pradeeparul2/mantine-hooks';
+import { notifications, useNotifications } from '@pradeeparul2/mantine-notifications';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `

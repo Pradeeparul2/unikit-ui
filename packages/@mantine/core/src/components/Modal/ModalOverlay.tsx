@@ -34,4 +34,4 @@ export const ModalOverlay = factory<ModalOverlayFactory>((_props, ref) => {
 });
 
 ModalOverlay.classes = classes;
-ModalOverlay.displayName = '@mantine/core/ModalOverlay';
+ModalOverlay.displayName = '@pradeeparul2/mantine-core/ModalOverlay';

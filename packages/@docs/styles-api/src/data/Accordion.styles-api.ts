@@ -1,4 +1,4 @@
-import type { AccordionFactory } from '@mantine/core';
+import type { AccordionFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const AccordionStylesApi: StylesApiData<AccordionFactory> = {

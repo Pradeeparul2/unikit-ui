@@ -1,8 +1,8 @@
-import { Group, Switch } from '@mantine/core';
+import { Group, Switch } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Switch, Group } from '@mantine/core';
+import { Switch, Group } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

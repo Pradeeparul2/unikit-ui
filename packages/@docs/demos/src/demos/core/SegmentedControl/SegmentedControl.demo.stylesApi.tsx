@@ -1,9 +1,9 @@
-import { SegmentedControl } from '@mantine/core';
+import { SegmentedControl } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { SegmentedControlStylesApi } from '@docs/styles-api';
 
 const code = `
-import { SegmentedControl } from '@mantine/core';
+import { SegmentedControl } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <SegmentedControl{{props}} data={['React', 'Angular', 'Vue']} />;

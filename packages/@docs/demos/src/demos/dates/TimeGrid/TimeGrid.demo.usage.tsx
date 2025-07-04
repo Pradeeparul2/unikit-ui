@@ -1,8 +1,8 @@
-import { getTimeRange, TimeGrid } from '@mantine/dates';
+import { getTimeRange, TimeGrid } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { getTimeRange, TimeGrid } from '@mantine/dates';
+import { getTimeRange, TimeGrid } from '@pradeeparul2/mantine-dates';
 
 
 function Demo() {

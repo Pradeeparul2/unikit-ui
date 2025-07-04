@@ -110,7 +110,7 @@ export * as FloatingIndicatorDemos from './demos/core/FloatingIndicator';
 export * as TreeDemos from './demos/core/Tree';
 export * as AngleSliderDemos from './demos/core/AngleSlider';
 
-// @mantine/dates
+// @pradeeparul2/mantine-dates
 export * as YearPickerDemos from './demos/dates/YearPicker';
 export * as YearPickerInputDemos from './demos/dates/YearPickerInput';
 export * as MonthPickerDemos from './demos/dates/MonthPicker';
@@ -126,7 +126,7 @@ export * as TimePickerDemos from './demos/dates/TimePicker';
 export * as TimeValueDemos from './demos/dates/TimeValue';
 export * as TimeGridDemos from './demos/dates/TimeGrid';
 
-// @mantine/charts
+// @pradeeparul2/mantine-charts
 export * as AreaChartDemos from './demos/charts/AreaChart';
 export * as BarChartDemos from './demos/charts/BarChart';
 export * as LineChartDemos from './demos/charts/LineChart';

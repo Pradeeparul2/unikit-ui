@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { useId, useUncontrolled } from '@mantine/hooks';
+import { useId, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   BoxProps,
   ElementProps,
@@ -449,4 +449,4 @@ export const MultiSelect = factory<MultiSelectFactory>((_props, ref) => {
 });
 
 MultiSelect.classes = { ...InputBase.classes, ...Combobox.classes };
-MultiSelect.displayName = '@mantine/core/MultiSelect';
+MultiSelect.displayName = '@pradeeparul2/mantine-core/MultiSelect';

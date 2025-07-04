@@ -1,9 +1,9 @@
+import { SegmentedControl, VisuallyHidden } from '@pradeeparul2/mantine-core';
 import { IconCode, IconExternalLink, IconEye } from '@tabler/icons-react';
-import { SegmentedControl, VisuallyHidden } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { SegmentedControl, VisuallyHidden } from '@mantine/core';
+import { SegmentedControl, VisuallyHidden } from '@pradeeparul2/mantine-core';
 import { IconEye, IconCode, IconExternalLink } from '@tabler/icons-react';
 
 function Demo() {

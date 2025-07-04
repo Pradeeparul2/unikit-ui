@@ -1,8 +1,8 @@
-import { Anchor, Group } from '@mantine/core';
+import { Anchor, Group } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Anchor, Group } from '@mantine/core';
+import { Anchor, Group } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

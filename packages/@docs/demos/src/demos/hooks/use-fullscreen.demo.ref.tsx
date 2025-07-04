@@ -1,10 +1,10 @@
-import { Button, Stack } from '@mantine/core';
-import { useFullscreen } from '@mantine/hooks';
+import { Button, Stack } from '@pradeeparul2/mantine-core';
+import { useFullscreen } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const refCode = `
-import { useFullscreen } from '@mantine/hooks';
-import { Button, Stack } from '@mantine/core';
+import { useFullscreen } from '@pradeeparul2/mantine-hooks';
+import { Button, Stack } from '@pradeeparul2/mantine-core';
 
 function RefDemo() {
   const { ref, toggle, fullscreen } = useFullscreen();

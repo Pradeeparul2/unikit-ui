@@ -1,10 +1,10 @@
 import { useState } from 'react';
-import { HueSlider, Text } from '@mantine/core';
+import { HueSlider, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { HueSlider, Text } from '@mantine/core';
+import { HueSlider, Text } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [value, onChange] = useState(250);

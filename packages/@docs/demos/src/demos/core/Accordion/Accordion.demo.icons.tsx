@@ -1,10 +1,10 @@
+import { Accordion } from '@pradeeparul2/mantine-core';
 import { IconCameraSelfie, IconPhoto, IconPrinter } from '@tabler/icons-react';
-import { Accordion } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { IconPhoto, IconPrinter, IconCameraSelfie } from '@tabler/icons-react';
-import { Accordion } from '@mantine/core';
+import { Accordion } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

@@ -1,4 +1,4 @@
-import { Tabs, TabsListProps } from '@mantine/core';
+import { Tabs, TabsListProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: TabsListProps) {
@@ -14,7 +14,7 @@ function Wrapper(props: TabsListProps) {
 }
 
 const code = `
-import { Tabs } from '@mantine/core';
+import { Tabs } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

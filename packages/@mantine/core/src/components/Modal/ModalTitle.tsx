@@ -34,4 +34,4 @@ export const ModalTitle = factory<ModalTitleFactory>((_props, ref) => {
 });
 
 ModalTitle.classes = classes;
-ModalTitle.displayName = '@mantine/core/ModalTitle';
+ModalTitle.displayName = '@pradeeparul2/mantine-core/ModalTitle';

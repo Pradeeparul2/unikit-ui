@@ -1,12 +1,12 @@
 /* eslint-disable no-console */
 
-import { Box, Button, Group, PasswordInput } from '@mantine/core';
-import { useForm } from '@mantine/form';
+import { Box, Button, Group, PasswordInput } from '@pradeeparul2/mantine-core';
+import { useForm } from '@pradeeparul2/mantine-form';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useForm } from '@mantine/form';
-import { PasswordInput, Group, Button, Box } from '@mantine/core';
+import { useForm } from '@pradeeparul2/mantine-form';
+import { PasswordInput, Group, Button, Box } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const form = useForm({

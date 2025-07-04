@@ -1,4 +1,4 @@
-import type { SpotlightFactory } from '@mantine/spotlight';
+import type { SpotlightFactory } from '@pradeeparul2/mantine-spotlight';
 import type { StylesApiData } from '../types';
 import { ModalStylesApi } from './Modal.styles-api';
 

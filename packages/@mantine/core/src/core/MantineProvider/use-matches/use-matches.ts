@@ -1,4 +1,4 @@
-import { useMediaQuery, UseMediaQueryOptions } from '@mantine/hooks';
+import { useMediaQuery, UseMediaQueryOptions } from '@pradeeparul2/mantine-hooks';
 import { useMantineTheme } from '../MantineThemeProvider';
 import { MantineBreakpoint } from '../theme.types';
 

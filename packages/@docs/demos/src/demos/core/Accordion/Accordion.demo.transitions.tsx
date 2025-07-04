@@ -2,7 +2,7 @@ import { MantineDemo } from '@mantinex/demo';
 import { BaseDemo } from './_base';
 
 const getCode = (prop: string) => `
-import { Accordion } from '@mantine/core';
+import { Accordion } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

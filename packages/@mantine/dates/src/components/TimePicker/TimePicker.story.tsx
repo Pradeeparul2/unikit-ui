@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { ActionIcon, Button, Group, Stack } from '@mantine/core';
+import { ActionIcon, Button, Group, Stack } from '@pradeeparul2/mantine-core';
 import { TimePicker } from './TimePicker';
 import { getTimeRange } from './utils/get-time-range/get-time-range';
 

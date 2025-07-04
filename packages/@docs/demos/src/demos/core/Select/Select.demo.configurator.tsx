@@ -1,9 +1,9 @@
-import { Select } from '@mantine/core';
+import { Select } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { inputControls } from '../../../shared';
 
 const code = `
-import { Select } from '@mantine/core';
+import { Select } from '@pradeeparul2/mantine-core';
 
 
 function Demo() {

@@ -6,7 +6,7 @@ import {
   factory,
   Factory,
   useProps,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { useSpotlightContext } from './Spotlight.context';
 import classes from './Spotlight.module.css';
 
@@ -53,4 +53,4 @@ export const SpotlightActionsGroup = factory<SpotlightActionsGroupFactory>((prop
 });
 
 SpotlightActionsGroup.classes = classes;
-SpotlightActionsGroup.displayName = '@mantine/core/SpotlightActionsGroup';
+SpotlightActionsGroup.displayName = '@pradeeparul2/mantine-core/SpotlightActionsGroup';

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Button, Group, Modal, Text } from '@mantine/core';
+import { Button, Group, Modal, Text } from '@pradeeparul2/mantine-core';
 import {
   closeAllModals,
   closeModal,

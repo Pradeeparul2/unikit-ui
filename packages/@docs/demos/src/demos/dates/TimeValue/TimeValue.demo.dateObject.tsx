@@ -1,10 +1,10 @@
-import { Text } from '@mantine/core';
-import { TimeValue } from '@mantine/dates';
+import { Text } from '@pradeeparul2/mantine-core';
+import { TimeValue } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Text } from '@mantine/core';
-import { TimeValue } from '@mantine/dates';
+import { Text } from '@pradeeparul2/mantine-core';
+import { TimeValue } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   return (

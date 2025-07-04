@@ -1,4 +1,4 @@
-import { useUncontrolled } from '@mantine/hooks';
+import { useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import { DataAttributes, factory, Factory, MantineSize, useProps } from '../../../core';
 import { Input, InputWrapperProps, InputWrapperStylesNames } from '../../Input';
 import { InputsGroupFieldset } from '../../InputsGroupFieldset';
@@ -75,4 +75,4 @@ export const CheckboxGroup = factory<CheckboxGroupFactory>((props, ref) => {
 });
 
 CheckboxGroup.classes = Input.Wrapper.classes;
-CheckboxGroup.displayName = '@mantine/core/CheckboxGroup';
+CheckboxGroup.displayName = '@pradeeparul2/mantine-core/CheckboxGroup';

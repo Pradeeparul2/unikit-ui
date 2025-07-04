@@ -1,13 +1,21 @@
+import {
+  ActionIcon,
+  Box,
+  Button,
+  Group,
+  Switch,
+  Text,
+  TextInput,
+} from '@pradeeparul2/mantine-core';
+import { useForm } from '@pradeeparul2/mantine-form';
+import { randomId } from '@pradeeparul2/mantine-hooks';
 import { IconTrash } from '@tabler/icons-react';
-import { ActionIcon, Box, Button, Group, Switch, Text, TextInput } from '@mantine/core';
-import { useForm } from '@mantine/form';
-import { randomId } from '@mantine/hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useForm } from '@mantine/form';
-import { TextInput, Switch, Group, ActionIcon, Box, Text, Button } from '@mantine/core';
-import { randomId } from '@mantine/hooks';
+import { useForm } from '@pradeeparul2/mantine-form';
+import { TextInput, Switch, Group, ActionIcon, Box, Text, Button } from '@pradeeparul2/mantine-core';
+import { randomId } from '@pradeeparul2/mantine-hooks';
 import { IconTrash } from '@tabler/icons-react';
 
 function Demo() {

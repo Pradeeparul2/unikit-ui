@@ -1,4 +1,4 @@
-import { useId, useUncontrolled } from '@mantine/hooks';
+import { useId, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -240,5 +240,5 @@ export const Switch = factory<SwitchFactory>((_props, ref) => {
 });
 
 Switch.classes = { ...classes, ...InlineInputClasses };
-Switch.displayName = '@mantine/core/Switch';
+Switch.displayName = '@pradeeparul2/mantine-core/Switch';
 Switch.Group = SwitchGroup;

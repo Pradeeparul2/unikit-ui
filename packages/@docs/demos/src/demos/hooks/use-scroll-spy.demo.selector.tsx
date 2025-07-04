@@ -1,10 +1,10 @@
-import { Text, UnstyledButton } from '@mantine/core';
-import { useScrollSpy } from '@mantine/hooks';
+import { Text, UnstyledButton } from '@pradeeparul2/mantine-core';
+import { useScrollSpy } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Text, UnstyledButton } from '@mantine/core';
-import { useScrollSpy } from '@mantine/hooks';
+import { Text, UnstyledButton } from '@pradeeparul2/mantine-core';
+import { useScrollSpy } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const spy = useScrollSpy({

@@ -1,4 +1,4 @@
-import { ScrollArea, SimpleGrid } from '@mantine/core';
+import { ScrollArea, SimpleGrid } from '@pradeeparul2/mantine-core';
 import { useTimePickerContext } from '../TimePicker.context';
 import {
   TimePickerAmPmLabels,

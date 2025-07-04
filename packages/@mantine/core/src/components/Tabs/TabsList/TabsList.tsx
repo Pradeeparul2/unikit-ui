@@ -73,4 +73,4 @@ export const TabsList = factory<TabsListFactory>((_props, ref) => {
 });
 
 TabsList.classes = classes;
-TabsList.displayName = '@mantine/core/TabsList';
+TabsList.displayName = '@pradeeparul2/mantine-core/TabsList';

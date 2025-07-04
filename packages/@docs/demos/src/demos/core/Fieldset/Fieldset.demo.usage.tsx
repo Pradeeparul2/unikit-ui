@@ -1,8 +1,8 @@
-import { Fieldset, TextInput } from '@mantine/core';
+import { Fieldset, TextInput } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Fieldset, TextInput } from '@mantine/core';
+import { Fieldset, TextInput } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

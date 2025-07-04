@@ -161,4 +161,4 @@ export const Indicator = factory<IndicatorFactory>((_props, ref) => {
 });
 
 Indicator.classes = classes;
-Indicator.displayName = '@mantine/core/Indicator';
+Indicator.displayName = '@pradeeparul2/mantine-core/Indicator';

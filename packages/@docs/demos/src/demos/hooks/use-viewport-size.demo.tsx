@@ -1,9 +1,9 @@
-import { Text } from '@mantine/core';
-import { useViewportSize } from '@mantine/hooks';
+import { Text } from '@pradeeparul2/mantine-core';
+import { useViewportSize } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useViewportSize } from '@mantine/hooks';
+import { useViewportSize } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const { height, width } = useViewportSize();

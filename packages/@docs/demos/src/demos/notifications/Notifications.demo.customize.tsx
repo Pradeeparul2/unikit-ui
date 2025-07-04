@@ -1,11 +1,11 @@
-import { Button, Group } from '@mantine/core';
-import { notifications } from '@mantine/notifications';
+import { Button, Group } from '@pradeeparul2/mantine-core';
+import { notifications } from '@pradeeparul2/mantine-notifications';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Notifications.demo.customize.module.css';
 
 const code = `
-import { Button, Group } from '@mantine/core';
-import { notifications } from '@mantine/notifications';
+import { Button, Group } from '@pradeeparul2/mantine-core';
+import { notifications } from '@pradeeparul2/mantine-notifications';
 import classes from './Demo.module.css';
 
 function Demo() {

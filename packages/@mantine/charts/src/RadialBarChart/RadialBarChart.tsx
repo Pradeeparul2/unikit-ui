@@ -1,15 +1,5 @@
 import { useState } from 'react';
 import {
-  Legend,
-  LegendProps,
-  RadialBar,
-  RadialBarProps,
-  RadialBarChart as ReChartsRadialBarChart,
-  ResponsiveContainer,
-  Tooltip,
-  TooltipProps,
-} from 'recharts';
-import {
   Box,
   BoxProps,
   ColorSwatch,
@@ -25,7 +15,17 @@ import {
   useProps,
   useResolvedStylesApi,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
+import {
+  Legend,
+  LegendProps,
+  RadialBar,
+  RadialBarProps,
+  RadialBarChart as ReChartsRadialBarChart,
+  ResponsiveContainer,
+  Tooltip,
+  TooltipProps,
+} from 'recharts';
 import { ChartLegend } from '../ChartLegend';
 import classes from './RadialBarChart.module.css';
 
@@ -241,5 +241,5 @@ export const RadialBarChart = factory<RadialBarChartFactory>((_props, ref) => {
   );
 });
 
-RadialBarChart.displayName = '@mantine/core/RadialBarChart';
+RadialBarChart.displayName = '@pradeeparul2/mantine-core/RadialBarChart';
 RadialBarChart.classes = classes;

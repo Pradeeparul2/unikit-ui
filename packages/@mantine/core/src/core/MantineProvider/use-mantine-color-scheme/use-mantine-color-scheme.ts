@@ -1,5 +1,5 @@
 import { useCallback, useContext, useEffect, useRef } from 'react';
-import { useColorScheme } from '@mantine/hooks';
+import { useColorScheme } from '@pradeeparul2/mantine-hooks';
 import { noop } from '../../utils';
 import { MantineContext, useMantineStyleNonce } from '../Mantine.context';
 import { MantineColorScheme } from '../theme.types';
@@ -27,7 +27,7 @@ export function useMantineColorScheme({ keepTransitions }: { keepTransitions?: b
   const nonceValue = useRef(nonce?.());
 
   if (!ctx) {
-    throw new Error('[@mantine/core] MantineProvider was not found in tree');
+    throw new Error('[@pradeeparul2/mantine-core] MantineProvider was not found in tree');
   }
 
   const setColorScheme = (value: MantineColorScheme) => {

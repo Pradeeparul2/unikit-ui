@@ -319,4 +319,4 @@ Input.Error = InputError;
 Input.Description = InputDescription;
 Input.Placeholder = InputPlaceholder;
 Input.ClearButton = InputClearButton;
-Input.displayName = '@mantine/core/Input';
+Input.displayName = '@pradeeparul2/mantine-core/Input';

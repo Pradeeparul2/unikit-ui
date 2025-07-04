@@ -1,11 +1,11 @@
 import 'dayjs/locale/ru';
 
-import { DatePickerInput, DatesProvider, MonthPickerInput } from '@mantine/dates';
+import { DatePickerInput, DatesProvider, MonthPickerInput } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import 'dayjs/locale/ru';
-import { DatesProvider, MonthPickerInput, DatePickerInput } from '@mantine/dates';
+import { DatesProvider, MonthPickerInput, DatePickerInput } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   return (

@@ -1,10 +1,10 @@
 import { useState } from 'react';
-import { Button, Flex, Paper, Transition } from '@mantine/core';
+import { Button, Flex, Paper, Transition } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { Button, Flex, Paper, Transition } from '@mantine/core';
+import { Button, Flex, Paper, Transition } from '@pradeeparul2/mantine-core';
 
 export function Demo() {
   const [opened, setOpened] = useState(false);

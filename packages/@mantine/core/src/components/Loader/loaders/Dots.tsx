@@ -12,4 +12,4 @@ export const Dots: MantineLoaderComponent = forwardRef(({ className, ...others }
   </Box>
 ));
 
-Dots.displayName = '@mantine/core/Dots';
+Dots.displayName = '@pradeeparul2/mantine-core/Dots';

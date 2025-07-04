@@ -45,4 +45,4 @@ export const ModalBaseOverlay = forwardRef<HTMLDivElement, ModalBaseOverlayProps
   }
 );
 
-ModalBaseOverlay.displayName = '@mantine/core/ModalBaseOverlay';
+ModalBaseOverlay.displayName = '@pradeeparul2/mantine-core/ModalBaseOverlay';

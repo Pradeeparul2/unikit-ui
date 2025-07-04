@@ -1,12 +1,12 @@
 import dayjs from 'dayjs';
 import { useState } from 'react';
-import { DateFormatter } from '@mantine/dates';
+import { DateFormatter } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const getCode = (name: string) => `
 import dayjs from 'dayjs';
 import { useState } from 'react';
-import { ${name}, DateFormatter } from '@mantine/dates';
+import { ${name}, DateFormatter } from '@pradeeparul2/mantine-dates';
 
 const formatter: DateFormatter = ({ type, date, locale, format }) => {
   if (type === 'multiple' && Array.isArray(date)) {
@@ -78,7 +78,7 @@ export function getPickerInputValueFormatterDemo(Component: React.FC<any>): Mant
     type: 'code',
     centered: true,
     maxWidth: 400,
-    code: getCode(Component.displayName!.replace('@mantine/dates/', '')),
+    code: getCode(Component.displayName!.replace('@pradeeparul2/mantine-dates/', '')),
     component: getDemo(Component),
   };
 }

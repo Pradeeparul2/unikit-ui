@@ -98,5 +98,5 @@ export const Card = polymorphicFactory<CardFactory>((_props, ref) => {
 });
 
 Card.classes = classes;
-Card.displayName = '@mantine/core/Card';
+Card.displayName = '@pradeeparul2/mantine-core/Card';
 Card.Section = CardSection;

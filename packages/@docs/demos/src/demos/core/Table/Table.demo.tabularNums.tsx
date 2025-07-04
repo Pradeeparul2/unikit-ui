@@ -1,8 +1,8 @@
-import { NumberFormatter, Table } from '@mantine/core';
+import { NumberFormatter, Table } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { NumberFormatter, Table } from '@mantine/core';
+import { NumberFormatter, Table } from '@pradeeparul2/mantine-core';
 
 const data = [
   { product: 'Apples', unitsSold: 2214411234 },

@@ -1,4 +1,4 @@
-import { Box, Paper, Text } from '@mantine/core';
+import { Box, Paper, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: any) {
@@ -16,7 +16,7 @@ function Wrapper(props: any) {
 }
 
 const code = `
-import { Text, Paper } from '@mantine/core';
+import { Text, Paper } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

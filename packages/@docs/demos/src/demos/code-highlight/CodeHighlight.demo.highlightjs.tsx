@@ -1,12 +1,12 @@
 // !!! demo not used on mantine.dev to reduce bundle size
 // used only for reference in development and documentation
-import hljs from 'highlight.js/lib/core';
-import tsLang from 'highlight.js/lib/languages/typescript';
 import {
   CodeHighlight,
   CodeHighlightAdapterProvider,
   createHighlightJsAdapter,
-} from '@mantine/code-highlight';
+} from '@pradeeparul2/mantine-code-highlight';
+import hljs from 'highlight.js/lib/core';
+import tsLang from 'highlight.js/lib/languages/typescript';
 import { MantineDemo } from '@mantinex/demo';
 
 hljs.registerLanguage('typescript', tsLang);
@@ -27,7 +27,7 @@ export function filterProps<T extends Record<string, any>>(props: T) {
 `;
 
 const code = `
-import { CodeHighlight } from '@mantine/code-highlight';
+import { CodeHighlight } from '@pradeeparul2/mantine-code-highlight';
 
 const exampleCode = \`${exampleCode}\`;
 

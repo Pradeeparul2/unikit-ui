@@ -1,4 +1,4 @@
-import { LineChart } from '@mantine/charts';
+import { LineChart } from '@pradeeparul2/mantine-charts';
 import { MantineDemo } from '@mantinex/demo';
 import { data, dataCode } from './_data';
 import classes from './LineChart.demo.gridColor.module.css';
@@ -18,7 +18,7 @@ const cssCode = `
 `;
 
 const code = `
-import { LineChart } from '@mantine/charts';
+import { LineChart } from '@pradeeparul2/mantine-charts';
 import { data } from './data';
 import classes from './Demo.module.css';
 

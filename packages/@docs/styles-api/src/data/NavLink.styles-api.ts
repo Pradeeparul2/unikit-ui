@@ -1,4 +1,4 @@
-import type { NavLinkFactory } from '@mantine/core';
+import type { NavLinkFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const NavLinkStylesApi: StylesApiData<NavLinkFactory> = {

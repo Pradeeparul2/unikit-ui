@@ -1,9 +1,9 @@
-import { Box, ScrollArea } from '@mantine/core';
+import { Box, ScrollArea } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { Content } from './_content';
 
 const code = `
-import { ScrollArea, Box } from '@mantine/core';
+import { ScrollArea, Box } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

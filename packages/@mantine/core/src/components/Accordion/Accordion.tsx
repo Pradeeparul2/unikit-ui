@@ -1,4 +1,4 @@
-import { useId, useUncontrolled } from '@mantine/hooks';
+import { useId, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -207,7 +207,7 @@ const extendAccordion = (c: ExtendComponent<AccordionFactory>): MantineThemeComp
 Accordion.extend = extendAccordion;
 Accordion.withProps = getWithProps<AccordionProps, AccordionProps>(Accordion as any);
 Accordion.classes = classes;
-Accordion.displayName = '@mantine/core/Accordion';
+Accordion.displayName = '@pradeeparul2/mantine-core/Accordion';
 Accordion.Item = AccordionItem;
 Accordion.Panel = AccordionPanel;
 Accordion.Control = AccordionControl;

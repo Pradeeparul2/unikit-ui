@@ -1,4 +1,4 @@
-import { ColorPicker, ColorPickerProps, DEFAULT_THEME } from '@mantine/core';
+import { ColorPicker, ColorPickerProps, DEFAULT_THEME } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: ColorPickerProps) {
@@ -14,7 +14,7 @@ function Wrapper(props: ColorPickerProps) {
 }
 
 const code = `
-import { ColorPicker } from '@mantine/core';
+import { ColorPicker } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

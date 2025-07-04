@@ -12,8 +12,8 @@ import {
   useProps,
   useResolvedStylesApi,
   useStyles,
-} from '@mantine/core';
-import { useDidUpdate, useDisclosure, useMergedRef } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { useDidUpdate, useDisclosure, useMergedRef } from '@pradeeparul2/mantine-hooks';
 import { useUncontrolledDates } from '../../hooks';
 import { CalendarLevel, DateStringValue, DateValue } from '../../types';
 import { assignTime, clampDate, getDefaultClampedDate } from '../../utils';

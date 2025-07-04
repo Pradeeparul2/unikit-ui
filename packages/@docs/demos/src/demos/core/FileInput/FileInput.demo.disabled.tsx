@@ -1,8 +1,8 @@
-import { FileInput } from '@mantine/core';
+import { FileInput } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { FileInput } from '@mantine/core';
+import { FileInput } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <FileInput disabled label="Disabled input" placeholder="Disabled input" />;

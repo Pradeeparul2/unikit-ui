@@ -23,4 +23,4 @@ export function NativeSelectOption({ data }: NativeSelectOptionProps) {
   );
 }
 
-NativeSelectOption.displayName = '@mantine/core/NativeSelectOption';
+NativeSelectOption.displayName = '@pradeeparul2/mantine-core/NativeSelectOption';

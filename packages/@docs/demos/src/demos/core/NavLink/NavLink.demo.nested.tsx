@@ -1,9 +1,9 @@
+import { NavLink } from '@pradeeparul2/mantine-core';
 import { IconFingerprint, IconGauge } from '@tabler/icons-react';
-import { NavLink } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { NavLink } from '@mantine/core';
+import { NavLink } from '@pradeeparul2/mantine-core';
 import { IconGauge, IconFingerprint } from '@tabler/icons-react';
 
 function Demo() {

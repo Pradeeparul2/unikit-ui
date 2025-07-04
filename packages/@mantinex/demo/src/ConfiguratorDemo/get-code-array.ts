@@ -1,4 +1,4 @@
-import { CodeHighlightDefaultLanguage } from '@mantine/code-highlight';
+import { CodeHighlightDefaultLanguage } from '@pradeeparul2/mantine-code-highlight';
 import { clearProps } from './clear-props';
 import type { ConfiguratorControlOptions } from './ConfiguratorDemo';
 import { injectProps } from './inject-props';

@@ -1,10 +1,10 @@
 import { useState } from 'react';
-import { useMove } from '@mantine/hooks';
+import { useMove } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { useMove } from '@mantine/hooks';
+import { useMove } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const [value, setValue] = useState({ x: 0.2, y: 0.6 });

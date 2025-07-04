@@ -1,4 +1,4 @@
-import { Chip, ChipProps } from '@mantine/core';
+import { Chip, ChipProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: ChipProps) {
@@ -10,7 +10,7 @@ function Wrapper(props: ChipProps) {
 }
 
 const code = `
-import { Chip } from '@mantine/core';
+import { Chip } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <Chip defaultChecked{{props}}>Awesome chip</Chip>

@@ -5,7 +5,7 @@ import {
   useMergedRef,
   useMove,
   UseMovePosition,
-} from '@mantine/hooks';
+} from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -167,4 +167,4 @@ export const ColorSlider = factory<ColorSliderFactory>((_props, ref) => {
   );
 });
 
-ColorSlider.displayName = '@mantine/core/ColorSlider';
+ColorSlider.displayName = '@pradeeparul2/mantine-core/ColorSlider';

@@ -1,8 +1,8 @@
-import { Container, createTheme, MantineThemeProvider, rem } from '@mantine/core';
+import { Container, createTheme, MantineThemeProvider, rem } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Container, MantineProvider, createTheme, rem } from '@mantine/core';
+import { Container, MantineProvider, createTheme, rem } from '@pradeeparul2/mantine-core';
 
 const CONTAINER_SIZES: Record<string, number> = {
   xxs: 300,

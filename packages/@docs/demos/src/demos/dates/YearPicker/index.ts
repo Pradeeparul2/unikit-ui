@@ -1,4 +1,4 @@
-import { YearPicker } from '@mantine/dates';
+import { YearPicker } from '@pradeeparul2/mantine-dates';
 import { getSharedPickerDemos } from '../_shared';
 
 export const { usage, multiple, deselect, range, singleRange, numberOfColumns, sizeConfigurator } =

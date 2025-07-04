@@ -10,6 +10,7 @@ import { getPackagesBuildOrder } from './get-packages-build-order';
 const logger = createLogger('build-all-packages');
 
 export async function buildAllPackages() {
+  logger.log('Getting all packages...');
   const packages = await getPackagesBuildOrder();
 
   const startTime = Date.now();

@@ -92,4 +92,4 @@ export const InputError = factory<InputErrorFactory>((_props, ref) => {
 });
 
 InputError.classes = classes;
-InputError.displayName = '@mantine/core/InputError';
+InputError.displayName = '@pradeeparul2/mantine-core/InputError';

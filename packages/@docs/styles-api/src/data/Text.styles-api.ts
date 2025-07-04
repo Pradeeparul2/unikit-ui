@@ -1,4 +1,4 @@
-import type { TextFactory } from '@mantine/core';
+import type { TextFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const TextStylesApi: StylesApiData<TextFactory> = {

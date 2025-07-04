@@ -1,10 +1,10 @@
-import { Badge } from '@mantine/core';
-import { useIdle } from '@mantine/hooks';
+import { Badge } from '@pradeeparul2/mantine-core';
+import { useIdle } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const initialStateCode = `
-import { Badge } from '@mantine/core';
-import { useIdle } from '@mantine/hooks';
+import { Badge } from '@pradeeparul2/mantine-core';
+import { useIdle } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const idle = useIdle(2000, { initialState: false });

@@ -1,9 +1,9 @@
+import { Checkbox, CheckboxProps } from '@pradeeparul2/mantine-core';
 import { IconBiohazard, IconRadioactive } from '@tabler/icons-react';
-import { Checkbox, CheckboxProps } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Checkbox, CheckboxProps } from '@mantine/core';
+import { Checkbox, CheckboxProps } from '@pradeeparul2/mantine-core';
 import { IconBiohazard, IconRadioactive } from '@tabler/icons-react';
 
 const CheckboxIcon: CheckboxProps['icon'] = ({ indeterminate, ...others }) =>

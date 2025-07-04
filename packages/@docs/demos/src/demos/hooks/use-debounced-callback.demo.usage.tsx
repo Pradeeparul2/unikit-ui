@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import { Loader, Text, TextInput } from '@mantine/core';
-import { useDebouncedCallback } from '@mantine/hooks';
+import { Loader, Text, TextInput } from '@pradeeparul2/mantine-core';
+import { useDebouncedCallback } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { Loader, Text, TextInput } from '@mantine/core';
-import { useDebouncedCallback } from '@mantine/hooks';
+import { Loader, Text, TextInput } from '@pradeeparul2/mantine-core';
+import { useDebouncedCallback } from '@pradeeparul2/mantine-hooks';
 
 function getSearchResults(query: string): Promise<{ id: number; title: string }[]> {
   return new Promise((resolve) => {

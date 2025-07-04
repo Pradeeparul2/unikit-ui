@@ -1,4 +1,4 @@
-import type { RadialBarChartFactory } from '@mantine/charts';
+import type { RadialBarChartFactory } from '@pradeeparul2/mantine-charts';
 import type { StylesApiData } from '../types';
 
 export const RadialBarChartStylesApi: StylesApiData<RadialBarChartFactory> = {

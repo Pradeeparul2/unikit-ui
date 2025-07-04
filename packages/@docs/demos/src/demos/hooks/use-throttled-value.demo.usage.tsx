@@ -1,11 +1,11 @@
 import { useState } from 'react';
-import { Text, TextInput } from '@mantine/core';
-import { useThrottledValue } from '@mantine/hooks';
+import { Text, TextInput } from '@pradeeparul2/mantine-core';
+import { useThrottledValue } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Text, TextInput } from '@mantine/core';
-import { useThrottledValue } from '@mantine/hooks';
+import { Text, TextInput } from '@pradeeparul2/mantine-core';
+import { useThrottledValue } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const [value, setValue] = useState('');

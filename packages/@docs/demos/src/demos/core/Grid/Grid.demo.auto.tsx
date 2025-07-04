@@ -1,9 +1,9 @@
-import { Grid } from '@mantine/core';
+import { Grid } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { ColWrapper as Col } from './_col-wrapper';
 
 const code = `
-import { Grid } from '@mantine/core';
+import { Grid } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

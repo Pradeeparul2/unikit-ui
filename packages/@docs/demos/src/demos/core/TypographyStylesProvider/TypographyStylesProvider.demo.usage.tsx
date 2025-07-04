@@ -1,4 +1,4 @@
-import { Box, TypographyStylesProvider } from '@mantine/core';
+import { Box, TypographyStylesProvider } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const html = `
@@ -26,7 +26,7 @@ const html = `
 `;
 
 const code = `
-import { TypographyStylesProvider } from '@mantine/core';
+import { TypographyStylesProvider } from '@pradeeparul2/mantine-core';
 
 const html = '...html content here...';
 

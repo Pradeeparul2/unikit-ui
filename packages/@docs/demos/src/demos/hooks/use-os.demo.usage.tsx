@@ -1,9 +1,9 @@
-import { Text } from '@mantine/core';
-import { useOs } from '@mantine/hooks';
+import { Text } from '@pradeeparul2/mantine-core';
+import { useOs } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useOs } from '@mantine/hooks';
+import { useOs } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const os = useOs();

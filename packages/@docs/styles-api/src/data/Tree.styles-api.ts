@@ -1,4 +1,4 @@
-import type { TreeFactory } from '@mantine/core';
+import type { TreeFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const TreeStylesApi: StylesApiData<TreeFactory> = {

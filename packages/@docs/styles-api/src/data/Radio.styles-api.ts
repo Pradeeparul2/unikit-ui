@@ -3,7 +3,7 @@ import type {
   RadioFactory,
   RadioGroupFactory,
   RadioIndicatorFactory,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 import { InputWrapperStylesApi } from './Input.styles-api';
 

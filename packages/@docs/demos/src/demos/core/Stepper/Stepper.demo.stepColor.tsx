@@ -1,9 +1,9 @@
+import { Stepper } from '@pradeeparul2/mantine-core';
 import { IconCircleX } from '@tabler/icons-react';
-import { Stepper } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Stepper } from '@mantine/core';
+import { Stepper } from '@pradeeparul2/mantine-core';
 import { IconCircleX } from '@tabler/icons-react';
 
 function Demo() {

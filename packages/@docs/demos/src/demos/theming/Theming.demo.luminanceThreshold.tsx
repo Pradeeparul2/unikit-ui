@@ -5,11 +5,11 @@ import {
   parseThemeColor,
   Stack,
   useMantineTheme,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = (props: Record<string, any>) => `
-import { Button, createTheme, MantineProvider, Stack } from '@mantine/core';
+import { Button, createTheme, MantineProvider, Stack } from '@pradeeparul2/mantine-core';
 
 const theme = createTheme({
   autoContrast: true,

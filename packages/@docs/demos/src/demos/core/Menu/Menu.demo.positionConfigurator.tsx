@@ -1,4 +1,4 @@
-import { Menu, MenuProps } from '@mantine/core';
+import { Menu, MenuProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { FLOATING_ARROW_POSITION_DATA } from '../../../shared/floating-position-data';
 import { DemoMenuItems } from './_menu-items';
@@ -12,7 +12,7 @@ function Wrapper(props: MenuProps) {
 }
 
 const code = `
-import { Menu } from '@mantine/core';
+import { Menu } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

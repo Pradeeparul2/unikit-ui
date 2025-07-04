@@ -1,12 +1,4 @@
 import {
-  Accept,
-  DropEvent,
-  FileError,
-  FileRejection,
-  FileWithPath,
-  useDropzone,
-} from 'react-dropzone';
-import {
   Box,
   BoxProps,
   createVarsResolver,
@@ -21,8 +13,16 @@ import {
   StylesApiProps,
   useProps,
   useStyles,
-} from '@mantine/core';
-import { assignRef } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { assignRef } from '@pradeeparul2/mantine-hooks';
+import {
+  Accept,
+  DropEvent,
+  FileError,
+  FileRejection,
+  FileWithPath,
+  useDropzone,
+} from 'react-dropzone';
 import { DropzoneProvider } from './Dropzone.context';
 import type { DropzoneFullScreenType } from './DropzoneFullScreen';
 import { DropzoneAccept, DropzoneIdle, DropzoneReject } from './DropzoneStatus';

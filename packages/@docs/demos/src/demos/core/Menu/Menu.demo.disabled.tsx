@@ -1,3 +1,4 @@
+import { Button, Menu } from '@pradeeparul2/mantine-core';
 import {
   IconArrowsLeftRight,
   IconMessageCircle,
@@ -6,11 +7,10 @@ import {
   IconSettings,
   IconTrash,
 } from '@tabler/icons-react';
-import { Button, Menu } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Menu, Button } from '@mantine/core';
+import { Menu, Button } from '@pradeeparul2/mantine-core';
 import { IconSearch } from '@tabler/icons-react';
 
 function Demo() {

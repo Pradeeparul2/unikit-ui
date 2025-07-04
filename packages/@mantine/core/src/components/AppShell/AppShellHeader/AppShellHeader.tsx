@@ -71,4 +71,4 @@ export const AppShellHeader = factory<AppShellHeaderFactory>((_props, ref) => {
 });
 
 AppShellHeader.classes = classes;
-AppShellHeader.displayName = '@mantine/core/AppShellHeader';
+AppShellHeader.displayName = '@pradeeparul2/mantine-core/AppShellHeader';

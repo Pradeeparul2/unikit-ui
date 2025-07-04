@@ -1,10 +1,10 @@
-import { Button, Popover, Text } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { Button, Popover, Text } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useDisclosure } from '@mantine/hooks';
-import { Popover, Text, Button } from '@mantine/core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
+import { Popover, Text, Button } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [opened, { close, open }] = useDisclosure(false);

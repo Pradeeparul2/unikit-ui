@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
+import { Box, Button } from '@pradeeparul2/mantine-core';
 import Autoplay from 'embla-carousel-autoplay';
-import { Box, Button } from '@mantine/core';
 import { Carousel } from './Carousel';
 
 export default { title: 'Carousel' };

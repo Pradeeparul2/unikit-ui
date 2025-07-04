@@ -1,9 +1,9 @@
-import { Pill, PillsInput } from '@mantine/core';
+import { Pill, PillsInput } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { inputControls } from '../../../shared';
 
 const code = `
-import { PillsInput, Pill } from '@mantine/core';
+import { PillsInput, Pill } from '@pradeeparul2/mantine-core';
 
 
 function Demo() {

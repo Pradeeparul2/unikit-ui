@@ -204,4 +204,4 @@ export function TreeNode({
   );
 }
 
-TreeNode.displayName = '@mantine/core/TreeNode';
+TreeNode.displayName = '@pradeeparul2/mantine-core/TreeNode';

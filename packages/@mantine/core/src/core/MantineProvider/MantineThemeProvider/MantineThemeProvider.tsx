@@ -11,7 +11,7 @@ export function useMantineTheme() {
   const ctx = useContext(MantineThemeContext);
   if (!ctx) {
     throw new Error(
-      '@mantine/core: MantineProvider was not found in component tree, make sure you have it in your app'
+      '@pradeeparul2/mantine-core: MantineProvider was not found in component tree, make sure you have it in your app'
     );
   }
 
@@ -45,4 +45,4 @@ export function MantineThemeProvider({
   );
 }
 
-MantineThemeProvider.displayName = '@mantine/core/MantineThemeProvider';
+MantineThemeProvider.displayName = '@pradeeparul2/mantine-core/MantineThemeProvider';

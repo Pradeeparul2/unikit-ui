@@ -6,7 +6,7 @@ import {
   MantineColor,
   OptionalPortal,
   Progress,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import {
   NprogressStore,
   nprogressStore,

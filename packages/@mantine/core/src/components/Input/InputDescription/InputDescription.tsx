@@ -93,4 +93,4 @@ export const InputDescription = factory<InputDescriptionFactory>((_props, ref) =
 });
 
 InputDescription.classes = classes;
-InputDescription.displayName = '@mantine/core/InputDescription';
+InputDescription.displayName = '@pradeeparul2/mantine-core/InputDescription';

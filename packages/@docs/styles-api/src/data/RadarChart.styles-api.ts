@@ -1,4 +1,4 @@
-import type { RadarChartFactory } from '@mantine/charts';
+import type { RadarChartFactory } from '@pradeeparul2/mantine-charts';
 import type { StylesApiData } from '../types';
 
 export const RadarChartStylesApi: StylesApiData<RadarChartFactory> = {

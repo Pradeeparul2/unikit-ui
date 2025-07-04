@@ -1,8 +1,8 @@
-import { CheckIcon, Radio } from '@mantine/core';
+import { CheckIcon, Radio } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Radio, CheckIcon } from '@mantine/core';
+import { Radio, CheckIcon } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

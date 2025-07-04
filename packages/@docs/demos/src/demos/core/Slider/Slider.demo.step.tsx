@@ -1,8 +1,8 @@
-import { Slider, Text } from '@mantine/core';
+import { Slider, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Slider, Text } from '@mantine/core';
+import { Slider, Text } from '@pradeeparul2/mantine-core';
 
 const marks = [
   { value: 0, label: 'xs' },

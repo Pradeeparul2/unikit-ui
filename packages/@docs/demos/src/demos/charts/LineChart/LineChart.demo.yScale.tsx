@@ -1,9 +1,9 @@
-import { LineChart } from '@mantine/charts';
+import { LineChart } from '@pradeeparul2/mantine-charts';
 import { MantineDemo } from '@mantinex/demo';
 import { yScaleData, yScaleDataCode } from './_data';
 
 const code = `
-import { LineChart } from '@mantine/charts';
+import { LineChart } from '@pradeeparul2/mantine-charts';
 import { data } from './data';
 
 function Demo() {

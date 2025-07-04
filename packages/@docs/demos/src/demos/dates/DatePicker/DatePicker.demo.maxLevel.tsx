@@ -1,10 +1,10 @@
-import { Group } from '@mantine/core';
-import { DatePicker } from '@mantine/dates';
+import { Group } from '@pradeeparul2/mantine-core';
+import { DatePicker } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Group } from '@mantine/core';
-import { DatePicker } from '@mantine/dates';
+import { Group } from '@pradeeparul2/mantine-core';
+import { DatePicker } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   return (

@@ -2,7 +2,7 @@ import type {
   CodeHighlightFactory,
   CodeHighlightTabsFactory,
   InlineCodeHighlightFactory,
-} from '@mantine/code-highlight';
+} from '@pradeeparul2/mantine-code-highlight';
 import type { StylesApiData } from '../types';
 
 export const CodeHighlightStylesApi: StylesApiData<CodeHighlightFactory> = {

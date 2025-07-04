@@ -1,4 +1,4 @@
-import { BoxProps, ElementProps, NativeSelect } from '@mantine/core';
+import { BoxProps, ElementProps, NativeSelect } from '@pradeeparul2/mantine-core';
 import { getControlLabel } from './get-control-label';
 import { SelectData, transformSelectData } from './transform-select-data';
 import { ConfiguratorControl } from './types';

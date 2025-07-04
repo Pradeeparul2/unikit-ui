@@ -119,7 +119,7 @@ export const Pagination = factory<PaginationFactory>((_props, ref) => {
 });
 
 Pagination.classes = classes;
-Pagination.displayName = '@mantine/core/Pagination';
+Pagination.displayName = '@pradeeparul2/mantine-core/Pagination';
 Pagination.Root = PaginationRoot;
 Pagination.Control = PaginationControl;
 Pagination.Dots = PaginationDots;

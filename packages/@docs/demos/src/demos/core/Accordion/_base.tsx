@@ -1,4 +1,4 @@
-import { Accordion, AccordionProps } from '@mantine/core';
+import { Accordion, AccordionProps } from '@pradeeparul2/mantine-core';
 
 export const groceries = [
   {

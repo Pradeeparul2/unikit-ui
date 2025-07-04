@@ -1,8 +1,8 @@
-import { useTextSelection } from '@mantine/hooks';
+import { useTextSelection } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useTextSelection } from '@mantine/hooks';
+import { useTextSelection } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const selection = useTextSelection();

@@ -1,10 +1,10 @@
+import { ActionIcon, createTheme, Group, MantineThemeProvider } from '@pradeeparul2/mantine-core';
 import { IconHeart } from '@tabler/icons-react';
-import { ActionIcon, createTheme, Group, MantineThemeProvider } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './ActionIcon.demo.customSize.module.css';
 
 const code = `
-import { ActionIcon, createTheme, Group, MantineThemeProvider } from '@mantine/core';
+import { ActionIcon, createTheme, Group, MantineThemeProvider } from '@pradeeparul2/mantine-core';
 import { IconHeart } from '@tabler/icons-react';
 import classes from './Demo.module.css';
 

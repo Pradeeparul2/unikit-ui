@@ -1,6 +1,6 @@
+import { getThemeColor, MantineProvider, useMantineTheme } from '@pradeeparul2/mantine-core';
 import type { Meta } from '@storybook/react';
 import { ReferenceArea } from 'recharts';
-import { getThemeColor, MantineProvider, useMantineTheme } from '@mantine/core';
 import { BarChart } from './BarChart';
 
 const meta = {

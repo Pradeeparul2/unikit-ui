@@ -1,9 +1,9 @@
-import { createTheme, Loader, MantineThemeProvider } from '@mantine/core';
+import { createTheme, Loader, MantineThemeProvider } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { RingLoader, ringLoaderCode } from './_RingLoader';
 
 const code = `
-import { MantineProvider, Loader } from '@mantine/core';
+import { MantineProvider, Loader } from '@pradeeparul2/mantine-core';
 import { RingLoader } from './RingLoader';
 
 const theme = createTheme({

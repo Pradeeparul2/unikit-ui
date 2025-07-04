@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { useDidUpdate, useEyeDropper, useUncontrolled } from '@mantine/hooks';
+import { useDidUpdate, useEyeDropper, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   BoxProps,
   createVarsResolver,
@@ -308,4 +308,4 @@ export const ColorInput = factory<ColorInputFactory>((_props, ref) => {
 });
 
 ColorInput.classes = InputBase.classes;
-ColorInput.displayName = '@mantine/core/ColorInput';
+ColorInput.displayName = '@pradeeparul2/mantine-core/ColorInput';

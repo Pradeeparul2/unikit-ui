@@ -1,8 +1,8 @@
-import { Table, TableData } from '@mantine/core';
+import { Table, TableData } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Table, TableData } from '@mantine/core';
+import { Table, TableData } from '@pradeeparul2/mantine-core';
 
 const tableData: TableData = {
   caption: 'Some elements from periodic table',

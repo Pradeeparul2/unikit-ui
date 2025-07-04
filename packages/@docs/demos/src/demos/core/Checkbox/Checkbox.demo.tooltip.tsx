@@ -1,8 +1,8 @@
-import { Checkbox, Tooltip } from '@mantine/core';
+import { Checkbox, Tooltip } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Tooltip, Checkbox } from '@mantine/core';
+import { Tooltip, Checkbox } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

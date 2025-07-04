@@ -1,8 +1,8 @@
-import { Checkbox, CheckboxProps } from '@mantine/core';
+import { Checkbox, CheckboxProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Checkbox } from '@mantine/core';
+import { Checkbox } from '@pradeeparul2/mantine-core';
 
 
 function Demo() {

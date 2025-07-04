@@ -1,8 +1,8 @@
-import { NumberInput } from '@mantine/core';
+import { NumberInput } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { NumberInput } from '@mantine/core';
+import { NumberInput } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <NumberInput disabled label="Disabled input" placeholder="Disabled input" />;

@@ -1,8 +1,8 @@
-import { InputBase, Pill } from '@mantine/core';
+import { InputBase, Pill } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Pill, InputBase } from '@mantine/core';
+import { Pill, InputBase } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const pills = Array(10)

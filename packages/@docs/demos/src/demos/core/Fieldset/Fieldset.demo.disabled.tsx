@@ -1,8 +1,8 @@
-import { Button, Fieldset, Group, TextInput } from '@mantine/core';
+import { Button, Fieldset, Group, TextInput } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Fieldset, TextInput, Button, Group } from '@mantine/core';
+import { Fieldset, TextInput, Button, Group } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

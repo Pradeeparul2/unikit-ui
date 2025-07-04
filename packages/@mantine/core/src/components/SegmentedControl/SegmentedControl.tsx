@@ -6,7 +6,7 @@ import {
   useMounted,
   useShallowEffect,
   useUncontrolled,
-} from '@mantine/hooks';
+} from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -288,4 +288,4 @@ export const SegmentedControl = factory<SegmentedControlFactory>((_props, ref) =
 });
 
 SegmentedControl.classes = classes;
-SegmentedControl.displayName = '@mantine/core/SegmentedControl';
+SegmentedControl.displayName = '@pradeeparul2/mantine-core/SegmentedControl';

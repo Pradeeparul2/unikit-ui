@@ -4,7 +4,7 @@
     "./@types",
     "./packages/@mantine-tests/*/src",
     "./packages/@docs/*/src",
-    "./packages/@mantine/*/src",
+    "packages/@pradeeparul2/*/src",
     "./packages/@mantinex/*/src",
     "./apps/*"
   ],
@@ -16,9 +16,9 @@
     "./packages/@docs/*/esm/**/*",
     "./packages/@docs/*/cjs/**/*",
     "./packages/@docs/*/lib/**/*",
-    "./packages/@mantine/*/lib/**/*",
-    "./packages/@mantine/*/esm/**/*",
-    "./packages/@mantine/*/cjs/**/*",
+    "packages/@pradeeparul2/*/lib/**/*",
+    "packages/@pradeeparul2/*/esm/**/*",
+    "packages/@pradeeparul2/*/cjs/**/*",
     "./packages/@mantinex/*/esm/**/*",
     "./packages/@mantinex/*/cjs/**/*",
     "./packages/@mantinex/*/lib/**/*"
@@ -38,10 +38,11 @@
     "strict": true,
     "baseUrl": ".",
     "paths": {
-      "@mantine/*": ["./packages/@mantine/*/src"],
+      "@mantine/*": ["packages/@pradeeparul2/*/src"],
       "@mantinex/*": ["./packages/@mantinex/*/src"],
       "@mantine-tests/*": ["./packages/@mantine-tests/*/src"],
-      "@docs/*": ["./packages/@docs/*/src"]
+      "@docs/*": ["./packages/@docs/*/src"],
+      "@pradeeparul2/mantine-*": ["./packages/@mantine/*/src"]
     }
   }
 }

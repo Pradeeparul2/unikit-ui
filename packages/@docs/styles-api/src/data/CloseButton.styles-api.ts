@@ -1,4 +1,4 @@
-import type { CloseButtonFactory } from '@mantine/core';
+import type { CloseButtonFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const CloseButtonStylesApi: StylesApiData<CloseButtonFactory> = {

@@ -3,7 +3,7 @@ import { MantineDemo } from '@mantinex/demo';
 
 const getCode = (name: string) => `
 import { useState } from 'react';
-import { ${name} } from '@mantine/dates';
+import { ${name} } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   const [value, setValue] = useState<string | null>(null);
@@ -39,7 +39,7 @@ export function getPickerInputModalDemo(Component: React.FC<any>): MantineDemo {
     type: 'code',
     centered: true,
     maxWidth: 400,
-    code: getCode(Component.displayName!.replace('@mantine/dates/', '')),
+    code: getCode(Component.displayName!.replace('@pradeeparul2/mantine-dates/', '')),
     component: getDemo(Component),
   };
 }

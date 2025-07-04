@@ -37,4 +37,4 @@ export const ComboboxDropdownTarget = factory<ComboboxDropdownTargetFactory>((pr
   );
 });
 
-ComboboxDropdownTarget.displayName = '@mantine/core/ComboboxDropdownTarget';
+ComboboxDropdownTarget.displayName = '@pradeeparul2/mantine-core/ComboboxDropdownTarget';

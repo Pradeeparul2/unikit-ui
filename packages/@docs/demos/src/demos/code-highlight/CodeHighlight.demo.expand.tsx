@@ -1,8 +1,8 @@
-import { CodeHighlightTabs } from '@mantine/code-highlight';
+import { CodeHighlightTabs } from '@pradeeparul2/mantine-code-highlight';
 import { MantineDemo } from '@mantinex/demo';
 
 const tsxCode = `
-import { Group, Button, MantineProvider, createTheme } from '@mantine/core';
+import { Group, Button, MantineProvider, createTheme } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 const theme = createTheme({
@@ -46,7 +46,7 @@ export const cssCode = \`${cssCode}\`;
 `;
 
 const code = `
-import { CodeHighlightTabs } from '@mantine/code-highlight';
+import { CodeHighlightTabs } from '@pradeeparul2/mantine-code-highlight';
 import { tsxCode, cssCode } from './code';
 
 function Demo() {

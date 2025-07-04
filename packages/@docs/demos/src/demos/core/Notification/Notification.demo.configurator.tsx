@@ -1,4 +1,4 @@
-import { Box, Notification, NotificationProps } from '@mantine/core';
+import { Box, Notification, NotificationProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: NotificationProps) {
@@ -10,7 +10,7 @@ function Wrapper(props: NotificationProps) {
 }
 
 const code = `
-import { Notification } from '@mantine/core';
+import { Notification } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

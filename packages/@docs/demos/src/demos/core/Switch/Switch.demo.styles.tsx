@@ -1,4 +1,4 @@
-import { Switch } from '@mantine/core';
+import { Switch } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Switch.demo.styles.module.css';
 
@@ -22,7 +22,7 @@ const cssCode = `.track {
 }`;
 
 const code = `
-import { Switch } from '@mantine/core';
+import { Switch } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 function Demo() {

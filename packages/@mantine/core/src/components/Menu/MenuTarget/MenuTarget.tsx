@@ -63,4 +63,4 @@ export const MenuTarget = forwardRef<HTMLElement, MenuTargetProps>((props, ref) 
   );
 });
 
-MenuTarget.displayName = '@mantine/core/MenuTarget';
+MenuTarget.displayName = '@pradeeparul2/mantine-core/MenuTarget';

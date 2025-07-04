@@ -56,8 +56,8 @@
   },
   "devDependencies": {
     "@mantine-tests/core": "workspace:*",
-    "@mantine/core": "workspace:*",
-    "@mantine/hooks": "workspace:*",
+    "@pradeeparul2/mantine-core": "workspace:*",
+    "@pradeeparul2/mantine-hooks": "workspace:*",
     "react": "19.0.0",
     "react-dom": "19.0.0"
   }

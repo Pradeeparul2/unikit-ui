@@ -1,10 +1,10 @@
-import { Button, Select } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { Button, Select } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Select, Button } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { Select, Button } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const [dropdownOpened, { toggle }] = useDisclosure();

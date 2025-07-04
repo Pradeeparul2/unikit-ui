@@ -7,7 +7,7 @@ import {
   parseThemeColor,
   rgba,
   VariantColorsResolver,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
@@ -21,7 +21,7 @@ import {
   parseThemeColor,
   rgba,
   darken,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 
 const variantColorResolver: VariantColorsResolver = (input) => {
   const defaultResolvedColors = defaultVariantColorsResolver(input);

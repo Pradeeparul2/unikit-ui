@@ -1,5 +1,5 @@
+import { UnstyledButton, useMantineTheme } from '@pradeeparul2/mantine-core';
 import cx from 'clsx';
-import { UnstyledButton, useMantineTheme } from '@mantine/core';
 import type { TimePickerAmPmLabels, TimePickerFormat } from '../TimePicker';
 import { TimeValue } from '../TimeValue';
 import { useTimeGridContext } from './TimeGrid.context';

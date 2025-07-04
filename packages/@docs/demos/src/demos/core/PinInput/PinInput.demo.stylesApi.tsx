@@ -1,9 +1,9 @@
-import { PinInput } from '@mantine/core';
+import { PinInput } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { PinInputStylesApi } from '@docs/styles-api';
 
 const code = `
-import { PinInput } from '@mantine/core';
+import { PinInput } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

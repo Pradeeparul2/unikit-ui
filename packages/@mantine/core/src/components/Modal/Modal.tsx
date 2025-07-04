@@ -145,7 +145,7 @@ export const Modal = factory<ModalFactory>((_props, ref) => {
 });
 
 Modal.classes = classes;
-Modal.displayName = '@mantine/core/Modal';
+Modal.displayName = '@pradeeparul2/mantine-core/Modal';
 Modal.Root = ModalRoot;
 Modal.Overlay = ModalOverlay;
 Modal.Content = ModalContent;

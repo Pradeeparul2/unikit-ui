@@ -1,3 +1,4 @@
+import { Group, Pagination } from '@pradeeparul2/mantine-core';
 import {
   IconArrowBarToLeft,
   IconArrowBarToRight,
@@ -5,11 +6,10 @@ import {
   IconArrowRight,
   IconGripHorizontal,
 } from '@tabler/icons-react';
-import { Group, Pagination } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Group, Pagination } from '@mantine/core';
+import { Group, Pagination } from '@pradeeparul2/mantine-core';
 import {
   IconArrowBarToRight,
   IconArrowBarToLeft,

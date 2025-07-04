@@ -37,4 +37,4 @@ export function Marks({ marks, min, max, disabled, value, offset, inverted }: Ma
   return <div>{items}</div>;
 }
 
-Marks.displayName = '@mantine/core/SliderMarks';
+Marks.displayName = '@pradeeparul2/mantine-core/SliderMarks';

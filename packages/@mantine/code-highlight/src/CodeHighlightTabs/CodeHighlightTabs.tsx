@@ -11,8 +11,8 @@ import {
   useProps,
   useResolvedStylesApi,
   useStyles,
-} from '@mantine/core';
-import { useUncontrolled } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   CodeHighlight,
   CodeHighlightSettings,

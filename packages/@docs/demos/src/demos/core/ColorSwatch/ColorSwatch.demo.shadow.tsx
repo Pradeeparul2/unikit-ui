@@ -1,8 +1,8 @@
-import { ColorSwatch } from '@mantine/core';
+import { ColorSwatch } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { ColorSwatch } from '@mantine/core';
+import { ColorSwatch } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <ColorSwatch color="rgba(255, 255, 255, 0.7)"{{props}} />;

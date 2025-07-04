@@ -1,5 +1,5 @@
+import { Tabs, TabsProps, useDirection } from '@pradeeparul2/mantine-core';
 import { IconMessageCircle, IconPhoto, IconSettings } from '@tabler/icons-react';
-import { Tabs, TabsProps, useDirection } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: TabsProps) {
@@ -37,7 +37,7 @@ function Wrapper(props: TabsProps) {
 }
 
 const code = `
-import { Tabs } from '@mantine/core';
+import { Tabs } from '@pradeeparul2/mantine-core';
 import { IconPhoto, IconMessageCircle, IconSettings } from '@tabler/icons-react';
 
 function Demo() {

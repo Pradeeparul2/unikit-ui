@@ -1,4 +1,4 @@
-import { UnstyledButton } from '@mantine/core';
+import { UnstyledButton } from '@pradeeparul2/mantine-core';
 import { useTimePickerContext } from '../TimePicker.context';
 import { padTime } from '../utils/pad-time/pad-time';
 

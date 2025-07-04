@@ -20,4 +20,4 @@ export const ModalBaseHeader = forwardRef<HTMLElement, ModalBaseHeaderProps>(
   }
 );
 
-ModalBaseHeader.displayName = '@mantine/core/ModalBaseHeader';
+ModalBaseHeader.displayName = '@pradeeparul2/mantine-core/ModalBaseHeader';

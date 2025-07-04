@@ -46,4 +46,4 @@ export const CardSection = polymorphicFactory<CardSectionFactory>((_props, ref) 
 });
 
 CardSection.classes = classes;
-CardSection.displayName = '@mantine/core/CardSection';
+CardSection.displayName = '@pradeeparul2/mantine-core/CardSection';

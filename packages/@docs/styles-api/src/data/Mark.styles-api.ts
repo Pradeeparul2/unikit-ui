@@ -1,4 +1,4 @@
-import type { MarkFactory } from '@mantine/core';
+import type { MarkFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const MarkStylesApi: StylesApiData<MarkFactory> = {

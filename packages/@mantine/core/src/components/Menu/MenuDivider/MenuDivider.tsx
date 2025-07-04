@@ -44,4 +44,4 @@ export const MenuDivider = factory<MenuDividerFactory>((props, ref) => {
 });
 
 MenuDivider.classes = classes;
-MenuDivider.displayName = '@mantine/core/MenuDivider';
+MenuDivider.displayName = '@pradeeparul2/mantine-core/MenuDivider';

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useUncontrolled } from '@mantine/hooks';
+import { useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import { factory, Factory, useProps } from '../../core';
 import { __InputStylesNames } from '../Input';
 import { InputBase } from '../InputBase';
@@ -99,4 +99,4 @@ export const JsonInput = factory<JsonInputFactory>((props, ref) => {
 });
 
 JsonInput.classes = InputBase.classes;
-JsonInput.displayName = '@mantine/core/JsonInput';
+JsonInput.displayName = '@pradeeparul2/mantine-core/JsonInput';

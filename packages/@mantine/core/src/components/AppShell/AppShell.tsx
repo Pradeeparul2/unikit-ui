@@ -175,7 +175,7 @@ export const AppShell = factory<AppShellFactory>((_props, ref) => {
 });
 
 AppShell.classes = classes;
-AppShell.displayName = '@mantine/core/AppShell';
+AppShell.displayName = '@pradeeparul2/mantine-core/AppShell';
 AppShell.Navbar = AppShellNavbar;
 AppShell.Header = AppShellHeader;
 AppShell.Main = AppShellMain;

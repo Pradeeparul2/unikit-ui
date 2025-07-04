@@ -1,4 +1,4 @@
-import type { SpoilerFactory } from '@mantine/core';
+import type { SpoilerFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const SpoilerStylesApi: StylesApiData<SpoilerFactory> = {

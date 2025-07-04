@@ -1,4 +1,4 @@
-import type { BreadcrumbsFactory } from '@mantine/core';
+import type { BreadcrumbsFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const BreadcrumbsStylesApi: StylesApiData<BreadcrumbsFactory> = {

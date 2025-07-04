@@ -1,10 +1,17 @@
-import { Button, Group, NumberInput, TextInput } from '@mantine/core';
-import { hasLength, isEmail, isInRange, isNotEmpty, matches, useForm } from '@mantine/form';
+import { Button, Group, NumberInput, TextInput } from '@pradeeparul2/mantine-core';
+import {
+  hasLength,
+  isEmail,
+  isInRange,
+  isNotEmpty,
+  matches,
+  useForm,
+} from '@pradeeparul2/mantine-form';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useForm, isNotEmpty, isEmail, isInRange, hasLength, matches } from '@mantine/form';
-import { Button, Group, TextInput, NumberInput } from '@mantine/core';
+import { useForm, isNotEmpty, isEmail, isInRange, hasLength, matches } from '@pradeeparul2/mantine-form';
+import { Button, Group, TextInput, NumberInput } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const form = useForm({

@@ -43,4 +43,4 @@ export const DrawerContent = factory<DrawerContentFactory>((_props, ref) => {
 });
 
 DrawerContent.classes = classes;
-DrawerContent.displayName = '@mantine/core/DrawerContent';
+DrawerContent.displayName = '@pradeeparul2/mantine-core/DrawerContent';

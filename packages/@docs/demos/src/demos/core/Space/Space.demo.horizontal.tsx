@@ -1,4 +1,4 @@
-import { Space, Text } from '@mantine/core';
+import { Space, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: any) {
@@ -12,7 +12,7 @@ function Wrapper(props: any) {
 }
 
 const code = `
-import { Text, Space } from '@mantine/core';
+import { Text, Space } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

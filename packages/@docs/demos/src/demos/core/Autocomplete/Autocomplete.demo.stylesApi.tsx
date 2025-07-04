@@ -1,11 +1,11 @@
+import { Autocomplete } from '@pradeeparul2/mantine-core';
 import { IconAt } from '@tabler/icons-react';
-import { Autocomplete } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { AutocompleteStylesApi } from '@docs/styles-api';
 
 const code = `
 import { IconAt } from '@tabler/icons-react';
-import { Autocomplete } from '@mantine/core';
+import { Autocomplete } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

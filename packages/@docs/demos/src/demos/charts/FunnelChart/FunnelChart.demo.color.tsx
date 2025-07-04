@@ -1,8 +1,8 @@
-import { FunnelChart } from '@mantine/charts';
+import { FunnelChart } from '@pradeeparul2/mantine-charts';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = (props: any) => `
-import { FunnelChart } from '@mantine/charts';
+import { FunnelChart } from '@pradeeparul2/mantine-charts';
 
 function Demo() {
   return (

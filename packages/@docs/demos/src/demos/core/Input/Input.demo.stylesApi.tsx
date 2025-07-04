@@ -1,10 +1,10 @@
+import { Input } from '@pradeeparul2/mantine-core';
 import { IconAt, IconChevronDown } from '@tabler/icons-react';
-import { Input } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { InputStylesApi } from '@docs/styles-api';
 
 const code = `
-import { Input } from '@mantine/core';
+import { Input } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const at = <IconAt size={16} stroke={1.5} />;

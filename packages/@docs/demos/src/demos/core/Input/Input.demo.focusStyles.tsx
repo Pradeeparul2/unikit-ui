@@ -1,9 +1,9 @@
-import { Input, TextInput } from '@mantine/core';
+import { Input, TextInput } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Input.demo.focusStyles.module.css';
 
 const code = `
-import { Input, TextInput } from '@mantine/core';
+import { Input, TextInput } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 function Demo() {

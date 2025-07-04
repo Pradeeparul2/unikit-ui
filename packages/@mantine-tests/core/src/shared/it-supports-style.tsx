@@ -1,4 +1,4 @@
-import { DEFAULT_THEME, MantineTheme } from '@mantine/core';
+import { DEFAULT_THEME, MantineTheme } from '@pradeeparul2/mantine-core';
 import { render } from '../render';
 
 interface Options<Props = any> {

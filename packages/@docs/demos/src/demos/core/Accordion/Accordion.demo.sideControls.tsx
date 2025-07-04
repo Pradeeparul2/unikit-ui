@@ -1,9 +1,9 @@
+import { Accordion, AccordionControlProps, ActionIcon, Center } from '@pradeeparul2/mantine-core';
 import { IconDots } from '@tabler/icons-react';
-import { Accordion, AccordionControlProps, ActionIcon, Center } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Accordion, ActionIcon, AccordionControlProps, Center } from '@mantine/core';
+import { Accordion, ActionIcon, AccordionControlProps, Center } from '@pradeeparul2/mantine-core';
 import { IconDots } from '@tabler/icons-react';
 
 function AccordionControl(props: AccordionControlProps) {

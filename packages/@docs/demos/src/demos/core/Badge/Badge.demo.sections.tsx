@@ -1,9 +1,9 @@
+import { Badge, Group } from '@pradeeparul2/mantine-core';
 import { IconAt } from '@tabler/icons-react';
-import { Badge, Group } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Badge, Group } from '@mantine/core';
+import { Badge, Group } from '@pradeeparul2/mantine-core';
 import { IconAt } from '@tabler/icons-react';
 
 function Demo() {

@@ -1,8 +1,8 @@
 import 'dayjs/locale/ru';
 
 import dayjs from 'dayjs';
+import { DatesProvider } from '@pradeeparul2/mantine-dates';
 import { screen } from '@testing-library/react';
-import { DatesProvider } from '@mantine/dates';
 import { render } from '@mantine-tests/core';
 
 export function expectWeekdaysNames(names: string[]) {

@@ -1,9 +1,9 @@
 import { useState } from 'react';
-import { Input } from '@mantine/core';
+import { Input } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = (props: any) => `
-import { Input } from '@mantine/core';
+import { Input } from '@pradeeparul2/mantine-core';
 
 function Demo(){
   const [value, setValue] = useState('clearable');

@@ -1,5 +1,5 @@
 import { forwardRef } from 'react';
-import { createTheme, MantineProvider } from '@mantine/core';
+import { createTheme, MantineProvider } from '@pradeeparul2/mantine-core';
 import { defaultLoaders, Loader } from './Loader';
 import { MantineLoaderComponent } from './Loader.types';
 
@@ -130,7 +130,7 @@ const RingLoader: MantineLoaderComponent = forwardRef(({ style, ...others }, ref
   </svg>
 ));
 
-RingLoader.displayName = '@mantine/core/RingLoader';
+RingLoader.displayName = '@pradeeparul2/mantine-core/RingLoader';
 
 export function CustomComponent() {
   return (

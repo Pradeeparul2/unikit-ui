@@ -1,8 +1,8 @@
-import { Button, Flex } from '@mantine/core';
+import { Button, Flex } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Flex, Button } from '@mantine/core';
+import { Flex, Button } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

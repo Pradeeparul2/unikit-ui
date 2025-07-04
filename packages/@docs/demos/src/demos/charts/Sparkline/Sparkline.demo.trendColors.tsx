@@ -1,5 +1,5 @@
-import { Sparkline } from '@mantine/charts';
-import { Stack, Text } from '@mantine/core';
+import { Sparkline } from '@pradeeparul2/mantine-charts';
+import { Stack, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const positiveTrend = [10, 20, 40, 20, 40, 10, 50];
@@ -7,8 +7,8 @@ const negativeTrend = [50, 40, 20, 40, 20, 40, 10];
 const neutralTrend = [10, 20, 40, 20, 40, 10, 50, 5, 10];
 
 const code = `
-import { Sparkline } from '@mantine/charts';
-import { Stack, Text } from '@mantine/core';
+import { Sparkline } from '@pradeeparul2/mantine-charts';
+import { Stack, Text } from '@pradeeparul2/mantine-core';
 
 const positiveTrend = [10, 20, 40, 20, 40, 10, 50];
 const negativeTrend = [50, 40, 20, 40, 20, 40, 10];

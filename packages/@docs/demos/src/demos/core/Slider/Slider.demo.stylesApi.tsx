@@ -1,9 +1,9 @@
-import { Slider } from '@mantine/core';
+import { Slider } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { SliderStylesApi } from '@docs/styles-api';
 
 const code = `
-import { Slider } from '@mantine/core';
+import { Slider } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <Slider{{props}} marks={[{ value: 20, label: '20%' }, { value: 80, label: '80%' }]} labelAlwaysOn />;

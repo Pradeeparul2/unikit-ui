@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import { Button, Code, Text, TextInput } from '@mantine/core';
-import { hasLength, isEmail, useForm } from '@mantine/form';
+import { Button, Code, Text, TextInput } from '@pradeeparul2/mantine-core';
+import { hasLength, isEmail, useForm } from '@pradeeparul2/mantine-form';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { Button, Code, Text, TextInput } from '@mantine/core';
-import { hasLength, isEmail, useForm } from '@mantine/form';
+import { Button, Code, Text, TextInput } from '@pradeeparul2/mantine-core';
+import { hasLength, isEmail, useForm } from '@pradeeparul2/mantine-form';
 
 function Demo() {
   const form = useForm({

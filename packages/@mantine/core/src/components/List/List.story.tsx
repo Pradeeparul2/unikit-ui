@@ -1,5 +1,5 @@
+import { ThemeIcon } from '@pradeeparul2/mantine-core';
 import { IconCircleCheck, IconCircleDashed } from '@tabler/icons-react';
-import { ThemeIcon } from '@mantine/core';
 import { List } from './List';
 
 export default { title: 'List' };

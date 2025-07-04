@@ -1,12 +1,12 @@
 import dayjs from 'dayjs';
-import { Indicator } from '@mantine/core';
-import { Calendar } from '@mantine/dates';
+import { Indicator } from '@pradeeparul2/mantine-core';
+import { Calendar } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import dayjs from 'dayjs';
-import { Indicator } from '@mantine/core';
-import { Calendar } from '@mantine/dates';
+import { Indicator } from '@pradeeparul2/mantine-core';
+import { Calendar } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   return (

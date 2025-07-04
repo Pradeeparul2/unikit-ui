@@ -1,4 +1,4 @@
-import { Box, Spoiler, SpoilerProps, Text } from '@mantine/core';
+import { Box, Spoiler, SpoilerProps, Text } from '@pradeeparul2/mantine-core';
 
 const content = (
   <div>

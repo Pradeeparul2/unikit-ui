@@ -1,8 +1,8 @@
-import { RangeSlider, Slider } from '@mantine/core';
+import { RangeSlider, Slider } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Slider, RangeSlider } from '@mantine/core';
+import { Slider, RangeSlider } from '@pradeeparul2/mantine-core';
 
 const marks = [
   { value: 20, label: '20%' },

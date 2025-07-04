@@ -1,11 +1,11 @@
-import { Group, Table } from '@mantine/core';
-import { useResizeObserver } from '@mantine/hooks';
+import { Group, Table } from '@pradeeparul2/mantine-core';
+import { useResizeObserver } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './use-resize-observer.demo.usage.module.css';
 
 const code = `
-import { Group, Table } from '@mantine/core';
-import { useResizeObserver } from '@mantine/hooks';
+import { Group, Table } from '@pradeeparul2/mantine-core';
+import { useResizeObserver } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const [ref, rect] = useResizeObserver();

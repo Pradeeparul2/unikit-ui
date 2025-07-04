@@ -49,7 +49,7 @@ export function createEdgeComponent({ icon, name, action, type }: CreateEdgeComp
     );
   });
 
-  Component.displayName = `@mantine/core/${name}`;
+  Component.displayName = `@pradeeparul2/mantine-core/${name}`;
   return createPolymorphicComponent<'button', PaginationEdgeProps>(Component);
 }
 

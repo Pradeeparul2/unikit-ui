@@ -1,10 +1,10 @@
+import { Notification } from '@pradeeparul2/mantine-core';
 import { IconCheck, IconX } from '@tabler/icons-react';
-import { Notification } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { IconX, IconCheck } from '@tabler/icons-react';
-import { Notification } from '@mantine/core';
+import { Notification } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const xIcon = <IconX size={20} />;

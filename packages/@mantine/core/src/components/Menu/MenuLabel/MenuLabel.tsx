@@ -44,4 +44,4 @@ export const MenuLabel = factory<MenuLabelFactory>((props, ref) => {
 });
 
 MenuLabel.classes = classes;
-MenuLabel.displayName = '@mantine/core/MenuLabel';
+MenuLabel.displayName = '@pradeeparul2/mantine-core/MenuLabel';

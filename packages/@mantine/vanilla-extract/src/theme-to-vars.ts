@@ -4,7 +4,7 @@ import {
   MantineTheme,
   MantineThemeOverride,
   mergeMantineTheme,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import {
   Colors,
   FontSizes,

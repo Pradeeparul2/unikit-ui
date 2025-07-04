@@ -1,3 +1,4 @@
+import type { MantineColor } from '@pradeeparul2/mantine-core';
 import type {
   CartesianGridProps,
   LabelProps,
@@ -7,7 +8,6 @@ import type {
   XAxisProps,
   YAxisProps,
 } from 'recharts';
-import type { MantineColor } from '@mantine/core';
 
 export interface ChartReferenceLineProps extends Omit<ReferenceLineProps, 'ref' | 'label'> {
   color?: MantineColor;

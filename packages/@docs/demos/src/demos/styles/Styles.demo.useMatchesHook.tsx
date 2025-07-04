@@ -1,8 +1,8 @@
-import { Box, useMatches } from '@mantine/core';
+import { Box, useMatches } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Box, useMatches } from '@mantine/core';
+import { Box, useMatches } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const color = useMatches({

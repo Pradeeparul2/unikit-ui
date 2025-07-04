@@ -1,9 +1,9 @@
+import { Anchor, Box, Center } from '@pradeeparul2/mantine-core';
 import { IconArrowLeft } from '@tabler/icons-react';
-import { Anchor, Box, Center } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Center, Anchor, Box } from '@mantine/core';
+import { Center, Anchor, Box } from '@pradeeparul2/mantine-core';
 import { IconArrowLeft } from '@tabler/icons-react';
 
 function Demo() {

@@ -97,4 +97,4 @@ export function Transition({
   );
 }
 
-Transition.displayName = '@mantine/core/Transition';
+Transition.displayName = '@pradeeparul2/mantine-core/Transition';

@@ -12,4 +12,4 @@ export const Bars: MantineLoaderComponent = forwardRef(({ className, ...others }
   </Box>
 ));
 
-Bars.displayName = '@mantine/core/Bars';
+Bars.displayName = '@pradeeparul2/mantine-core/Bars';

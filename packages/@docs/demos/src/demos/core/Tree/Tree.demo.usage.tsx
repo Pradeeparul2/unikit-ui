@@ -1,9 +1,9 @@
-import { Tree } from '@mantine/core';
+import { Tree } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { data, dataCode } from './data';
 
 const code = `
-import { Tree } from '@mantine/core';
+import { Tree } from '@pradeeparul2/mantine-core';
 import { data } from './data';
 
 function Demo() {

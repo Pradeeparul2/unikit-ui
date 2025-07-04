@@ -1,12 +1,12 @@
 import { useState } from 'react';
+import { Box, Group, NavLink } from '@pradeeparul2/mantine-core';
 import { IconActivity, IconChevronRight, IconFingerprint, IconGauge } from '@tabler/icons-react';
-import { Box, Group, NavLink } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
 import { IconGauge, IconFingerprint, IconActivity, IconChevronRight } from '@tabler/icons-react';
-import { Box, NavLink } from '@mantine/core';
+import { Box, NavLink } from '@pradeeparul2/mantine-core';
 
 const data = [
   { icon: IconGauge, label: 'Dashboard', description: 'Item with description' },

@@ -121,7 +121,7 @@ export function MantineProvider({
   );
 }
 
-MantineProvider.displayName = '@mantine/core/MantineProvider';
+MantineProvider.displayName = '@pradeeparul2/mantine-core/MantineProvider';
 
 export interface HeadlessMantineProviderProps {
   /** Theme override object */
@@ -154,4 +154,4 @@ export function HeadlessMantineProvider({ children, theme, env }: HeadlessMantin
   );
 }
 
-HeadlessMantineProvider.displayName = '@mantine/core/HeadlessMantineProvider';
+HeadlessMantineProvider.displayName = '@pradeeparul2/mantine-core/HeadlessMantineProvider';

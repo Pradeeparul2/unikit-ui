@@ -1,5 +1,5 @@
 import { useRef } from 'react';
-import { useUncontrolled } from '@mantine/hooks';
+import { useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import { DatePickerType, DatePickerValue, DateStringValue } from '../../types';
 import { toDateString, toDateTimeString } from '../../utils';
 

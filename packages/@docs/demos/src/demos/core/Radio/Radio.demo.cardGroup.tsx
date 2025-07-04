@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Group, Radio, Stack, Text } from '@mantine/core';
+import { Group, Radio, Stack, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Radio.demo.card.module.css';
 
@@ -40,16 +40,16 @@ const cssCode = `.root {
 
 const code = `
 import { useState } from 'react';
-import { Radio, Group, Stack, Text } from '@mantine/core';
+import { Radio, Group, Stack, Text } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 const data = [
   {
-    name: '@mantine/core',
+    name: '@pradeeparul2/mantine-core',
     description: 'Core components library: inputs, buttons, overlays, etc.',
   },
-  { name: '@mantine/hooks', description: 'Collection of reusable hooks for React applications.' },
-  { name: '@mantine/notifications', description: 'Notifications system' },
+  { name: '@pradeeparul2/mantine-hooks', description: 'Collection of reusable hooks for React applications.' },
+  { name: '@pradeeparul2/mantine-notifications', description: 'Notifications system' },
 ];
 
 function Demo() {
@@ -90,11 +90,14 @@ function Demo() {
 
 const data = [
   {
-    name: '@mantine/core',
+    name: '@pradeeparul2/mantine-core',
     description: 'Core components library: inputs, buttons, overlays, etc.',
   },
-  { name: '@mantine/hooks', description: 'Collection of reusable hooks for React applications.' },
-  { name: '@mantine/notifications', description: 'Notifications system' },
+  {
+    name: '@pradeeparul2/mantine-hooks',
+    description: 'Collection of reusable hooks for React applications.',
+  },
+  { name: '@pradeeparul2/mantine-notifications', description: 'Notifications system' },
 ];
 
 function Demo() {

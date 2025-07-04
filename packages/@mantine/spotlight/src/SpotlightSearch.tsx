@@ -9,7 +9,7 @@ import {
   InputProps,
   InputStylesNames,
   useProps,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { useSpotlightContext } from './Spotlight.context';
 import { spotlightActions } from './spotlight.store';
 import classes from './Spotlight.module.css';

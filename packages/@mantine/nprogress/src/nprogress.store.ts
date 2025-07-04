@@ -1,4 +1,4 @@
-import { clamp } from '@mantine/hooks';
+import { clamp } from '@pradeeparul2/mantine-hooks';
 import { createStore, MantineStore, useStore } from '@mantine/store';
 
 function getIntervalProgressValue(currentProgress: number) {

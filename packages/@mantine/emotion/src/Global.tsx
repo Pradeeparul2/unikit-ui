@@ -1,5 +1,5 @@
 import { css, Global as EmotionGlobal } from '@emotion/react';
-import { MantineTheme, useMantineTheme } from '@mantine/core';
+import { MantineTheme, useMantineTheme } from '@pradeeparul2/mantine-core';
 import type { CSSObject } from './types';
 
 type EmotionStyles = CSSObject | CSSObject[];

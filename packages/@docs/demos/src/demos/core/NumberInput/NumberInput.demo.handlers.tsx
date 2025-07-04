@@ -1,10 +1,10 @@
 import { useRef } from 'react';
-import { Button, Group, NumberInput, NumberInputHandlers } from '@mantine/core';
+import { Button, Group, NumberInput, NumberInputHandlers } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useRef } from 'react';
-import { NumberInput, Group, Button, NumberInputHandlers } from '@mantine/core';
+import { NumberInput, Group, Button, NumberInputHandlers } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const handlersRef = useRef<NumberInputHandlers>(null);

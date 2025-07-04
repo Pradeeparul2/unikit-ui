@@ -1,10 +1,10 @@
-import { Code, Text } from '@mantine/core';
-import { TimePicker, TimePickerPasteSplit } from '@mantine/dates';
+import { Code, Text } from '@pradeeparul2/mantine-core';
+import { TimePicker, TimePickerPasteSplit } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Code, Text } from '@mantine/core';
-import { TimePicker, TimePickerPasteSplit } from '@mantine/dates';
+import { Code, Text } from '@pradeeparul2/mantine-core';
+import { TimePicker, TimePickerPasteSplit } from '@pradeeparul2/mantine-dates';
 
 const re = /^(1[0-2]|0?[1-9]):[0-5][0-9](?::[0-5][0-9])?\\s?(AM|PM)$/;
 

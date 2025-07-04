@@ -10,4 +10,4 @@ export function StarSymbol({ type }: StarSymbolProps) {
   return <StarIcon {...ctx.getStyles('starSymbol')} data-filled={type === 'full' || undefined} />;
 }
 
-StarSymbol.displayName = '@mantine/core/StarSymbol';
+StarSymbol.displayName = '@pradeeparul2/mantine-core/StarSymbol';

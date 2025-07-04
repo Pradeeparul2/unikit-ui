@@ -1,4 +1,4 @@
-import type { HeatmapFactory } from '@mantine/charts';
+import type { HeatmapFactory } from '@pradeeparul2/mantine-charts';
 import type { StylesApiData } from '../types';
 
 export const HeatmapStylesApi: StylesApiData<HeatmapFactory> = {

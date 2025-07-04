@@ -1,9 +1,9 @@
+import { List, ThemeIcon } from '@pradeeparul2/mantine-core';
 import { IconCircleCheck, IconCircleDashed } from '@tabler/icons-react';
-import { List, ThemeIcon } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { List, ThemeIcon } from '@mantine/core';
+import { List, ThemeIcon } from '@pradeeparul2/mantine-core';
 import { IconCircleCheck, IconCircleDashed } from '@tabler/icons-react';
 
 function Demo() {

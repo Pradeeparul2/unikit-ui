@@ -1,10 +1,10 @@
+import { Box, Notification } from '@pradeeparul2/mantine-core';
 import { IconCheck } from '@tabler/icons-react';
-import { Box, Notification } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { NotificationStylesApi } from '@docs/styles-api';
 
 const code = `
-import { Notification } from '@mantine/core';
+import { Notification } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

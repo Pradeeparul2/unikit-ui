@@ -1,10 +1,10 @@
-import { Code, Text } from '@mantine/core';
-import { useOrientation } from '@mantine/hooks';
+import { Code, Text } from '@pradeeparul2/mantine-core';
+import { useOrientation } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Code, Text } from '@mantine/core';
-import { useOrientation } from '@mantine/hooks';
+import { Code, Text } from '@pradeeparul2/mantine-core';
+import { useOrientation } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const { angle, type } = useOrientation();

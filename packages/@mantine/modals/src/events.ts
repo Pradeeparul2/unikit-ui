@@ -1,5 +1,5 @@
-import { createUseExternalEvents } from '@mantine/core';
-import { randomId } from '@mantine/hooks';
+import { createUseExternalEvents } from '@pradeeparul2/mantine-core';
+import { randomId } from '@pradeeparul2/mantine-hooks';
 import {
   MantineModal,
   MantineModals,

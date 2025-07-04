@@ -1,8 +1,8 @@
-import { Button, Code, Group, Title } from '@mantine/core';
+import { Button, Code, Group, Title } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button, Code, Title, MantineProvider, createTheme } from '@mantine/core';
+import { Button, Code, Title, MantineProvider, createTheme } from '@pradeeparul2/mantine-core';
 
 const theme = createTheme({
   fontFamily: 'Verdana, sans-serif',

@@ -1,4 +1,4 @@
-import type { BackgroundImageFactory } from '@mantine/core';
+import type { BackgroundImageFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const BackgroundImageStylesApi: StylesApiData<BackgroundImageFactory> = {

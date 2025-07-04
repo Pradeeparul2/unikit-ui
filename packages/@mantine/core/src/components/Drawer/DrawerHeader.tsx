@@ -34,4 +34,4 @@ export const DrawerHeader = factory<DrawerHeaderFactory>((_props, ref) => {
 });
 
 DrawerHeader.classes = classes;
-DrawerHeader.displayName = '@mantine/core/DrawerHeader';
+DrawerHeader.displayName = '@pradeeparul2/mantine-core/DrawerHeader';

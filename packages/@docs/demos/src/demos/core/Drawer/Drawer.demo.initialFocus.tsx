@@ -1,10 +1,10 @@
-import { Button, Drawer, TextInput } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { Button, Drawer, TextInput } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useDisclosure } from '@mantine/hooks';
-import { Drawer, Button, TextInput } from '@mantine/core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
+import { Drawer, Button, TextInput } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [opened, { open, close }] = useDisclosure(false);

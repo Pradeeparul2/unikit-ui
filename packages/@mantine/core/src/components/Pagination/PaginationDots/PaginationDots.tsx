@@ -50,4 +50,4 @@ export const PaginationDots = factory<PaginationDotsFactory>((_props, ref) => {
 });
 
 PaginationDots.classes = classes;
-PaginationDots.displayName = '@mantine/core/PaginationDots';
+PaginationDots.displayName = '@pradeeparul2/mantine-core/PaginationDots';

@@ -1,10 +1,10 @@
 import { useState } from 'react';
-import { Text } from '@mantine/core';
+import { Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const getCode = (name: string) => `
 import { useState } from 'react';
-import { ${name} } from '@mantine/dates';
+import { ${name} } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   const [value, setValue] = useState<[string | null, string | null]>([null, null]);
@@ -38,7 +38,7 @@ export function getPickerNumberOfColumnsDemo(Component: React.FC<any>): MantineD
   return {
     type: 'code',
     centered: true,
-    code: getCode(Component.displayName!.replace('@mantine/dates/', '')),
+    code: getCode(Component.displayName!.replace('@pradeeparul2/mantine-dates/', '')),
     component: getDemo(Component),
   };
 }

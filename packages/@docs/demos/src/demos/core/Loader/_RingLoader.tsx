@@ -1,5 +1,5 @@
 import { forwardRef } from 'react';
-import { MantineLoaderComponent } from '@mantine/core';
+import { MantineLoaderComponent } from '@pradeeparul2/mantine-core';
 
 export const RingLoader: MantineLoaderComponent = forwardRef(({ style, ...others }, ref) => (
   <svg
@@ -84,7 +84,7 @@ export const RingLoader: MantineLoaderComponent = forwardRef(({ style, ...others
 
 export const ringLoaderCode = `
 import { forwardRef } from 'react';
-import { MantineLoaderComponent } from '@mantine/core';
+import { MantineLoaderComponent } from '@pradeeparul2/mantine-core';
 
 export const RingLoader: MantineLoaderComponent = forwardRef(({ style, ...others }, ref) => (
   <svg

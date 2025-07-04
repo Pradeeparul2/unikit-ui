@@ -17,4 +17,4 @@ export const Thumb = forwardRef<HTMLDivElement, ThumbProps>(({ position, ...othe
   />
 ));
 
-Thumb.displayName = '@mantine/core/ColorPickerThumb';
+Thumb.displayName = '@pradeeparul2/mantine-core/ColorPickerThumb';

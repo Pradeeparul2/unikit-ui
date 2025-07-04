@@ -1,10 +1,10 @@
-import { Box, Text, TextInput } from '@mantine/core';
-import { useDebouncedState } from '@mantine/hooks';
+import { Box, Text, TextInput } from '@pradeeparul2/mantine-core';
+import { useDebouncedState } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useDebouncedState } from '@mantine/hooks';
-import { TextInput, Text } from '@mantine/core';
+import { useDebouncedState } from '@pradeeparul2/mantine-hooks';
+import { TextInput, Text } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [value, setValue] = useDebouncedState('', 200);

@@ -1,14 +1,4 @@
 import {
-  Cell,
-  Funnel,
-  FunnelProps,
-  LabelList,
-  FunnelChart as RechartsFunnelChart,
-  ResponsiveContainer,
-  Tooltip,
-  TooltipProps,
-} from 'recharts';
-import {
   Box,
   BoxProps,
   createVarsResolver,
@@ -23,7 +13,17 @@ import {
   useProps,
   useResolvedStylesApi,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
+import {
+  Cell,
+  Funnel,
+  FunnelProps,
+  LabelList,
+  FunnelChart as RechartsFunnelChart,
+  ResponsiveContainer,
+  Tooltip,
+  TooltipProps,
+} from 'recharts';
 import { ChartTooltip } from '../ChartTooltip/ChartTooltip';
 import classes from './FunnelChart.module.css';
 

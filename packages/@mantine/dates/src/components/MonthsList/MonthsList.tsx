@@ -9,7 +9,7 @@ import {
   StylesApiProps,
   useProps,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { ControlsGroupSettings, DateStringValue } from '../../types';
 import { toDateString } from '../../utils';
 import { useDatesContext } from '../DatesProvider';

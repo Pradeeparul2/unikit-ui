@@ -1,4 +1,4 @@
-import { CodeHighlightTabs, CodeHighlightTabsCode } from '@mantine/code-highlight';
+import { CodeHighlightTabs, CodeHighlightTabsCode } from '@pradeeparul2/mantine-code-highlight';
 import { getCodeFileIcon } from '@mantinex/dev-icons';
 import classes from './DemoCode.module.css';
 

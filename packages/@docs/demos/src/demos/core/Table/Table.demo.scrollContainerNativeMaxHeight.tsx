@@ -1,9 +1,9 @@
-import { Table } from '@mantine/core';
+import { Table } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { elementsLong } from './_data';
 
 const code = `
-import { Table } from '@mantine/core';
+import { Table } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const rows = elementsLong.map((element) => (

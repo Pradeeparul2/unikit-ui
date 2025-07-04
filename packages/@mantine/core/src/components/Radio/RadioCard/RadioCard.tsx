@@ -154,5 +154,5 @@ export const RadioCard = factory<RadioCardFactory>((_props, ref) => {
   );
 });
 
-RadioCard.displayName = '@mantine/core/RadioCard';
+RadioCard.displayName = '@pradeeparul2/mantine-core/RadioCard';
 RadioCard.classes = classes;

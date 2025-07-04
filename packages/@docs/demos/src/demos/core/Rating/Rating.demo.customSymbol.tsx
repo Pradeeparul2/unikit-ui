@@ -1,3 +1,4 @@
+import { Rating } from '@pradeeparul2/mantine-core';
 import {
   IconMoodCrazyHappy,
   IconMoodCry,
@@ -5,11 +6,10 @@ import {
   IconMoodSad,
   IconMoodSmile,
 } from '@tabler/icons-react';
-import { Rating } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Rating } from '@mantine/core';
+import { Rating } from '@pradeeparul2/mantine-core';
 import {
   IconMoodCry,
   IconMoodSad,

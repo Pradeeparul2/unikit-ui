@@ -1,5 +1,5 @@
+import { CodeHighlight, CodeHighlightControl } from '@pradeeparul2/mantine-code-highlight';
 import { IconBrandCodesandbox, IconMessage2 } from '@tabler/icons-react';
-import { CodeHighlight, CodeHighlightControl } from '@mantine/code-highlight';
 import { MantineDemo } from '@mantinex/demo';
 
 const exampleCode = `
@@ -10,7 +10,7 @@ function greet() {
 
 const code = `
 import { IconBrandCodesandbox, IconMessage2 } from '@tabler/icons-react';
-import { CodeHighlight, CodeHighlightControl } from '@mantine/code-highlight';
+import { CodeHighlight, CodeHighlightControl } from '@pradeeparul2/mantine-code-highlight';
 
 const exampleCode = \`${exampleCode}\`;
 

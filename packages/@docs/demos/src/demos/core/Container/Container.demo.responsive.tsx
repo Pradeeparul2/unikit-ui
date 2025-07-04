@@ -1,11 +1,11 @@
+import { Container, createTheme, MantineThemeProvider } from '@pradeeparul2/mantine-core';
 import cx from 'clsx';
-import { Container, createTheme, MantineThemeProvider } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Container.demo.responsive.module.css';
 
 const code = `
 import cx from 'clsx';
-import { MantineProvider, Container, createTheme } from '@mantine/core';
+import { MantineProvider, Container, createTheme } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 const theme = createTheme({

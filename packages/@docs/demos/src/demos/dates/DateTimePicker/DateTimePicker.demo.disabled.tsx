@@ -1,8 +1,8 @@
-import { DateTimePicker } from '@mantine/dates';
+import { DateTimePicker } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { DateTimePicker } from '@mantine/dates';
+import { DateTimePicker } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   return <DateTimePicker label="Disabled" placeholder="Pick date and time" disabled />;

@@ -1,9 +1,9 @@
-import { Button, Tooltip } from '@mantine/core';
+import { Button, Tooltip } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { FLOATING_POSITION_DATA } from '../../../shared';
 
 const code = (props: any) => `
-import { Tooltip, Button } from '@mantine/core';
+import { Tooltip, Button } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

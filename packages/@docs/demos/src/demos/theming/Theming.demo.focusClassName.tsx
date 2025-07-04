@@ -1,9 +1,9 @@
-import { Button, MantineThemeProvider } from '@mantine/core';
+import { Button, MantineThemeProvider } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Theming.demo.focusClassName.module.css';
 
 const tsxCode = `
-import { MantineProvider, Button } from '@mantine/core';
+import { MantineProvider, Button } from '@pradeeparul2/mantine-core';
 import classes from './focus.module.css';
 
 function Demo() {

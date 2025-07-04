@@ -1,4 +1,4 @@
-import type { AlertFactory } from '@mantine/core';
+import type { AlertFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const AlertStylesApi: StylesApiData<AlertFactory> = {

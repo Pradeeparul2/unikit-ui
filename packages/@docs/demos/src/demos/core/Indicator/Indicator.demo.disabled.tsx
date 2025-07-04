@@ -1,10 +1,10 @@
-import { Avatar, Button, Indicator, Stack } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { Avatar, Button, Indicator, Stack } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useDisclosure } from '@mantine/hooks';
-import { Avatar, Indicator, Button, Stack } from '@mantine/core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
+import { Avatar, Indicator, Button, Stack } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [visible, { toggle }] = useDisclosure();

@@ -1,10 +1,10 @@
-import { Button } from '@mantine/core';
-import { useClipboard } from '@mantine/hooks';
+import { Button } from '@pradeeparul2/mantine-core';
+import { useClipboard } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button } from '@mantine/core';
-import { useClipboard } from '@mantine/hooks';
+import { Button } from '@pradeeparul2/mantine-core';
+import { useClipboard } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const clipboard = useClipboard({ timeout: 500 });

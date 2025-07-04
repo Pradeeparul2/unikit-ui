@@ -1,8 +1,8 @@
-import { Box } from '@mantine/core';
+import { Box } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Box } from '@mantine/core';
+import { Box } from '@pradeeparul2/mantine-core';
 
 export function Demo() {
   return (
@@ -15,7 +15,7 @@ export function Demo() {
 `;
 
 const appCode = `
-import { createTheme, MantineProvider, virtualColor } from '@mantine/core';
+import { createTheme, MantineProvider, virtualColor } from '@pradeeparul2/mantine-core';
 import { Demo } from './Demo';
 
 const theme = createTheme({

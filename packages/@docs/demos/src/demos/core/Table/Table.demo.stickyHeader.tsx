@@ -1,9 +1,9 @@
-import { Table } from '@mantine/core';
+import { Table } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { elements } from './_data';
 
 const code = `
-import { Table } from '@mantine/core';
+import { Table } from '@pradeeparul2/mantine-core';
 
 const elements = [
   { position: 6, mass: 12.011, symbol: 'C', name: 'Carbon' },

@@ -1,4 +1,4 @@
-import type { SparklineFactory } from '@mantine/charts';
+import type { SparklineFactory } from '@pradeeparul2/mantine-charts';
 import type { StylesApiData } from '../types';
 
 export const SparklineStylesApi: StylesApiData<SparklineFactory> = {

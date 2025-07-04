@@ -26,4 +26,4 @@ export function MenuSubTarget({ children, refProp }: MenuSubTargetProps) {
   );
 }
 
-MenuSubTarget.displayName = '@mantine/core/MenuSubTarget';
+MenuSubTarget.displayName = '@pradeeparul2/mantine-core/MenuSubTarget';

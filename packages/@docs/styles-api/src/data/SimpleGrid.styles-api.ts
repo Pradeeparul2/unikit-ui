@@ -1,4 +1,4 @@
-import type { SimpleGridFactory } from '@mantine/core';
+import type { SimpleGridFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const SimpleGridStylesApi: StylesApiData<SimpleGridFactory> = {

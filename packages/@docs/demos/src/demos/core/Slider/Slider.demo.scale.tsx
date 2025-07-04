@@ -1,8 +1,8 @@
-import { RangeSlider, Slider } from '@mantine/core';
+import { RangeSlider, Slider } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { RangeSlider, Slider } from '@mantine/core';
+import { RangeSlider, Slider } from '@pradeeparul2/mantine-core';
 
 function valueLabelFormat(value: number) {
   const units = ['KB', 'MB', 'GB', 'TB'];

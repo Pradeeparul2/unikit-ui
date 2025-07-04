@@ -1,11 +1,11 @@
+import { PasswordInput } from '@pradeeparul2/mantine-core';
 import { IconLock } from '@tabler/icons-react';
-import { PasswordInput } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { PasswordInputStylesApi } from '@docs/styles-api';
 
 const code = `
 import { IconLock } from '@tabler/icons-react';
-import { PasswordInput } from '@mantine/core';
+import { PasswordInput } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

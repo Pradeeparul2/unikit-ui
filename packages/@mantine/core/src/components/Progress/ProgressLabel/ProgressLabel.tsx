@@ -45,4 +45,4 @@ export const ProgressLabel = factory<ProgressLabelFactory>((props, ref) => {
 });
 
 ProgressLabel.classes = classes;
-ProgressLabel.displayName = '@mantine/core/ProgressLabel';
+ProgressLabel.displayName = '@pradeeparul2/mantine-core/ProgressLabel';

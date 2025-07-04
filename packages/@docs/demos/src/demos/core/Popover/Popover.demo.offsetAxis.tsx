@@ -1,9 +1,9 @@
-import { Button, Popover, Text } from '@mantine/core';
+import { Button, Popover, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { FLOATING_POSITION_DATA } from '../../../shared';
 
 const code = (props: any) => `
-import { Popover, Button, Text } from '@mantine/core';
+import { Popover, Button, Text } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

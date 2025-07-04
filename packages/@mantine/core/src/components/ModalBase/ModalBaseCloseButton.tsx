@@ -28,4 +28,4 @@ export const ModalBaseCloseButton = forwardRef<HTMLButtonElement, ModalBaseClose
   }
 );
 
-ModalBaseCloseButton.displayName = '@mantine/core/ModalBaseCloseButton';
+ModalBaseCloseButton.displayName = '@pradeeparul2/mantine-core/ModalBaseCloseButton';

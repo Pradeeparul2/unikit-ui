@@ -1,9 +1,9 @@
-import { Input } from '@mantine/core';
+import { Input } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { inputOnlyControls } from '../../../shared';
 
 const code = `
-import { Input } from '@mantine/core';
+import { Input } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <Input{{props}} placeholder="Input component" />;

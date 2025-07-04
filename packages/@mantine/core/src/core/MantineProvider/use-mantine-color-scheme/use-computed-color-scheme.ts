@@ -1,4 +1,4 @@
-import { useColorScheme, UseMediaQueryOptions } from '@mantine/hooks';
+import { useColorScheme, UseMediaQueryOptions } from '@pradeeparul2/mantine-hooks';
 import { useMantineColorScheme } from './use-mantine-color-scheme';
 
 export function useComputedColorScheme(

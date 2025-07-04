@@ -1,12 +1,12 @@
 import dayjs from 'dayjs';
-import { Indicator } from '@mantine/core';
-import { DatePicker, DatePickerProps } from '@mantine/dates';
+import { Indicator } from '@pradeeparul2/mantine-core';
+import { DatePicker, DatePickerProps } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import dayjs from 'dayjs';
-import { Indicator } from '@mantine/core';
-import { DatePicker, DatePickerProps } from '@mantine/dates';
+import { Indicator } from '@pradeeparul2/mantine-core';
+import { DatePicker, DatePickerProps } from '@pradeeparul2/mantine-dates';
 
 const dayRenderer: DatePickerProps['renderDay'] = (date) => {
   const day = dayjs(date).date();

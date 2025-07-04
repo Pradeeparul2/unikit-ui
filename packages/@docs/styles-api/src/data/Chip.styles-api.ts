@@ -1,4 +1,4 @@
-import type { ChipFactory } from '@mantine/core';
+import type { ChipFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const ChipStylesApi: StylesApiData<ChipFactory> = {

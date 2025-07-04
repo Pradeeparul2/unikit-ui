@@ -1,5 +1,5 @@
 import { forwardRef, useEffect, useRef, useState } from 'react';
-import { useMergedRef } from '@mantine/hooks';
+import { useMergedRef } from '@pradeeparul2/mantine-hooks';
 import { useScrollAreaContext } from '../ScrollArea.context';
 import { ScrollAreaScrollbarAxisProps } from '../ScrollArea.types';
 import { getThumbSize, isScrollingWithinScrollbarBounds, toInt } from '../utils';
@@ -58,4 +58,4 @@ export const ScrollAreaScrollbarX = forwardRef<HTMLDivElement, ScrollAreaScrollb
   }
 );
 
-ScrollAreaScrollbarX.displayName = '@mantine/core/ScrollAreaScrollbarX';
+ScrollAreaScrollbarX.displayName = '@pradeeparul2/mantine-core/ScrollAreaScrollbarX';

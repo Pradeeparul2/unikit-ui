@@ -1,4 +1,4 @@
-import { UnstyledButton } from '@mantine/core';
+import { UnstyledButton } from '@pradeeparul2/mantine-core';
 import { TimeValue } from '../../TimeValue';
 import { useTimePickerContext } from '../TimePicker.context';
 import { TimePickerAmPmLabels, TimePickerFormat } from '../TimePicker.types';

@@ -12,7 +12,7 @@ interface PublishPackage {
 
 export async function publishPackage({ packagePath, name, tag }: PublishPackage) {
   try {
-    $`cd ${packagePath} && npm publish --access private --tag ${tag}`;
+    $`cd ${packagePath} && npm publish --registry https://npm.pkg.github.com --tag ${tag}`;
     logger.success(`Package ${chalk.cyan(name)} has been published`);
   } catch (error: any) {
     logger.error(`Failed to publish package ${chalk.red(name)}`);

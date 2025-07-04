@@ -1,5 +1,5 @@
 import { cloneElement } from 'react';
-import { useFocusTrap, useMergedRef } from '@mantine/hooks';
+import { useFocusTrap, useMergedRef } from '@pradeeparul2/mantine-hooks';
 import { isElement } from '../../core';
 import { VisuallyHidden } from '../VisuallyHidden';
 
@@ -37,6 +37,6 @@ export function FocusTrapInitialFocus(props: React.ComponentPropsWithoutRef<'spa
   return <VisuallyHidden tabIndex={-1} data-autofocus {...props} />;
 }
 
-FocusTrap.displayName = '@mantine/core/FocusTrap';
-FocusTrapInitialFocus.displayName = '@mantine/core/FocusTrapInitialFocus';
+FocusTrap.displayName = '@pradeeparul2/mantine-core/FocusTrap';
+FocusTrapInitialFocus.displayName = '@pradeeparul2/mantine-core/FocusTrapInitialFocus';
 FocusTrap.InitialFocus = FocusTrapInitialFocus;

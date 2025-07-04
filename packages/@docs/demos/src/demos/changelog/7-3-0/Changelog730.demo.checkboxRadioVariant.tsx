@@ -1,8 +1,8 @@
-import { Checkbox, Radio, Stack } from '@mantine/core';
+import { Checkbox, Radio, Stack } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Radio, Checkbox, Stack } from '@mantine/core';
+import { Radio, Checkbox, Stack } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

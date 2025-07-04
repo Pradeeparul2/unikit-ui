@@ -1,12 +1,12 @@
+import { ActionIcon } from '@pradeeparul2/mantine-core';
+import { useCounter } from '@pradeeparul2/mantine-hooks';
 import { IconChevronDown, IconChevronUp } from '@tabler/icons-react';
-import { ActionIcon } from '@mantine/core';
-import { useCounter } from '@mantine/hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { IconChevronDown, IconChevronUp } from '@tabler/icons-react';
-import { ActionIcon } from '@mantine/core';
-import { useCounter } from '@mantine/hooks';
+import { ActionIcon } from '@pradeeparul2/mantine-core';
+import { useCounter } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const [value, { increment, decrement }] = useCounter(135, { min: 0 });

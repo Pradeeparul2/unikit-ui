@@ -86,7 +86,7 @@ export const Progress = factory<ProgressFactory>((_props, ref) => {
 });
 
 Progress.classes = classes;
-Progress.displayName = '@mantine/core/Progress';
+Progress.displayName = '@pradeeparul2/mantine-core/Progress';
 Progress.Section = ProgressSection;
 Progress.Root = ProgressRoot;
 Progress.Label = ProgressLabel;

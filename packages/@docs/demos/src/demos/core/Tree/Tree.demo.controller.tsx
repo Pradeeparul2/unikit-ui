@@ -1,9 +1,9 @@
-import { Button, Group, Tree, useTree } from '@mantine/core';
+import { Button, Group, Tree, useTree } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { data, dataCode } from './data';
 
 const code = `
-import { Button, Group, Tree, useTree } from '@mantine/core';
+import { Button, Group, Tree, useTree } from '@pradeeparul2/mantine-core';
 import { data } from './data';
 
 function Demo() {

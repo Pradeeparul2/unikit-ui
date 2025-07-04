@@ -1,4 +1,4 @@
-import type { PopoverFactory } from '@mantine/core';
+import type { PopoverFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const PopoverStylesApi: StylesApiData<PopoverFactory> = {

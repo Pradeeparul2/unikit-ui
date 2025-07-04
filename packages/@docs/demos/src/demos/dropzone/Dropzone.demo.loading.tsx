@@ -2,7 +2,7 @@ import { MantineDemo } from '@mantinex/demo';
 import { BaseDemo } from './_base';
 
 const code = `
-import { Dropzone } from '@mantine/dropzone';
+import { Dropzone } from '@pradeeparul2/mantine-dropzone';
 
 function Demo() {
   return (

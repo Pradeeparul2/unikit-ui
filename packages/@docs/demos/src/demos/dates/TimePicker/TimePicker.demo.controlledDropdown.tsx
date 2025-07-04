@@ -1,14 +1,14 @@
 import { useState } from 'react';
+import { ActionIcon } from '@pradeeparul2/mantine-core';
+import { TimePicker } from '@pradeeparul2/mantine-dates';
 import { IconClock } from '@tabler/icons-react';
-import { ActionIcon } from '@mantine/core';
-import { TimePicker } from '@mantine/dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
 import { IconClock } from '@tabler/icons-react';
-import { ActionIcon } from '@mantine/core';
-import { TimePicker } from '@mantine/dates';
+import { ActionIcon } from '@pradeeparul2/mantine-core';
+import { TimePicker } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   const [dropdownOpened, setDropdownOpened] = useState(false);

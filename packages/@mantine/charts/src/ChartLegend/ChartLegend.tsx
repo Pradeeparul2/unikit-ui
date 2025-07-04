@@ -8,7 +8,7 @@ import {
   StylesApiProps,
   useProps,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { ChartSeries } from '../types';
 import { getSeriesLabels } from '../utils';
 import classes from './ChartLegend.module.css';

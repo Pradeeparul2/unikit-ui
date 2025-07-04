@@ -1,9 +1,9 @@
+import { Switch } from '@pradeeparul2/mantine-core';
 import { IconMoonStars, IconSun } from '@tabler/icons-react';
-import { Switch } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Switch } from '@mantine/core';
+import { Switch } from '@pradeeparul2/mantine-core';
 import { IconSun, IconMoonStars } from '@tabler/icons-react';
 
 function Demo() {

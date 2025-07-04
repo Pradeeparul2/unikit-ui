@@ -1,6 +1,6 @@
 // WIP, not planned to be released in 7.0, maybe in 7.x
 import { useCallback, useEffect, useRef } from 'react';
-import { useUncontrolled } from '@mantine/hooks';
+import { useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import { getFirstIndex, getNextIndex, getPreviousIndex } from './get-index/get-virtualized-index';
 import { ComboboxStore } from './use-combobox';
 

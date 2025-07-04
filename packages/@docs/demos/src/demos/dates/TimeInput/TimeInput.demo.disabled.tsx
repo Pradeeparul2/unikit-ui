@@ -1,8 +1,8 @@
-import { TimeInput } from '@mantine/dates';
+import { TimeInput } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { TimeInput } from '@mantine/dates';
+import { TimeInput } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   return <TimeInput disabled />;

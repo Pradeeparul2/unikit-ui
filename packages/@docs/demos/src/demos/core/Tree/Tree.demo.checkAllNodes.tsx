@@ -1,4 +1,3 @@
-import { IconChevronDown } from '@tabler/icons-react';
 import {
   Button,
   Checkbox,
@@ -7,7 +6,8 @@ import {
   RenderTreeNodePayload,
   Tree,
   useTree,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
+import { IconChevronDown } from '@tabler/icons-react';
 import { MantineDemo } from '@mantinex/demo';
 import { data, dataCode } from './data';
 
@@ -21,7 +21,7 @@ import {
   RenderTreeNodePayload,
   Tree,
   useTree,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { data } from './data';
 
 const renderTreeNode = ({
@@ -61,8 +61,8 @@ function Demo() {
     initialExpandedState: getTreeExpandedState(data, '*'),
     initialCheckedState: [
       'node_modules',
-      'node_modules/@mantine/core/index.d.ts',
-      'node_modules/@mantine/form/package.json',
+      'node_modules/@pradeeparul2/mantine-core/index.d.ts',
+      'node_modules/@pradeeparul2/mantine-form/package.json',
     ],
   });
 
@@ -122,8 +122,8 @@ function Demo() {
     initialExpandedState: getTreeExpandedState(data, '*'),
     initialCheckedState: [
       'node_modules',
-      'node_modules/@mantine/core/index.d.ts',
-      'node_modules/@mantine/form/package.json',
+      'node_modules/@pradeeparul2/mantine-core/index.d.ts',
+      'node_modules/@pradeeparul2/mantine-form/package.json',
     ],
   });
 

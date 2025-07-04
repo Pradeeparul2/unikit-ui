@@ -149,5 +149,5 @@ export const RadioIndicator = factory<RadioIndicatorFactory>((_props, ref) => {
   );
 });
 
-RadioIndicator.displayName = '@mantine/core/RadioIndicator';
+RadioIndicator.displayName = '@pradeeparul2/mantine-core/RadioIndicator';
 RadioIndicator.classes = classes;

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useUncontrolled } from '@mantine/hooks';
+import { useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   ExtendComponent,
   Factory,
@@ -218,7 +218,7 @@ export function Menu(_props: MenuProps) {
 Menu.extend = (input: ExtendComponent<MenuFactory>) => input;
 Menu.withProps = getWithProps<MenuProps, MenuProps>(Menu as any);
 Menu.classes = classes as Record<string, string>;
-Menu.displayName = '@mantine/core/Menu';
+Menu.displayName = '@pradeeparul2/mantine-core/Menu';
 Menu.Item = MenuItem;
 Menu.Label = MenuLabel;
 Menu.Dropdown = MenuDropdown;

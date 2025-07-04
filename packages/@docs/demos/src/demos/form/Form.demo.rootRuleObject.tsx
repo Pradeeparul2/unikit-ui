@@ -1,10 +1,10 @@
-import { Button, Text, TextInput } from '@mantine/core';
-import { formRootRule, isNotEmpty, useForm } from '@mantine/form';
+import { Button, Text, TextInput } from '@pradeeparul2/mantine-core';
+import { formRootRule, isNotEmpty, useForm } from '@pradeeparul2/mantine-form';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button, Text, TextInput } from '@mantine/core';
-import { formRootRule, isNotEmpty, useForm } from '@mantine/form';
+import { Button, Text, TextInput } from '@pradeeparul2/mantine-core';
+import { formRootRule, isNotEmpty, useForm } from '@pradeeparul2/mantine-form';
 
 function Demo() {
   const form = useForm({

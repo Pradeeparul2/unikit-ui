@@ -1,15 +1,15 @@
 import { useCallback, useEffect, useState } from 'react';
+import { Carousel } from '@pradeeparul2/mantine-carousel';
+import { Progress } from '@pradeeparul2/mantine-core';
 import { EmblaCarouselType } from 'embla-carousel';
-import { Carousel } from '@mantine/carousel';
-import { Progress } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { Slides } from './_slides';
 
 const code = `
 import { useCallback, useEffect, useState } from 'react';
 import { EmblaCarouselType } from 'embla-carousel';
-import { Carousel } from '@mantine/carousel';
-import { Progress } from '@mantine/core';
+import { Carousel } from '@pradeeparul2/mantine-carousel';
+import { Progress } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [scrollProgress, setScrollProgress] = useState(0);

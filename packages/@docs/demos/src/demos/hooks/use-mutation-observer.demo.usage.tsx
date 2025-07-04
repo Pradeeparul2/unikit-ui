@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import { Button, Text } from '@mantine/core';
-import { useMutationObserver } from '@mantine/hooks';
+import { Button, Text } from '@pradeeparul2/mantine-core';
+import { useMutationObserver } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { Button, Text } from '@mantine/core';
-import { useMutationObserver } from '@mantine/hooks';
+import { Button, Text } from '@pradeeparul2/mantine-core';
+import { useMutationObserver } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const [lastMutation, setLastMutation] = useState('');

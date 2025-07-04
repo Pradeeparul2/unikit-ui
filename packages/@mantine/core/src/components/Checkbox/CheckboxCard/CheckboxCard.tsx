@@ -1,4 +1,4 @@
-import { useUncontrolled } from '@mantine/hooks';
+import { useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   BoxProps,
   createVarsResolver,
@@ -124,5 +124,5 @@ export const CheckboxCard = factory<CheckboxCardFactory>((_props, ref) => {
   );
 });
 
-CheckboxCard.displayName = '@mantine/core/CheckboxCard';
+CheckboxCard.displayName = '@pradeeparul2/mantine-core/CheckboxCard';
 CheckboxCard.classes = classes;

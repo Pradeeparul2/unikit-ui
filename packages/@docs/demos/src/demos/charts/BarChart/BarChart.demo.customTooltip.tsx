@@ -1,11 +1,11 @@
-import { BarChart } from '@mantine/charts';
-import { Paper, Text } from '@mantine/core';
+import { BarChart } from '@pradeeparul2/mantine-charts';
+import { Paper, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { data, dataCode } from './_data';
 
 const code = `
-import { BarChart } from '@mantine/charts';
-import { Paper, Text } from '@mantine/core';
+import { BarChart } from '@pradeeparul2/mantine-charts';
+import { Paper, Text } from '@pradeeparul2/mantine-core';
 import { data } from './data';
 
 interface ChartTooltipProps {

@@ -1,4 +1,4 @@
-import { Box, rem } from '@mantine/core';
+import { Box, rem } from '@pradeeparul2/mantine-core';
 import classes from './DemoArea.module.css';
 
 export interface DemoAreaProps {

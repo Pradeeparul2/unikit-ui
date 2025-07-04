@@ -1,8 +1,8 @@
-import { YearPickerInput } from '@mantine/dates';
+import { YearPickerInput } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { YearPickerInput } from '@mantine/dates';
+import { YearPickerInput } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   return (

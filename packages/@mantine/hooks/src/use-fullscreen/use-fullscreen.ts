@@ -88,7 +88,7 @@ export function useFullscreen<T extends HTMLElement = any>(): UseFullscreenRetur
       setFullscreen(false);
       // eslint-disable-next-line no-console
       console.error(
-        `[@mantine/hooks] use-fullscreen: Error attempting full-screen mode method: ${event} (${event.target})`
+        `[@pradeeparul2/mantine-hooks] use-fullscreen: Error attempting full-screen mode method: ${event} (${event.target})`
       );
     },
     [setFullscreen]

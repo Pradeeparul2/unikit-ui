@@ -1,4 +1,4 @@
-import { TableOfContents } from '@mantine/core';
+import { TableOfContents } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './TableOfContents.demo.styles.module.css';
 
@@ -13,7 +13,7 @@ const cssCode = `.control {
 }`;
 
 const code = `
-import { TableOfContents } from '@mantine/core';
+import { TableOfContents } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 function Demo() {

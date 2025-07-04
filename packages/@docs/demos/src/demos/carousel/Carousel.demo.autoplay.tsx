@@ -1,13 +1,13 @@
 import { useRef } from 'react';
+import { Carousel } from '@pradeeparul2/mantine-carousel';
 import Autoplay from 'embla-carousel-autoplay';
-import { Carousel } from '@mantine/carousel';
 import { MantineDemo } from '@mantinex/demo';
 import { Slides } from './_slides';
 
 const code = `
 import { useRef } from 'react';
 import Autoplay from 'embla-carousel-autoplay';
-import { Carousel } from '@mantine/carousel';
+import { Carousel } from '@pradeeparul2/mantine-carousel';
 
 function Demo() {
   const autoplay = useRef(Autoplay({ delay: 1000 }));

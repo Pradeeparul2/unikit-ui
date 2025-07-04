@@ -1,10 +1,10 @@
-import { Button, Popover, Select } from '@mantine/core';
-import { DatePickerInput } from '@mantine/dates';
+import { Button, Popover, Select } from '@pradeeparul2/mantine-core';
+import { DatePickerInput } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button, Popover, Select } from '@mantine/core';
-import { DatePickerInput } from '@mantine/dates';
+import { Button, Popover, Select } from '@pradeeparul2/mantine-core';
+import { DatePickerInput } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   return (

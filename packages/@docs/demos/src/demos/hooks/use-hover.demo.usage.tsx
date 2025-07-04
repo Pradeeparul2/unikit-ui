@@ -1,9 +1,9 @@
-import { Text } from '@mantine/core';
-import { useHover } from '@mantine/hooks';
+import { Text } from '@pradeeparul2/mantine-core';
+import { useHover } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useHover } from '@mantine/hooks';
+import { useHover } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const { hovered, ref } = useHover();

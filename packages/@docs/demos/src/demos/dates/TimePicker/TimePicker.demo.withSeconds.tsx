@@ -1,8 +1,8 @@
-import { TimePicker } from '@mantine/dates';
+import { TimePicker } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { TimePicker } from '@mantine/dates';
+import { TimePicker } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   return <TimePicker label="Enter time" withSeconds />;

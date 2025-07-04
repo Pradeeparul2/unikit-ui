@@ -1,6 +1,4 @@
 import { Children, useCallback, useEffect, useState } from 'react';
-import type { EmblaCarouselType, EmblaOptionsType, EmblaPluginType } from 'embla-carousel';
-import useEmblaCarousel from 'embla-carousel-react';
 import {
   AccordionChevron,
   Box,
@@ -19,8 +17,10 @@ import {
   useProps,
   useRandomClassName,
   useStyles,
-} from '@mantine/core';
-import { clamp } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { clamp } from '@pradeeparul2/mantine-hooks';
+import type { EmblaCarouselType, EmblaOptionsType, EmblaPluginType } from 'embla-carousel';
+import useEmblaCarousel from 'embla-carousel-react';
 import { CarouselProvider } from './Carousel.context';
 import { CarouselSlide } from './CarouselSlide/CarouselSlide';
 import {

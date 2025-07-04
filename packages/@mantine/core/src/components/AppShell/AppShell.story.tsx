@@ -1,4 +1,4 @@
-import { useDisclosure } from '@mantine/hooks';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { Button } from '../Button';
 import { Group } from '../Group';
 import { AppShell } from './AppShell';

@@ -1,6 +1,6 @@
+import { Link, RichTextEditor } from '@pradeeparul2/mantine-tiptap';
 import { useEditor } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
-import { Link, RichTextEditor } from '@mantine/tiptap';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './TipTap.demo.typographyStyles.module.css';
 
@@ -22,7 +22,7 @@ const cssCode = `.root {
 const code = `
 import { useEditor } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
-import { RichTextEditor, Link } from '@mantine/tiptap';
+import { RichTextEditor, Link } from '@pradeeparul2/mantine-tiptap';
 import classes from './Demo.module.css';
 
 function Demo() {

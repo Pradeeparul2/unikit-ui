@@ -1,5 +1,5 @@
+import { useId, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import cx from 'clsx';
-import { useId, useUncontrolled } from '@mantine/hooks';
 import {
   BoxProps,
   createVarsResolver,
@@ -247,4 +247,4 @@ export const PasswordInput = factory<PasswordInputFactory>((_props, ref) => {
 });
 
 PasswordInput.classes = { ...InputBase.classes, ...classes };
-PasswordInput.displayName = '@mantine/core/PasswordInput';
+PasswordInput.displayName = '@pradeeparul2/mantine-core/PasswordInput';

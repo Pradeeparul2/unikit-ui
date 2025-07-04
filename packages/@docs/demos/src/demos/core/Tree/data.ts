@@ -1,4 +1,4 @@
-import { TreeNodeData } from '@mantine/core';
+import { TreeNodeData } from '@pradeeparul2/mantine-core';
 
 export const data: TreeNodeData[] = [
   {
@@ -34,26 +34,35 @@ export const data: TreeNodeData[] = [
         children: [
           {
             label: 'core',
-            value: 'node_modules/@mantine/core',
+            value: 'node_modules/@pradeeparul2/mantine-core',
             children: [
-              { label: 'index.d.ts', value: 'node_modules/@mantine/core/index.d.ts' },
-              { label: 'package.json', value: 'node_modules/@mantine/core/package.json' },
+              { label: 'index.d.ts', value: 'node_modules/@pradeeparul2/mantine-core/index.d.ts' },
+              {
+                label: 'package.json',
+                value: 'node_modules/@pradeeparul2/mantine-core/package.json',
+              },
             ],
           },
           {
             label: 'hooks',
-            value: 'node_modules/@mantine/hooks',
+            value: 'node_modules/@pradeeparul2/mantine-hooks',
             children: [
-              { label: 'index.d.ts', value: 'node_modules/@mantine/hooks/index.d.ts' },
-              { label: 'package.json', value: 'node_modules/@mantine/hooks/package.json' },
+              { label: 'index.d.ts', value: 'node_modules/@pradeeparul2/mantine-hooks/index.d.ts' },
+              {
+                label: 'package.json',
+                value: 'node_modules/@pradeeparul2/mantine-hooks/package.json',
+              },
             ],
           },
           {
             label: 'form',
-            value: 'node_modules/@mantine/form',
+            value: 'node_modules/@pradeeparul2/mantine-form',
             children: [
-              { label: 'index.d.ts', value: 'node_modules/@mantine/form/index.d.ts' },
-              { label: 'package.json', value: 'node_modules/@mantine/form/package.json' },
+              { label: 'index.d.ts', value: 'node_modules/@pradeeparul2/mantine-form/index.d.ts' },
+              {
+                label: 'package.json',
+                value: 'node_modules/@pradeeparul2/mantine-form/package.json',
+              },
             ],
           },
         ],
@@ -70,7 +79,7 @@ export const data: TreeNodeData[] = [
   },
 ];
 
-export const dataCode = `import { TreeNodeData } from '@mantine/core';
+export const dataCode = `import { TreeNodeData } from '@pradeeparul2/mantine-core';
 
 export const data: TreeNodeData[] = [
   {
@@ -106,26 +115,26 @@ export const data: TreeNodeData[] = [
         children: [
           {
             label: 'core',
-            value: 'node_modules/@mantine/core',
+            value: 'node_modules/@pradeeparul2/mantine-core',
             children: [
-              { label: 'index.d.ts', value: 'node_modules/@mantine/core/index.d.ts' },
-              { label: 'package.json', value: 'node_modules/@mantine/core/package.json' },
+              { label: 'index.d.ts', value: 'node_modules/@pradeeparul2/mantine-core/index.d.ts' },
+              { label: 'package.json', value: 'node_modules/@pradeeparul2/mantine-core/package.json' },
             ],
           },
           {
             label: 'hooks',
-            value: 'node_modules/@mantine/hooks',
+            value: 'node_modules/@pradeeparul2/mantine-hooks',
             children: [
-              { label: 'index.d.ts', value: 'node_modules/@mantine/hooks/index.d.ts' },
-              { label: 'package.json', value: 'node_modules/@mantine/hooks/package.json' },
+              { label: 'index.d.ts', value: 'node_modules/@pradeeparul2/mantine-hooks/index.d.ts' },
+              { label: 'package.json', value: 'node_modules/@pradeeparul2/mantine-hooks/package.json' },
             ],
           },
           {
             label: 'form',
-            value: 'node_modules/@mantine/form',
+            value: 'node_modules/@pradeeparul2/mantine-form',
             children: [
-              { label: 'index.d.ts', value: 'node_modules/@mantine/form/index.d.ts' },
-              { label: 'package.json', value: 'node_modules/@mantine/form/package.json' },
+              { label: 'index.d.ts', value: 'node_modules/@pradeeparul2/mantine-form/index.d.ts' },
+              { label: 'package.json', value: 'node_modules/@pradeeparul2/mantine-form/package.json' },
             ],
           },
         ],

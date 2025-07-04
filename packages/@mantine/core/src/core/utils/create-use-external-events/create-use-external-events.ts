@@ -1,4 +1,4 @@
-import { useIsomorphicEffect } from '@mantine/hooks';
+import { useIsomorphicEffect } from '@pradeeparul2/mantine-hooks';
 
 function dispatchEvent<T>(type: string, detail?: T) {
   window.dispatchEvent(new CustomEvent(type, { detail }));

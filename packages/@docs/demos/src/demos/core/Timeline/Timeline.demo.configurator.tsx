@@ -1,4 +1,4 @@
-import { Box, TimelineProps } from '@mantine/core';
+import { Box, TimelineProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { TimelineBase } from './_base';
 
@@ -11,7 +11,7 @@ function Wrapper(props: TimelineProps) {
 }
 
 const code = `
-import { Timeline } from '@mantine/core';
+import { Timeline } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

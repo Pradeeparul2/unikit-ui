@@ -1,5 +1,5 @@
 import { cloneElement } from 'react';
-import { useMergedRef } from '@mantine/hooks';
+import { useMergedRef } from '@pradeeparul2/mantine-hooks';
 import { factory, Factory, getRefProp, isElement, useProps } from '../../../core';
 import { useComboboxContext } from '../Combobox.context';
 import { useComboboxTargetProps } from '../use-combobox-target-props/use-combobox-target-props';
@@ -80,4 +80,4 @@ export const ComboboxEventsTarget = factory<ComboboxEventsTargetFactory>((props,
   });
 });
 
-ComboboxEventsTarget.displayName = '@mantine/core/ComboboxEventsTarget';
+ComboboxEventsTarget.displayName = '@pradeeparul2/mantine-core/ComboboxEventsTarget';

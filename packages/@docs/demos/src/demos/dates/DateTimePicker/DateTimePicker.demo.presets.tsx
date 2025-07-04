@@ -1,10 +1,10 @@
 import dayjs from 'dayjs';
-import { DateTimePicker } from '@mantine/dates';
+import { DateTimePicker } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import dayjs from 'dayjs';
-import { DateTimePicker } from '@mantine/dates';
+import { DateTimePicker } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   return (

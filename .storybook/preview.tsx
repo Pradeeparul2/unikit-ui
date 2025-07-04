@@ -1,19 +1,22 @@
 /* eslint-disable no-console */
 import React, { useEffect } from 'react';
-import { addons } from '@storybook/preview-api';
-import { IconTextDirectionLtr, IconTextDirectionRtl } from '@tabler/icons-react';
-import { DARK_MODE_EVENT_NAME } from 'storybook-dark-mode';
-import { CodeHighlightAdapterProvider, createShikiAdapter } from '@mantine/code-highlight';
+import {
+  CodeHighlightAdapterProvider,
+  createShikiAdapter,
+} from '@pradeeparul2/mantine-code-highlight';
 import {
   ActionIcon,
   DirectionProvider,
   MantineProvider,
   useDirection,
   useMantineColorScheme,
-} from '@mantine/core';
-import { MantineEmotionProvider } from '@mantine/emotion';
-import { ModalsProvider } from '@mantine/modals';
-import { Notifications } from '@mantine/notifications';
+} from '@pradeeparul2/mantine-core';
+import { MantineEmotionProvider } from '@pradeeparul2/mantine-emotion';
+import { ModalsProvider } from '@pradeeparul2/mantine-modals';
+import { Notifications } from '@pradeeparul2/mantine-notifications';
+import { addons } from '@storybook/preview-api';
+import { IconTextDirectionLtr, IconTextDirectionRtl } from '@tabler/icons-react';
+import { DARK_MODE_EVENT_NAME } from 'storybook-dark-mode';
 import { theme } from '../apps/mantine.dev/theme';
 
 export const parameters = {

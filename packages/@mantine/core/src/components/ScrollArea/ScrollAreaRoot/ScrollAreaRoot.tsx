@@ -1,5 +1,5 @@
 import { forwardRef, useState } from 'react';
-import { useMergedRef } from '@mantine/hooks';
+import { useMergedRef } from '@pradeeparul2/mantine-hooks';
 import { Box, BoxProps, ElementProps, Factory, GetStylesApi, useProps } from '../../../core';
 import type { ScrollAreaFactory } from '../ScrollArea';
 import { ScrollAreaProvider } from '../ScrollArea.context';
@@ -92,4 +92,4 @@ export const ScrollAreaRoot = forwardRef<HTMLDivElement, ScrollAreaRootProps>((_
   );
 });
 
-ScrollAreaRoot.displayName = '@mantine/core/ScrollAreaRoot';
+ScrollAreaRoot.displayName = '@pradeeparul2/mantine-core/ScrollAreaRoot';

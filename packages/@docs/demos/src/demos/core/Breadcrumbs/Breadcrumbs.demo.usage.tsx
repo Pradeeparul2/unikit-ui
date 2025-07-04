@@ -1,8 +1,8 @@
-import { Anchor, Breadcrumbs } from '@mantine/core';
+import { Anchor, Breadcrumbs } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Breadcrumbs, Anchor } from '@mantine/core';
+import { Breadcrumbs, Anchor } from '@pradeeparul2/mantine-core';
 
 const items = [
   { title: 'Mantine', href: '#' },

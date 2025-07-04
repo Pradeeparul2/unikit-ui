@@ -41,4 +41,4 @@ export const HoverCardTarget = forwardRef<HTMLElement, HoverCardTargetProps>((pr
   );
 });
 
-HoverCardTarget.displayName = '@mantine/core/HoverCardTarget';
+HoverCardTarget.displayName = '@pradeeparul2/mantine-core/HoverCardTarget';

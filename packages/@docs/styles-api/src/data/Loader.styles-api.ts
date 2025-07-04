@@ -1,4 +1,4 @@
-import type { LoaderFactory } from '@mantine/core';
+import type { LoaderFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const LoaderStylesApi: StylesApiData<LoaderFactory> = {

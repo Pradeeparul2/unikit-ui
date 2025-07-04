@@ -1,9 +1,9 @@
+import { Button, Group } from '@pradeeparul2/mantine-core';
 import { IconArrowRight, IconDownload, IconPhoto } from '@tabler/icons-react';
-import { Button, Group } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Group, Button } from '@mantine/core';
+import { Group, Button } from '@pradeeparul2/mantine-core';
 import { IconPhoto, IconDownload, IconArrowRight } from '@tabler/icons-react';
 
 function Demo() {

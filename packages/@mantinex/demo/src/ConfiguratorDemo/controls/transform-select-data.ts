@@ -1,4 +1,4 @@
-import { upperFirst } from '@mantine/hooks';
+import { upperFirst } from '@pradeeparul2/mantine-hooks';
 
 interface SelectDataItem {
   label: string;

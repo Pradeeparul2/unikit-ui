@@ -1,11 +1,11 @@
+import { NumberInput } from '@pradeeparul2/mantine-core';
 import { IconAt } from '@tabler/icons-react';
-import { NumberInput } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { NumberInputStylesApi } from '@docs/styles-api';
 
 const code = `
 import { IconAt } from '@tabler/icons-react';
-import { NumberInput } from '@mantine/core';
+import { NumberInput } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

@@ -1,8 +1,8 @@
-import { Button, Group } from '@mantine/core';
+import { Button, Group } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { MantineProvider, createTheme, Group, Button } from '@mantine/core';
+import { MantineProvider, createTheme, Group, Button } from '@pradeeparul2/mantine-core';
 
 const theme = createTheme({
   colors: {

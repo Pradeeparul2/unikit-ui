@@ -4,7 +4,7 @@ import {
   useScrollSpy,
   UseScrollSpyHeadingData,
   UseScrollSpyOptions,
-} from '@mantine/hooks';
+} from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -197,5 +197,5 @@ export const TableOfContents = factory<TableOfContentsFactory>((_props, ref) => 
   );
 });
 
-TableOfContents.displayName = '@mantine/core/TableOfContents';
+TableOfContents.displayName = '@pradeeparul2/mantine-core/TableOfContents';
 TableOfContents.classes = classes;

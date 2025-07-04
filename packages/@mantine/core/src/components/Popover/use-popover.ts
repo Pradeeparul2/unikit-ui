@@ -13,7 +13,7 @@ import {
   useFloating,
   UseFloatingReturn,
 } from '@floating-ui/react';
-import { useDidUpdate, useUncontrolled } from '@mantine/hooks';
+import { useDidUpdate, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import { useMantineEnv } from '../../core';
 import { FloatingAxesOffsets, FloatingPosition, FloatingStrategy } from '../Floating';
 import { PopoverMiddlewares, PopoverWidth } from './Popover.types';

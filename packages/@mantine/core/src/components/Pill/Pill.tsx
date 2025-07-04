@@ -152,5 +152,5 @@ export const Pill = factory<PillFactory>((_props, ref) => {
 });
 
 Pill.classes = classes;
-Pill.displayName = '@mantine/core/Pill';
+Pill.displayName = '@pradeeparul2/mantine-core/Pill';
 Pill.Group = PillGroup;

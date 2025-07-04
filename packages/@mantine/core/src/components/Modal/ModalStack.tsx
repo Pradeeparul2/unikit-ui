@@ -45,4 +45,4 @@ export function ModalStack({ children }: ModalStackProps) {
   );
 }
 
-ModalStack.displayName = '@mantine/core/ModalStack';
+ModalStack.displayName = '@pradeeparul2/mantine-core/ModalStack';

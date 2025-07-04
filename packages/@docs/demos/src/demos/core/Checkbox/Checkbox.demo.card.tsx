@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Checkbox, Group, Text } from '@mantine/core';
+import { Checkbox, Group, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Checkbox.demo.card.module.css';
 
@@ -40,7 +40,7 @@ const cssCode = `.root {
 
 const code = `
 import { useState } from 'react';
-import { Checkbox, Group, Text } from '@mantine/core';
+import { Checkbox, Group, Text } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 function Demo() {
@@ -56,7 +56,7 @@ function Demo() {
       <Group wrap="nowrap" align="flex-start">
         <Checkbox.Indicator />
         <div>
-          <Text className={classes.label}>@mantine/core</Text>
+          <Text className={classes.label}>@pradeeparul2/mantine-core</Text>
           <Text className={classes.description}>
             Core components library: inputs, buttons, overlays, etc.
           </Text>
@@ -80,7 +80,7 @@ function Demo() {
       <Group wrap="nowrap" align="flex-start">
         <Checkbox.Indicator />
         <div>
-          <Text className={classes.label}>@mantine/core</Text>
+          <Text className={classes.label}>@pradeeparul2/mantine-core</Text>
           <Text className={classes.description}>
             Core components library: inputs, buttons, overlays, etc.
           </Text>

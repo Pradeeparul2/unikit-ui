@@ -4,6 +4,12 @@ Use WSL
 wsl -d Ubuntu-22.04
 ```
 
+#### Release Build:
+
+```bash
+npx tsx scripts/release
+```
+
 
 
 ### Get started with Mantine locally

@@ -1,4 +1,4 @@
-import { useUncontrolled } from '@mantine/hooks';
+import { useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import { DataAttributes, factory, Factory, MantineSize, useProps } from '../../../core';
 import { Input, InputWrapperProps, InputWrapperStylesNames } from '../../Input';
 import { InputsGroupFieldset } from '../../InputsGroupFieldset';
@@ -75,4 +75,4 @@ export const SwitchGroup = factory<SwitchGroupFactory>((props, ref) => {
 });
 
 SwitchGroup.classes = Input.Wrapper.classes;
-SwitchGroup.displayName = '@mantine/core/SwitchGroup';
+SwitchGroup.displayName = '@pradeeparul2/mantine-core/SwitchGroup';

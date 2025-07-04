@@ -1,4 +1,4 @@
-import { CodeHighlight } from '@mantine/code-highlight';
+import { CodeHighlight } from '@pradeeparul2/mantine-code-highlight';
 import { MantineDemo } from '@mantinex/demo';
 
 const exampleCode = `
@@ -8,7 +8,7 @@ function Button() {
 `;
 
 const code = `
-import { CodeHighlight } from '@mantine/code-highlight';
+import { CodeHighlight } from '@pradeeparul2/mantine-code-highlight';
 
 const exampleCode = \`${exampleCode}\`;
 

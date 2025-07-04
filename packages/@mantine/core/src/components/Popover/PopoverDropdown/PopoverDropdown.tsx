@@ -1,4 +1,4 @@
-import { useFocusReturn, useMergedRef } from '@mantine/hooks';
+import { useFocusReturn, useMergedRef } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -148,4 +148,4 @@ export const PopoverDropdown = factory<PopoverDropdownFactory>((_props, ref) => 
 });
 
 PopoverDropdown.classes = classes;
-PopoverDropdown.displayName = '@mantine/core/PopoverDropdown';
+PopoverDropdown.displayName = '@pradeeparul2/mantine-core/PopoverDropdown';

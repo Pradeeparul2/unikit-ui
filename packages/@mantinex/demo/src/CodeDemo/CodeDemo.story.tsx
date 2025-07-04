@@ -1,4 +1,4 @@
-import { CodeHighlightTabsCode } from '@mantine/code-highlight';
+import { CodeHighlightTabsCode } from '@pradeeparul2/mantine-code-highlight';
 import { CodeDemo } from './CodeDemo';
 
 export default { title: 'DS/CodeDemo' };

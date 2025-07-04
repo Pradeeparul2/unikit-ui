@@ -1,4 +1,4 @@
-import { createSafeContext, GetStylesApi } from '@mantine/core';
+import { createSafeContext, GetStylesApi } from '@pradeeparul2/mantine-core';
 import { SpotlightStore } from './spotlight.store';
 import type { SpotlightRootFactory } from './SpotlightRoot';
 

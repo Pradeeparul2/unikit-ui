@@ -1,4 +1,4 @@
-import { CodeHighlight } from '@mantine/code-highlight';
+import { CodeHighlight } from '@pradeeparul2/mantine-code-highlight';
 import { MantineDemo } from '@mantinex/demo';
 
 const exampleCode = `
@@ -17,7 +17,7 @@ export function filterProps<T extends Record<string, any>>(props: T) {
 `;
 
 const code = `
-import { CodeHighlight } from '@mantine/code-highlight';
+import { CodeHighlight } from '@pradeeparul2/mantine-code-highlight';
 
 const exampleCode = \`${exampleCode}\`;
 

@@ -45,4 +45,4 @@ export const ComboboxEmpty = factory<ComboboxEmptyFactory>((props, ref) => {
 });
 
 ComboboxEmpty.classes = classes;
-ComboboxEmpty.displayName = '@mantine/core/ComboboxEmpty';
+ComboboxEmpty.displayName = '@pradeeparul2/mantine-core/ComboboxEmpty';

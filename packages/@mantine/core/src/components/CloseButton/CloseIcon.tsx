@@ -25,4 +25,4 @@ export const CloseIcon = forwardRef<SVGSVGElement, CloseIconProps>(
   )
 );
 
-CloseIcon.displayName = '@mantine/core/CloseIcon';
+CloseIcon.displayName = '@pradeeparul2/mantine-core/CloseIcon';

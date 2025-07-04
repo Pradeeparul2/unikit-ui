@@ -31,7 +31,7 @@ export function localStorageColorSchemeManager({
       } catch (error) {
         // eslint-disable-next-line no-console
         console.warn(
-          '[@mantine/core] Local storage color scheme manager was unable to save color scheme.',
+          '[@pradeeparul2/mantine-core] Local storage color scheme manager was unable to save color scheme.',
           error
         );
       }

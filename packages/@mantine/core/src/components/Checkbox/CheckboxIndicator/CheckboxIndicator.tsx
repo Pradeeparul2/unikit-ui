@@ -150,5 +150,5 @@ export const CheckboxIndicator = factory<CheckboxIndicatorFactory>((_props, ref)
   );
 });
 
-CheckboxIndicator.displayName = '@mantine/core/CheckboxIndicator';
+CheckboxIndicator.displayName = '@pradeeparul2/mantine-core/CheckboxIndicator';
 CheckboxIndicator.classes = classes;

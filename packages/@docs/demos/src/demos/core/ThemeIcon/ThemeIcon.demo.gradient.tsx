@@ -1,10 +1,10 @@
+import { ThemeIcon } from '@pradeeparul2/mantine-core';
 import { IconHeart } from '@tabler/icons-react';
-import { ThemeIcon } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { gradientControls } from '../../../shared';
 
 const code = (props: any) => `
-import { ThemeIcon } from '@mantine/core';
+import { ThemeIcon } from '@pradeeparul2/mantine-core';
 import { IconHeart } from '@tabler/icons-react';
 
 function Demo() {

@@ -1,12 +1,12 @@
 import { useCallback, useState } from 'react';
-import { Button } from '@mantine/core';
-import { useEventListener } from '@mantine/hooks';
+import { Button } from '@pradeeparul2/mantine-core';
+import { useEventListener } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState, useCallback } from 'react';
-import { Button } from '@mantine/core';
-import { useEventListener } from '@mantine/hooks';
+import { Button } from '@pradeeparul2/mantine-core';
+import { useEventListener } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const [count, setCount] = useState(0);

@@ -1,8 +1,8 @@
-import { Button, CopyButton } from '@mantine/core';
+import { Button, CopyButton } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { CopyButton, Button } from '@mantine/core';
+import { CopyButton, Button } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

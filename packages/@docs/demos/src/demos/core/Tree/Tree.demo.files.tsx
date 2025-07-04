@@ -1,5 +1,5 @@
+import { Group, RenderTreeNodePayload, Tree } from '@pradeeparul2/mantine-core';
 import { IconFolder, IconFolderOpen } from '@tabler/icons-react';
-import { Group, RenderTreeNodePayload, Tree } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { CssIcon, NpmIcon, TypeScriptCircleIcon } from '@mantinex/dev-icons';
 import { data, dataCode } from './data';
@@ -41,7 +41,7 @@ const cssCode = `.root {
 
 const code = `
 import { IconFolder, IconFolderOpen } from '@tabler/icons-react';
-import { Group, RenderTreeNodePayload, Tree } from '@mantine/core';
+import { Group, RenderTreeNodePayload, Tree } from '@pradeeparul2/mantine-core';
 import { CssIcon, NpmIcon, TypeScriptCircleIcon } from '@mantinex/dev-icons';
 import { data, dataCode } from './data';
 import classes from './Demo.module.css';

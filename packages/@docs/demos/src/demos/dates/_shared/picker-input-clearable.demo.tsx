@@ -3,7 +3,7 @@ import { MantineDemo } from '@mantinex/demo';
 
 const getCode = (name: string) => `
 import dayjs from 'dayjs';
-import { ${name} } from '@mantine/dates';
+import { ${name} } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   return (
@@ -33,7 +33,7 @@ export function getPickerInputClearableDemo(Component: React.FC<any>): MantineDe
     type: 'code',
     centered: true,
     maxWidth: 400,
-    code: getCode(Component.displayName!.replace('@mantine/dates/', '')),
+    code: getCode(Component.displayName!.replace('@pradeeparul2/mantine-dates/', '')),
     component: getDemo(Component),
   };
 }

@@ -1,10 +1,10 @@
-import { Text, TextInput } from '@mantine/core';
-import { useInputState, usePrevious } from '@mantine/hooks';
+import { Text, TextInput } from '@pradeeparul2/mantine-core';
+import { useInputState, usePrevious } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { TextInput, Text } from '@mantine/core';
-import { usePrevious, useInputState } from '@mantine/hooks';
+import { TextInput, Text } from '@pradeeparul2/mantine-core';
+import { usePrevious, useInputState } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const [value, setValue] = useInputState('');

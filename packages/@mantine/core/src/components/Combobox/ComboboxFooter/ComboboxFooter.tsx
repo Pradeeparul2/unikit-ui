@@ -48,4 +48,4 @@ export const ComboboxFooter = factory<ComboboxFooterFactory>((props, ref) => {
 });
 
 ComboboxFooter.classes = classes;
-ComboboxFooter.displayName = '@mantine/core/ComboboxFooter';
+ComboboxFooter.displayName = '@pradeeparul2/mantine-core/ComboboxFooter';

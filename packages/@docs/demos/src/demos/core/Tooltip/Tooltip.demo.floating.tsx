@@ -1,8 +1,8 @@
-import { Box, Tooltip } from '@mantine/core';
+import { Box, Tooltip } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Box, Tooltip } from '@mantine/core';
+import { Box, Tooltip } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

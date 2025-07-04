@@ -1,9 +1,9 @@
-import { Progress } from '@mantine/core';
+import { Progress } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { ProgressStylesApi } from '@docs/styles-api';
 
 const code = `
-import { Progress } from '@mantine/core';
+import { Progress } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

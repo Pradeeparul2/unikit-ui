@@ -1,9 +1,9 @@
-import { createTheme, MantineThemeProvider, Title } from '@mantine/core';
+import { createTheme, MantineThemeProvider, Title } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Theming.demo.headingStyles.module.css';
 
 const code = `
-import { Title, MantineProvider } from '@mantine/core';
+import { Title, MantineProvider } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 const theme = createTheme({

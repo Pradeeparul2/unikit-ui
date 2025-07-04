@@ -1,5 +1,5 @@
 import { forwardRef, useEffect, useRef, useState } from 'react';
-import { useCallbackRef, useDebouncedCallback, useMergedRef } from '@mantine/hooks';
+import { useCallbackRef, useDebouncedCallback, useMergedRef } from '@pradeeparul2/mantine-hooks';
 import { useScrollAreaContext } from '../ScrollArea.context';
 import { Sizes } from '../ScrollArea.types';
 import { useResizeObserver } from '../use-resize-observer';

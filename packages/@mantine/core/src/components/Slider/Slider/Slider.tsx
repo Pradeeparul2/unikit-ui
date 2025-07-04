@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { clamp, useMergedRef, useMove, useUncontrolled } from '@mantine/hooks';
+import { clamp, useMergedRef, useMove, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   BoxProps,
   createVarsResolver,
@@ -451,4 +451,4 @@ export const Slider = factory<SliderFactory>((_props, ref) => {
 });
 
 Slider.classes = classes;
-Slider.displayName = '@mantine/core/Slider';
+Slider.displayName = '@pradeeparul2/mantine-core/Slider';

@@ -1,4 +1,4 @@
-import { useIsomorphicEffect } from '@mantine/hooks';
+import { useIsomorphicEffect } from '@pradeeparul2/mantine-hooks';
 
 interface UseRespectReduceMotionOptions {
   respectReducedMotion: boolean;

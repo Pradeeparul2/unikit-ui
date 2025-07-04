@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { IconAt, IconLock } from '@tabler/icons-react';
 import {
   Anchor,
   Button,
@@ -10,8 +9,9 @@ import {
   PasswordInput,
   Text,
   TextInput,
-} from '@mantine/core';
-import { useForm } from '@mantine/form';
+} from '@pradeeparul2/mantine-core';
+import { useForm } from '@pradeeparul2/mantine-form';
+import { IconAt, IconLock } from '@tabler/icons-react';
 
 export interface AuthenticationFormProps {
   noShadow?: boolean;

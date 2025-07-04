@@ -1,4 +1,4 @@
-import { AreaChart } from '@mantine/charts';
+import { AreaChart } from '@pradeeparul2/mantine-charts';
 import { MantineDemo } from '@mantinex/demo';
 import { data, dataCode } from './_data';
 import classes from './AreaChart.demo.colorSchemeColor.module.css';
@@ -15,7 +15,7 @@ const cssCode = `.root {
 `;
 
 const code = `
-import { AreaChart } from '@mantine/charts';
+import { AreaChart } from '@pradeeparul2/mantine-charts';
 import { data } from './data';
 import classes from './Demo.module.css';
 

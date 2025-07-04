@@ -1,10 +1,10 @@
 import { useEffect, useState } from 'react';
-import { Combobox, TextInput, useCombobox } from '@mantine/core';
+import { Combobox, TextInput, useCombobox } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState, useEffect } from 'react';
-import { Combobox, TextInput, useCombobox } from '@mantine/core';
+import { Combobox, TextInput, useCombobox } from '@pradeeparul2/mantine-core';
 
 const groceries = ['🍎 Apples', '🍌 Bananas', '🥦 Broccoli', '🥕 Carrots', '🍫 Chocolate'];
 

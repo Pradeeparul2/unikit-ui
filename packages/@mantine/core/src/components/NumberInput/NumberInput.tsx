@@ -1,7 +1,7 @@
 import React, { useRef } from 'react';
+import { assignRef, clamp, useMergedRef, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import cx from 'clsx';
 import { NumberFormatValues, NumericFormat, OnValueChange } from 'react-number-format';
-import { assignRef, clamp, useMergedRef, useUncontrolled } from '@mantine/hooks';
 import {
   BoxProps,
   createVarsResolver,
@@ -535,4 +535,4 @@ export const NumberInput = factory<NumberInputFactory>((_props, ref) => {
 });
 
 NumberInput.classes = { ...InputBase.classes, ...classes };
-NumberInput.displayName = '@mantine/core/NumberInput';
+NumberInput.displayName = '@pradeeparul2/mantine-core/NumberInput';

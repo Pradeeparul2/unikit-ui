@@ -1,4 +1,4 @@
-import { Mark, MarkProps, Text } from '@mantine/core';
+import { Mark, MarkProps, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: MarkProps) {
@@ -10,7 +10,7 @@ function Wrapper(props: MarkProps) {
 }
 
 const code = `
-import { Text, Mark } from '@mantine/core';
+import { Text, Mark } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

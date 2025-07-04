@@ -1,4 +1,4 @@
-import { rem } from '@mantine/core';
+import { rem } from '@pradeeparul2/mantine-core';
 
 export function ColorWheelIcon() {
   return (

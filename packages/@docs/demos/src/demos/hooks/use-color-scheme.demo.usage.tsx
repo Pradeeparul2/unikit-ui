@@ -1,10 +1,10 @@
-import { Badge } from '@mantine/core';
-import { useColorScheme } from '@mantine/hooks';
+import { Badge } from '@pradeeparul2/mantine-core';
+import { useColorScheme } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Badge } from '@mantine/core';
-import { useColorScheme } from '@mantine/hooks';
+import { Badge } from '@pradeeparul2/mantine-core';
+import { useColorScheme } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const colorScheme = useColorScheme();

@@ -1,11 +1,11 @@
-import { Box, Button, Group, LoadingOverlay } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { Box, Button, Group, LoadingOverlay } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 import { AuthenticationForm } from '../../../shared/AuthenticationForm/AuthenticationForm';
 
 const code = `
-import { useDisclosure } from '@mantine/hooks';
-import { LoadingOverlay, Button, Group, Box } from '@mantine/core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
+import { LoadingOverlay, Button, Group, Box } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [visible, { toggle }] = useDisclosure(false);

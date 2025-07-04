@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Stepper } from '@mantine/core';
+import { Stepper } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Stepper.demo.stylesApi3.module.css';
 
@@ -46,7 +46,7 @@ const cssCode = `.separator {
 
 const code = `
 import { useState } from 'react';
-import { Stepper } from '@mantine/core';
+import { Stepper } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 function Demo() {

@@ -1,10 +1,10 @@
-import { Button, Group } from '@mantine/core';
-import { notifications } from '@mantine/notifications';
+import { Button, Group } from '@pradeeparul2/mantine-core';
+import { notifications } from '@pradeeparul2/mantine-notifications';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button } from '@mantine/core';
-import { notifications } from '@mantine/notifications';
+import { Button } from '@pradeeparul2/mantine-core';
+import { notifications } from '@pradeeparul2/mantine-notifications';
 
 const positions = [
   'top-left',

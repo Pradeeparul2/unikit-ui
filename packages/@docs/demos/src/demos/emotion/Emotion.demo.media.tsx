@@ -1,10 +1,10 @@
-import { em, getBreakpointValue } from '@mantine/core';
-import { createStyles } from '@mantine/emotion';
+import { em, getBreakpointValue } from '@pradeeparul2/mantine-core';
+import { createStyles } from '@pradeeparul2/mantine-emotion';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { em, getBreakpointValue } from '@mantine/core';
-import { createStyles } from '@mantine/emotion';
+import { em, getBreakpointValue } from '@pradeeparul2/mantine-core';
+import { createStyles } from '@pradeeparul2/mantine-emotion';
 
 const useStyles = createStyles((theme, _, u) => ({
   container: {

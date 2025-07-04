@@ -1,5 +1,5 @@
+import { createSafeContext, GetStylesApi } from '@pradeeparul2/mantine-core';
 import { Editor } from '@tiptap/react';
-import { createSafeContext, GetStylesApi } from '@mantine/core';
 import { RichTextEditorLabels } from './labels';
 import type { RichTextEditorFactory } from './RichTextEditor';
 

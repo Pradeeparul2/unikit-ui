@@ -1,8 +1,8 @@
-import { Select } from '@mantine/core';
+import { Select } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Select } from '@mantine/core';
+import { Select } from '@pradeeparul2/mantine-core';
 
 const data = Array(100)
   .fill(0)

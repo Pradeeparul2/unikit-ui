@@ -15,7 +15,7 @@ const cssCode = `
 `;
 
 const code = `
-import { Dropzone } from '@mantine/dropzone';
+import { Dropzone } from '@pradeeparul2/mantine-dropzone';
 import classes from './Demo.module.css';
 
 function Demo() {

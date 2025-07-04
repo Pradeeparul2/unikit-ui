@@ -48,4 +48,4 @@ export function Track({
   );
 }
 
-Track.displayName = '@mantine/core/SliderTrack';
+Track.displayName = '@pradeeparul2/mantine-core/SliderTrack';

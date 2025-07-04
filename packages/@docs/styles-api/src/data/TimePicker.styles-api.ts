@@ -1,4 +1,4 @@
-import type { TimePickerFactory } from '@mantine/dates';
+import type { TimePickerFactory } from '@pradeeparul2/mantine-dates';
 import type { StylesApiData } from '../types';
 import { InputStylesApi, InputWrapperStylesApi } from './Input.styles-api';
 

@@ -1,5 +1,5 @@
 import { useRef } from 'react';
-import { useMergedRef } from '@mantine/hooks';
+import { useMergedRef } from '@pradeeparul2/mantine-hooks';
 import {
   BoxProps,
   CompoundStylesApiProps,
@@ -151,4 +151,4 @@ export const MenuSubItem = polymorphicFactory<MenuSubItemFactory>((props, ref) =
 });
 
 MenuSubItem.classes = classes;
-MenuSubItem.displayName = '@mantine/core/MenuSubItem';
+MenuSubItem.displayName = '@pradeeparul2/mantine-core/MenuSubItem';

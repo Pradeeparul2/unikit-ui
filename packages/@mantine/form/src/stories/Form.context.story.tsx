@@ -1,4 +1,4 @@
-import { TextInput } from '@mantine/core';
+import { TextInput } from '@pradeeparul2/mantine-core';
 import { createFormContext } from '../index';
 
 export default { title: 'Form' };

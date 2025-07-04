@@ -1,10 +1,10 @@
-import { Accordion, AccordionProps } from '@mantine/core';
+import { Accordion, AccordionProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { AccordionStylesApi } from '@docs/styles-api';
 import { groceries } from './_base';
 
 const code = `
-import { Accordion } from '@mantine/core';
+import { Accordion } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   // See groceries data above

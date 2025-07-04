@@ -1,4 +1,4 @@
-import { useMergedRef } from '@mantine/hooks';
+import { useMergedRef } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -88,4 +88,4 @@ export const PillsInputField = factory<PillsInputFieldFactory>((_props, ref) => 
 });
 
 PillsInputField.classes = classes;
-PillsInputField.displayName = '@mantine/core/PillsInputField';
+PillsInputField.displayName = '@pradeeparul2/mantine-core/PillsInputField';

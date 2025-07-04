@@ -1,10 +1,5 @@
 import { useEffect, useRef } from 'react';
 import {
-  Transition as _Transition,
-  TransitionGroup,
-  TransitionStatus,
-} from 'react-transition-group';
-import {
   BasePortalProps,
   Box,
   BoxProps,
@@ -20,8 +15,13 @@ import {
   useMantineTheme,
   useProps,
   useStyles,
-} from '@mantine/core';
-import { useDidUpdate, useForceUpdate, useReducedMotion } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { useDidUpdate, useForceUpdate, useReducedMotion } from '@pradeeparul2/mantine-hooks';
+import {
+  Transition as _Transition,
+  TransitionGroup,
+  TransitionStatus,
+} from 'react-transition-group';
 import {
   getGroupedNotifications,
   positions,

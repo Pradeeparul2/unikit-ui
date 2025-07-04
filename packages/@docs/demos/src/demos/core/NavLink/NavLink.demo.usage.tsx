@@ -1,3 +1,4 @@
+import { Badge, NavLink } from '@pradeeparul2/mantine-core';
 import {
   IconActivity,
   IconChevronRight,
@@ -5,11 +6,10 @@ import {
   IconGauge,
   IconHome2,
 } from '@tabler/icons-react';
-import { Badge, NavLink } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Badge, NavLink } from '@mantine/core';
+import { Badge, NavLink } from '@pradeeparul2/mantine-core';
 import { IconHome2, IconGauge, IconChevronRight, IconActivity, IconCircleOff } from '@tabler/icons-react';
 
 function Demo() {

@@ -1,11 +1,11 @@
+import { SpotlightActionData, SpotlightActionGroupData } from '@pradeeparul2/mantine-spotlight';
 import { IconSearch } from '@tabler/icons-react';
-import { SpotlightActionData, SpotlightActionGroupData } from '@mantine/spotlight';
 import { MantineDemo } from '@mantinex/demo';
 import { SpotlightDemoBase } from './_demo-base';
 
 const code = `
-import { Button } from '@mantine/core';
-import { Spotlight, SpotlightActionData, SpotlightActionGroupData, spotlight } from '@mantine/spotlight';
+import { Button } from '@pradeeparul2/mantine-core';
+import { Spotlight, SpotlightActionData, SpotlightActionGroupData, spotlight } from '@pradeeparul2/mantine-spotlight';
 import { IconSearch } from '@tabler/icons-react';
 
 const actions: (SpotlightActionGroupData | SpotlightActionData)[] = [

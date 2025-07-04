@@ -1,5 +1,5 @@
+import { rem } from '@pradeeparul2/mantine-core';
 import { IconSearch } from '@tabler/icons-react';
-import { rem } from '@mantine/core';
 import { HeaderControl } from './HeaderControl';
 
 interface SearchMobileControlProps {

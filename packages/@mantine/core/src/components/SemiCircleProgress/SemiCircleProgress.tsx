@@ -1,4 +1,4 @@
-import { clamp } from '@mantine/hooks';
+import { clamp } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -199,5 +199,5 @@ export const SemiCircleProgress = factory<SemiCircleProgressFactory>((_props, re
   );
 });
 
-SemiCircleProgress.displayName = '@mantine/core/SemiCircleProgress';
+SemiCircleProgress.displayName = '@pradeeparul2/mantine-core/SemiCircleProgress';
 SemiCircleProgress.classes = classes;

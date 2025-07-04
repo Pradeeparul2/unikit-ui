@@ -1,4 +1,4 @@
-import { useId } from '@mantine/hooks';
+import { useId } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -224,7 +224,7 @@ export const Radio = factory<RadioFactory>((_props, ref) => {
 });
 
 Radio.classes = classes;
-Radio.displayName = '@mantine/core/Radio';
+Radio.displayName = '@pradeeparul2/mantine-core/Radio';
 Radio.Group = RadioGroup;
 Radio.Card = RadioCard;
 Radio.Indicator = RadioIndicator;

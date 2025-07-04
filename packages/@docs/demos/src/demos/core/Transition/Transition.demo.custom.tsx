@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import { Box, Button, Paper, Transition } from '@mantine/core';
-import { useClickOutside } from '@mantine/hooks';
+import { Box, Button, Paper, Transition } from '@pradeeparul2/mantine-core';
+import { useClickOutside } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { useClickOutside } from '@mantine/hooks';
-import { Transition, Paper, Button, Box } from '@mantine/core';
+import { useClickOutside } from '@pradeeparul2/mantine-hooks';
+import { Transition, Paper, Button, Box } from '@pradeeparul2/mantine-core';
 
 const scaleY = {
   in: { opacity: 1, transform: 'scaleY(1)' },

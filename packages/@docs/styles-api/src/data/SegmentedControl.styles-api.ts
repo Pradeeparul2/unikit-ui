@@ -1,4 +1,4 @@
-import type { SegmentedControlFactory } from '@mantine/core';
+import type { SegmentedControlFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const SegmentedControlStylesApi: StylesApiData<SegmentedControlFactory> = {

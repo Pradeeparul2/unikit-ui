@@ -1,5 +1,19 @@
 import { useState } from 'react';
 import {
+  Box,
+  BoxProps,
+  createVarsResolver,
+  ElementProps,
+  factory,
+  Factory,
+  getThemeColor,
+  StylesApiProps,
+  useMantineTheme,
+  useProps,
+  useResolvedStylesApi,
+  useStyles,
+} from '@pradeeparul2/mantine-core';
+import {
   Area,
   AreaProps,
   Bar,
@@ -18,20 +32,6 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import {
-  Box,
-  BoxProps,
-  createVarsResolver,
-  ElementProps,
-  factory,
-  Factory,
-  getThemeColor,
-  StylesApiProps,
-  useMantineTheme,
-  useProps,
-  useResolvedStylesApi,
-  useStyles,
-} from '@mantine/core';
 import { ChartLegend, ChartLegendStylesNames } from '../ChartLegend';
 import { ChartTooltip, ChartTooltipStylesNames } from '../ChartTooltip';
 import { PointLabel } from '../PointLabel/PointLabel';

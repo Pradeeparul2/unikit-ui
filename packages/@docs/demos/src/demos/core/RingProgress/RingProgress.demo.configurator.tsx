@@ -1,4 +1,4 @@
-import { RingProgress, RingProgressProps } from '@mantine/core';
+import { RingProgress, RingProgressProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: RingProgressProps) {
@@ -15,7 +15,7 @@ function Wrapper(props: RingProgressProps) {
 }
 
 const code = `
-import { RingProgress } from '@mantine/core';
+import { RingProgress } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

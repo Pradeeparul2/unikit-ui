@@ -94,4 +94,4 @@ export const ProgressRoot = factory<ProgressRootFactory>((_props, ref) => {
 });
 
 ProgressRoot.classes = classes;
-ProgressRoot.displayName = '@mantine/core/ProgressRoot';
+ProgressRoot.displayName = '@pradeeparul2/mantine-core/ProgressRoot';

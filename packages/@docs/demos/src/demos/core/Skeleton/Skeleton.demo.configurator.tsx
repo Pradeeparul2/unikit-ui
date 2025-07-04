@@ -1,4 +1,4 @@
-import { Skeleton, SkeletonProps } from '@mantine/core';
+import { Skeleton, SkeletonProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: Partial<SkeletonProps>) {
@@ -13,7 +13,7 @@ function Wrapper(props: Partial<SkeletonProps>) {
 }
 
 const code = (props: any) => `
-  import { Skeleton } from '@mantine/core';
+  import { Skeleton } from '@pradeeparul2/mantine-core';
 
   function Demo() {
     return (

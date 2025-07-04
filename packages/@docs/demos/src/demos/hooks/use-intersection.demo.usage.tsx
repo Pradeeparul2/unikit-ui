@@ -1,12 +1,12 @@
 import { useRef } from 'react';
-import { Box, Paper, Text } from '@mantine/core';
-import { useIntersection } from '@mantine/hooks';
+import { Box, Paper, Text } from '@pradeeparul2/mantine-core';
+import { useIntersection } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useRef } from 'react';
-import { useIntersection } from '@mantine/hooks';
-import { Text, Paper, Box } from '@mantine/core';
+import { useIntersection } from '@pradeeparul2/mantine-hooks';
+import { Text, Paper, Box } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const containerRef = useRef<HTMLDivElement>(null);

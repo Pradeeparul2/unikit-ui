@@ -1,9 +1,9 @@
-import { Avatar, Group } from '@mantine/core';
+import { Avatar, Group } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { names, namesCode } from './_mockdata';
 
 const code = `
-import { Avatar, Group } from '@mantine/core';
+import { Avatar, Group } from '@pradeeparul2/mantine-core';
 
 ${namesCode}
 

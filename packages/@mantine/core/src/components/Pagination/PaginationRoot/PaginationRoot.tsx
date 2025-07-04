@@ -1,4 +1,4 @@
-import { usePagination } from '@mantine/hooks';
+import { usePagination } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -188,4 +188,4 @@ export const PaginationRoot = factory<PaginationRootFactory>((_props, ref) => {
 });
 
 PaginationRoot.classes = classes;
-PaginationRoot.displayName = '@mantine/core/PaginationRoot';
+PaginationRoot.displayName = '@pradeeparul2/mantine-core/PaginationRoot';

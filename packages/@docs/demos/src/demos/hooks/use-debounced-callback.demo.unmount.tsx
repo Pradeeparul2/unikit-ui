@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import { Button, Group, Stack, Text } from '@mantine/core';
-import { useDebouncedCallback } from '@mantine/hooks';
+import { Button, Group, Stack, Text } from '@pradeeparul2/mantine-core';
+import { useDebouncedCallback } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { Button, Group, Stack, Text } from '@mantine/core';
-import { useDebouncedCallback } from '@mantine/hooks';
+import { Button, Group, Stack, Text } from '@pradeeparul2/mantine-core';
+import { useDebouncedCallback } from '@pradeeparul2/mantine-hooks';
 
 function InputWithDebounce({ onChange }) {
   const [innerValue, setInnerValue] = useState('');

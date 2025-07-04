@@ -1,5 +1,5 @@
 import { useRef } from 'react';
-import { useMergedRef } from '@mantine/hooks';
+import { useMergedRef } from '@pradeeparul2/mantine-hooks';
 import {
   BoxProps,
   CompoundStylesApiProps,
@@ -93,4 +93,4 @@ export const MenuDropdown = factory<MenuDropdownFactory>((props, ref) => {
 });
 
 MenuDropdown.classes = classes;
-MenuDropdown.displayName = '@mantine/core/MenuDropdown';
+MenuDropdown.displayName = '@pradeeparul2/mantine-core/MenuDropdown';

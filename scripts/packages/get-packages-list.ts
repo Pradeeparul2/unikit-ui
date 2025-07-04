@@ -44,5 +44,9 @@ export function getPackagesList() {
 
 export function getMantinePackagesList() {
   const packages = getPackagesList();
-  return packages.filter((pkg) => pkg.packageJson.name?.startsWith('@mantine/'));
+  return packages.filter(
+    (pkg) =>
+      pkg.packageJson.name?.startsWith('@mantine/') ||
+      pkg.packageJson.name?.startsWith('@pradeeparul2/')
+  );
 }

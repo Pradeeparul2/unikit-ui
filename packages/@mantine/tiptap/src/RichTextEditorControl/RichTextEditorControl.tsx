@@ -7,7 +7,7 @@ import {
   Factory,
   UnstyledButton,
   useProps,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { RichTextEditorLabels } from '../labels';
 import { useRichTextEditorContext } from '../RichTextEditor.context';
 import classes from '../RichTextEditor.module.css';

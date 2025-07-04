@@ -56,5 +56,5 @@ export const AccordionPanel = factory<AccordionPanelFactory>((props, ref) => {
   );
 });
 
-AccordionPanel.displayName = '@mantine/core/AccordionPanel';
+AccordionPanel.displayName = '@pradeeparul2/mantine-core/AccordionPanel';
 AccordionPanel.classes = classes;

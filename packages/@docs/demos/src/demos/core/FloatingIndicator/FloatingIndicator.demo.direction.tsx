@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { FloatingIndicator, UnstyledButton } from '@pradeeparul2/mantine-core';
 import {
   IconArrowDown,
   IconArrowDownLeft,
@@ -10,7 +11,6 @@ import {
   IconArrowUpRight,
   IconCircle,
 } from '@tabler/icons-react';
-import { FloatingIndicator, UnstyledButton } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './FloatingIndicator.demo.direction.module.css';
 
@@ -27,7 +27,7 @@ import {
   IconArrowUpRight,
   IconCircle,
 } from '@tabler/icons-react';
-import { FloatingIndicator, UnstyledButton } from '@mantine/core';
+import { FloatingIndicator, UnstyledButton } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 function Demo() {

@@ -1,9 +1,9 @@
-import { Button, createTheme, Group, MantineThemeProvider } from '@mantine/core';
+import { Button, createTheme, Group, MantineThemeProvider } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Button.demo.customVariant.module.css';
 
 const code = `
-import { Group, Button, MantineProvider, createTheme } from '@mantine/core';
+import { Group, Button, MantineProvider, createTheme } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 const theme = createTheme({

@@ -117,4 +117,4 @@ export const ButtonGroupSection = factory<ButtonGroupSectionFactory>((_props, re
 });
 
 ButtonGroupSection.classes = classes;
-ButtonGroupSection.displayName = '@mantine/core/ButtonGroupSection';
+ButtonGroupSection.displayName = '@pradeeparul2/mantine-core/ButtonGroupSection';

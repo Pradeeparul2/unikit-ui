@@ -1,12 +1,12 @@
 import dayjs from 'dayjs';
 import { useState } from 'react';
-import { MonthPicker, MonthPickerProps } from '@mantine/dates';
+import { MonthPicker, MonthPickerProps } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import dayjs from 'dayjs';
 import { useState } from 'react';
-import { MonthPicker, MonthPickerProps } from '@mantine/dates';
+import { MonthPicker, MonthPickerProps } from '@pradeeparul2/mantine-dates';
 
 const getYearControlProps: MonthPickerProps['getYearControlProps'] = (date) => {
   if (dayjs(date).year() === new Date().getFullYear()) {

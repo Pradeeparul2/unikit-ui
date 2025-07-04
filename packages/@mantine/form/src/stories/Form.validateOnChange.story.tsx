@@ -1,4 +1,4 @@
-import { Checkbox, TextInput } from '@mantine/core';
+import { Checkbox, TextInput } from '@pradeeparul2/mantine-core';
 import { FORM_INDEX } from '../form-index';
 import { useForm } from '../use-form';
 import { FormBase } from './_base';

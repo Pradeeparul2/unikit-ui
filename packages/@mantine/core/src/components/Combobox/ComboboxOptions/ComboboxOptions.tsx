@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { useId } from '@mantine/hooks';
+import { useId } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -58,4 +58,4 @@ export const ComboboxOptions = factory<ComboboxOptionsFactory>((_props, ref) => 
 });
 
 ComboboxOptions.classes = classes;
-ComboboxOptions.displayName = '@mantine/core/ComboboxOptions';
+ComboboxOptions.displayName = '@pradeeparul2/mantine-core/ComboboxOptions';

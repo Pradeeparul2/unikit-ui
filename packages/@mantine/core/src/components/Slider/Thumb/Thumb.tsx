@@ -93,4 +93,4 @@ export const Thumb = forwardRef<HTMLDivElement, ThumbProps>(
   }
 );
 
-Thumb.displayName = '@mantine/core/SliderThumb';
+Thumb.displayName = '@pradeeparul2/mantine-core/SliderThumb';

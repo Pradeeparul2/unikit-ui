@@ -1,8 +1,8 @@
-import { getTimeRange, TimePicker } from '@mantine/dates';
+import { getTimeRange, TimePicker } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { getTimeRange, TimePicker } from '@mantine/dates';
+import { getTimeRange, TimePicker } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   return (

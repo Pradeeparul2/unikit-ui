@@ -1,11 +1,11 @@
 import { useState } from 'react';
+import { Stepper } from '@pradeeparul2/mantine-core';
 import {
   IconCircleCheck,
   IconMailOpened,
   IconShieldCheck,
   IconUserCheck,
 } from '@tabler/icons-react';
-import { Stepper } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
@@ -16,7 +16,7 @@ import {
   IconShieldCheck,
   IconCircleCheck,
 } from '@tabler/icons-react';
-import { Stepper } from '@mantine/core';
+import { Stepper } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [active, setActive] = useState(1);

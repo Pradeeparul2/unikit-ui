@@ -1,4 +1,4 @@
-import { useId, useUncontrolled } from '@mantine/hooks';
+import { useId, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -231,5 +231,5 @@ export const Chip = factory<ChipFactory>((_props, ref) => {
 });
 
 Chip.classes = classes;
-Chip.displayName = '@mantine/core/Chip';
+Chip.displayName = '@pradeeparul2/mantine-core/Chip';
 Chip.Group = ChipGroup;

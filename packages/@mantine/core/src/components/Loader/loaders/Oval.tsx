@@ -8,4 +8,4 @@ export const Oval: MantineLoaderComponent = forwardRef(({ className, ...others }
   <Box component="span" className={cx(classes.ovalLoader, className)} {...others} ref={ref} />
 ));
 
-Oval.displayName = '@mantine/core/Oval';
+Oval.displayName = '@pradeeparul2/mantine-core/Oval';
