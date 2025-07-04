@@ -3896,7 +3896,7 @@ __metadata:
     react: "npm:19.0.0"
     react-dom: "npm:19.0.0"
   peerDependencies:
-    "@mantine/core": 8.1.2
+    "@pradeeparul2/mantine-core": 8.1.2
   languageName: unknown
   linkType: soft
 
