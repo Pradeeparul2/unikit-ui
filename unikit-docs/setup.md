@@ -4,6 +4,18 @@ Use WSL
 wsl -d Ubuntu-22.04
 ```
 
+#### Theme generator
+
+```bash
+npm run generate-css-variables
+```
+
+#### Run Story Book
+
+```bash
+npm run storybook
+```
+
 #### Release Build:
 
 ```bash

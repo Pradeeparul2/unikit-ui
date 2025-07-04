@@ -4,7 +4,7 @@ import { DEFAULT_COLORS } from './default-colors';
 import type { MantineTheme } from './theme.types';
 
 const DEFAULT_FONT_FAMILY =
-  'Manrope,-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji';
+  '"Plus Jakarta Sans", sans-serif,-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji';
 
 export const DEFAULT_THEME: MantineTheme = {
   scale: 1,
@@ -20,7 +20,7 @@ export const DEFAULT_THEME: MantineTheme = {
   luminanceThreshold: 0.3,
   fontFamily: DEFAULT_FONT_FAMILY,
   fontFamilyMonospace:
-    'Manrope, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace',
+    '"Plus Jakarta Sans", sans-serif, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace',
   respectReducedMotion: false,
   cursorType: 'default',
   defaultGradient: { from: 'blue', to: 'cyan', deg: 45 },
