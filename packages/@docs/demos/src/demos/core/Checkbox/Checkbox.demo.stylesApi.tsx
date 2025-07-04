@@ -1,9 +1,9 @@
-import { Checkbox } from '@mantine/core';
+import { Checkbox } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { CheckboxStylesApi } from '@docs/styles-api';
 
 const code = `
-import { Checkbox } from '@mantine/core';
+import { Checkbox } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

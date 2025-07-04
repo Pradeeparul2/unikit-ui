@@ -1,8 +1,8 @@
-import { Checkbox, createTheme, MantineThemeProvider } from '@mantine/core';
+import { Checkbox, createTheme, MantineThemeProvider } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { MantineProvider, createTheme, Checkbox } from '@mantine/core';
+import { MantineProvider, createTheme, Checkbox } from '@pradeeparul2/mantine-core';
 
 const theme = createTheme({
   cursorType: 'pointer',

@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { clamp, useMergedRef, useMove, useUncontrolled } from '@mantine/hooks';
+import { clamp, useMergedRef, useMove, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   BoxProps,
   createVarsResolver,
@@ -609,4 +609,4 @@ export const RangeSlider = factory<RangeSliderFactory>((_props, ref) => {
 });
 
 RangeSlider.classes = classes;
-RangeSlider.displayName = '@mantine/core/RangeSlider';
+RangeSlider.displayName = '@pradeeparul2/mantine-core/RangeSlider';

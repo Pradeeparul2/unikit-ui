@@ -1,8 +1,8 @@
-import { Badge, Button, Card, Group, Image, Text } from '@mantine/core';
+import { Badge, Button, Card, Group, Image, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Card, Image, Text, Badge, Button, Group } from '@mantine/core';
+import { Card, Image, Text, Badge, Button, Group } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

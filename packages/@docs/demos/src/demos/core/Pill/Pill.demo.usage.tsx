@@ -1,9 +1,9 @@
-import { Pill } from '@mantine/core';
+import { Pill } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './_demo.module.css';
 
 const code = `
-import { Pill } from '@mantine/core';
+import { Pill } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <Pill{{props}}>React</Pill>;

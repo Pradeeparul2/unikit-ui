@@ -1,4 +1,4 @@
-import type { TableFactory } from '@mantine/core';
+import type { TableFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const TableStylesApi: StylesApiData<TableFactory> = {

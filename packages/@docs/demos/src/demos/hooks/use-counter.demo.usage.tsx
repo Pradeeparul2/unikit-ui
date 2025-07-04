@@ -1,10 +1,10 @@
-import { Button, Group, Text } from '@mantine/core';
-import { useCounter } from '@mantine/hooks';
+import { Button, Group, Text } from '@pradeeparul2/mantine-core';
+import { useCounter } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Group, Button, Text } from '@mantine/core';
-import { useCounter } from '@mantine/hooks';
+import { Group, Button, Text } from '@pradeeparul2/mantine-core';
+import { useCounter } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const [count, handlers] = useCounter(0, { min: 0, max: 10 });

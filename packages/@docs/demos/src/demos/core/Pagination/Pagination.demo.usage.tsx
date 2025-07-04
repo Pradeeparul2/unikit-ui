@@ -1,4 +1,4 @@
-import { Pagination } from '@mantine/core';
+import { Pagination } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Demo() {

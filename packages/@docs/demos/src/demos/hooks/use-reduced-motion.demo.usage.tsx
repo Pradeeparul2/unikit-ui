@@ -1,10 +1,10 @@
-import { Badge } from '@mantine/core';
-import { useReducedMotion } from '@mantine/hooks';
+import { Badge } from '@pradeeparul2/mantine-core';
+import { useReducedMotion } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Badge } from '@mantine/core';
-import { useReducedMotion } from '@mantine/hooks';
+import { Badge } from '@pradeeparul2/mantine-core';
+import { useReducedMotion } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const reduceMotion = useReducedMotion();

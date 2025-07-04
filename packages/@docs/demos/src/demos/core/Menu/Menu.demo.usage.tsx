@@ -1,9 +1,9 @@
-import { Menu } from '@mantine/core';
+import { Menu } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { DemoMenuItems } from './_menu-items';
 
 const code = `
-import { Menu, Button, Text } from '@mantine/core';
+import { Menu, Button, Text } from '@pradeeparul2/mantine-core';
 import {
   IconSettings,
   IconSearch,

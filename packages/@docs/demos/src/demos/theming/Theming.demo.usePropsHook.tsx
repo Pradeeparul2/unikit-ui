@@ -1,8 +1,8 @@
-import { createTheme, MantineThemeProvider, useProps } from '@mantine/core';
+import { createTheme, MantineThemeProvider, useProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useProps, MantineThemeProvider, createTheme } from '@mantine/core';
+import { useProps, MantineThemeProvider, createTheme } from '@pradeeparul2/mantine-core';
 
 interface CustomComponentProps {
   color?: string;

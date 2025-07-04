@@ -22,4 +22,4 @@ export const ModalBaseBody = forwardRef<HTMLDivElement, ModalBaseBodyProps>(
   }
 );
 
-ModalBaseBody.displayName = '@mantine/core/ModalBaseBody';
+ModalBaseBody.displayName = '@pradeeparul2/mantine-core/ModalBaseBody';

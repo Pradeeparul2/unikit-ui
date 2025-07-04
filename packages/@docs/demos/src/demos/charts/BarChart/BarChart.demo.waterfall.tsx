@@ -1,9 +1,9 @@
-import { BarChart } from '@mantine/charts';
+import { BarChart } from '@pradeeparul2/mantine-charts';
 import { MantineDemo } from '@mantinex/demo';
 import { waterfallCode, waterfallData } from './_data';
 
 const code = `
-import { BarChart } from '@mantine/charts';
+import { BarChart } from '@pradeeparul2/mantine-charts';
 import { data } from './data';
 
 

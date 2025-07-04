@@ -1,8 +1,8 @@
-import { UnstyledButton } from '@mantine/core';
+import { UnstyledButton } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { UnstyledButton } from '@mantine/core';
+import { UnstyledButton } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <UnstyledButton>Button without styles</UnstyledButton>;

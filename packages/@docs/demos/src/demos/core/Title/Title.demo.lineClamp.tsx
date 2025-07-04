@@ -1,8 +1,8 @@
-import { Box, Title } from '@mantine/core';
+import { Box, Title } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Title, Box } from '@mantine/core';
+import { Title, Box } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

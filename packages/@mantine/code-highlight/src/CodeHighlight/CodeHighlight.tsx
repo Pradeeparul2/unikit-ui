@@ -1,4 +1,3 @@
-import cx from 'clsx';
 import {
   Box,
   BoxProps,
@@ -17,8 +16,9 @@ import {
   useComputedColorScheme,
   useProps,
   useStyles,
-} from '@mantine/core';
-import { useUncontrolled } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { useUncontrolled } from '@pradeeparul2/mantine-hooks';
+import cx from 'clsx';
 import { useHighlight } from '../CodeHighlightProvider/CodeHighlightProvider';
 import { CodeHighlightContextProvider } from './CodeHighlight.context';
 import { CodeHighlightControl } from './CodeHighlightControl/CodeHighlightControl';

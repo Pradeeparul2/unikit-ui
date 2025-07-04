@@ -16,7 +16,7 @@ import {
   Slider,
   Stack,
   TextInput,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { DatesProvider } from '../DatesProvider';
 import { DatePickerInput } from './DatePickerInput';
 

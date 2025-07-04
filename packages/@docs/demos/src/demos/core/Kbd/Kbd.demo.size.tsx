@@ -1,8 +1,8 @@
-import { Kbd } from '@mantine/core';
+import { Kbd } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Kbd } from '@mantine/core';
+import { Kbd } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <Kbd{{props}}>Shift</Kbd>;

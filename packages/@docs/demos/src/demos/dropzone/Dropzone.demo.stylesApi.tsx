@@ -1,5 +1,5 @@
-import { Text } from '@mantine/core';
-import { Dropzone, IMAGE_MIME_TYPE } from '@mantine/dropzone';
+import { Text } from '@pradeeparul2/mantine-core';
+import { Dropzone, IMAGE_MIME_TYPE } from '@pradeeparul2/mantine-dropzone';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Dropzone.demo.stylesApi.module.css';
 
@@ -26,8 +26,8 @@ const cssCode = `
 `;
 
 const code = `
-import { Text } from '@mantine/core';
-import { Dropzone, IMAGE_MIME_TYPE } from '@mantine/dropzone';
+import { Text } from '@pradeeparul2/mantine-core';
+import { Dropzone, IMAGE_MIME_TYPE } from '@pradeeparul2/mantine-dropzone';
 import classes from './Demo.module.css';
 
 function Demo() {

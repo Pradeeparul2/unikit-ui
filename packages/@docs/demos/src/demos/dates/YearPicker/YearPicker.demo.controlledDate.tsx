@@ -1,12 +1,12 @@
 import dayjs from 'dayjs';
 import { useState } from 'react';
-import { YearPicker } from '@mantine/dates';
+import { YearPicker } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import dayjs from 'dayjs';
 import { useState } from 'react';
-import { YearPicker } from '@mantine/dates';
+import { YearPicker } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   const [value, setValue] = useState<[string | null, string | null]>([null, null]);

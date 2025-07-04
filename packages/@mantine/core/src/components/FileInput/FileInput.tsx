@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import { useMergedRef, useUncontrolled } from '@mantine/hooks';
+import { useMergedRef, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   BoxProps,
   ElementProps,
@@ -193,7 +193,7 @@ const _FileInput = factory<FileInputFactory>((_props, ref) => {
 });
 
 _FileInput.classes = InputBase.classes;
-_FileInput.displayName = '@mantine/core/FileInput';
+_FileInput.displayName = '@pradeeparul2/mantine-core/FileInput';
 
 type FileInputComponent = (<Multiple extends boolean = false>(
   props: FileInputProps<Multiple> & {

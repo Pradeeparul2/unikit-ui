@@ -1,13 +1,13 @@
+import { RichTextEditor, useRichTextEditorContext } from '@pradeeparul2/mantine-tiptap';
 import { IconStar } from '@tabler/icons-react';
 import { useEditor } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
-import { RichTextEditor, useRichTextEditorContext } from '@mantine/tiptap';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useEditor } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
-import { RichTextEditor, useRichTextEditorContext } from '@mantine/tiptap';
+import { RichTextEditor, useRichTextEditorContext } from '@pradeeparul2/mantine-tiptap';
 import { IconStar } from '@tabler/icons-react';
 
 function InsertStarControl() {

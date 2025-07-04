@@ -6,7 +6,7 @@ import {
   StylesApiProps,
   Tooltip,
   useProps,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { useCodeHighlightContext } from '../CodeHighlight.context';
 
 export interface CodeHighlightControlProps

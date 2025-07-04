@@ -1,10 +1,10 @@
+import { Tabs } from '@pradeeparul2/mantine-core';
 import { IconMessageCircle, IconPhoto, IconSettings } from '@tabler/icons-react';
-import { Tabs } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Tabs.demo.customize.module.css';
 
 const code = `
-import { Tabs } from '@mantine/core';
+import { Tabs } from '@pradeeparul2/mantine-core';
 import { IconPhoto, IconMessageCircle, IconSettings } from '@tabler/icons-react';
 import classes from './Demo.module.css';
 

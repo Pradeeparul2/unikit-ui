@@ -1,5 +1,5 @@
 import { forwardRef } from 'react';
-import { BoxProps, ColorSwatch, ElementProps, useProps } from '@mantine/core';
+import { BoxProps, ColorSwatch, ElementProps, useProps } from '@pradeeparul2/mantine-core';
 import { useRichTextEditorContext } from '../RichTextEditor.context';
 import { RichTextEditorControl } from './RichTextEditorControl';
 

@@ -1,8 +1,8 @@
-import { Rating, RatingProps } from '@mantine/core';
+import { Rating, RatingProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Rating } from '@mantine/core';
+import { Rating } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <Rating defaultValue={2}{{props}} />

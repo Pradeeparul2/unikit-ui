@@ -1,9 +1,9 @@
-import { TimeInput } from '@mantine/dates';
+import { TimeInput } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 import { inputControls } from '../../../shared';
 
 const code = `
-import { TimeInput } from '@mantine/dates';
+import { TimeInput } from '@pradeeparul2/mantine-dates';
 
 
 function Demo() {

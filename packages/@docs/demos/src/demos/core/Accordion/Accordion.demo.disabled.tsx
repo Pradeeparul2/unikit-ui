@@ -1,9 +1,9 @@
-import { Accordion } from '@mantine/core';
+import { Accordion } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { groceries } from './_base';
 
 const code = `
-import { Accordion } from '@mantine/core';
+import { Accordion } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   // See groceries data above

@@ -1,6 +1,6 @@
 import { useState } from 'react';
+import { Button } from '@pradeeparul2/mantine-core';
 import { IconSearch } from '@tabler/icons-react';
-import { Button } from '@mantine/core';
 import { Spotlight, SpotlightActionData } from './Spotlight';
 import { createSpotlight } from './spotlight.store';
 

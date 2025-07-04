@@ -1,8 +1,8 @@
-import { Button, Group, HoverCard, Text } from '@mantine/core';
+import { Button, Group, HoverCard, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { HoverCard, Button, Text, Group } from '@mantine/core';
+import { HoverCard, Button, Text, Group } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

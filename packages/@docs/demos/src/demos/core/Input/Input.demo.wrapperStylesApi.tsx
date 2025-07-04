@@ -1,9 +1,9 @@
-import { Input } from '@mantine/core';
+import { Input } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { InputWrapperStylesApi } from '@docs/styles-api';
 
 const code = `
-import { Input } from '@mantine/core';
+import { Input } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <Input.Wrapper{{props}} label="Input label" description="Input description" error="Input error" withAsterisk />;

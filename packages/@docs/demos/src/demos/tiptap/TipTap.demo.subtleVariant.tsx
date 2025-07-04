@@ -1,8 +1,8 @@
+import { RichTextEditor } from '@pradeeparul2/mantine-tiptap';
 import Highlight from '@tiptap/extension-highlight';
 import Underline from '@tiptap/extension-underline';
 import { useEditor } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
-import { RichTextEditor } from '@mantine/tiptap';
 import { MantineDemo } from '@mantinex/demo';
 
 const content = '<p>Subtle rich text editor variant</p>';
@@ -12,7 +12,7 @@ import Highlight from '@tiptap/extension-highlight';
 import Underline from '@tiptap/extension-underline';
 import { useEditor } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
-import { RichTextEditor } from '@mantine/tiptap';
+import { RichTextEditor } from '@pradeeparul2/mantine-tiptap';
 
 const content = '<p>Subtle rich text editor variant</p>';
 

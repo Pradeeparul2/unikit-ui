@@ -1,5 +1,5 @@
 import { useCallback, useRef, useState } from 'react';
-import { useClickOutside, useId } from '@mantine/hooks';
+import { useClickOutside, useId } from '@pradeeparul2/mantine-hooks';
 import {
   createVarsResolver,
   ElementProps,
@@ -420,5 +420,5 @@ export function Popover(_props: PopoverProps) {
 
 Popover.Target = PopoverTarget;
 Popover.Dropdown = PopoverDropdown;
-Popover.displayName = '@mantine/core/Popover';
+Popover.displayName = '@pradeeparul2/mantine-core/Popover';
 Popover.extend = (input: ExtendComponent<PopoverFactory>) => input;

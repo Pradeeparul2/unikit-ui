@@ -1,4 +1,4 @@
-import type { DonutChartFactory } from '@mantine/charts';
+import type { DonutChartFactory } from '@pradeeparul2/mantine-charts';
 import type { StylesApiData } from '../types';
 
 export const DonutChartStylesApi: StylesApiData<DonutChartFactory> = {

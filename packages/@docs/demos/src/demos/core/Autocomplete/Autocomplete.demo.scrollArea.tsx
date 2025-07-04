@@ -1,8 +1,8 @@
-import { Autocomplete } from '@mantine/core';
+import { Autocomplete } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Autocomplete } from '@mantine/core';
+import { Autocomplete } from '@pradeeparul2/mantine-core';
 
 const data = Array(100)
   .fill(0)

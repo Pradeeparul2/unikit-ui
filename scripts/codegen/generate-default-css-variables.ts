@@ -1,8 +1,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import { convertCssVariables } from '../../packages/@mantine/core/src/core/MantineProvider/convert-css-variables/convert-css-variables';
-import { DEFAULT_THEME } from '../../packages/@mantine/core/src/core/MantineProvider/default-theme';
-import { defaultCssVariablesResolver } from '../../packages/@mantine/core/src/core/MantineProvider/MantineCssVariables/default-css-variables-resolver';
+import { convertCssVariables } from '../../packages/@pradeeparul2/core/src/core/MantineProvider/convert-css-variables/convert-css-variables';
+import { DEFAULT_THEME } from '../../packages/@pradeeparul2/core/src/core/MantineProvider/default-theme';
+import { defaultCssVariablesResolver } from '../../packages/@pradeeparul2/core/src/core/MantineProvider/MantineCssVariables/default-css-variables-resolver';
 
 fs.writeFileSync(
   path.join(

@@ -1,9 +1,9 @@
+import { TagsInput } from '@pradeeparul2/mantine-core';
 import { IconComponents } from '@tabler/icons-react';
-import { TagsInput } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { TagsInput } from '@mantine/core';
+import { TagsInput } from '@pradeeparul2/mantine-core';
 import { IconComponents } from '@tabler/icons-react';
 
 function Demo() {

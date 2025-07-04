@@ -1,4 +1,4 @@
-import type { GroupFactory } from '@mantine/core';
+import type { GroupFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const GroupStylesApi: StylesApiData<GroupFactory> = {

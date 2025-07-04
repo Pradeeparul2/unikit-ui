@@ -1,5 +1,5 @@
 import { forwardRef, useState } from 'react';
-import { useDebouncedCallback } from '@mantine/hooks';
+import { useDebouncedCallback } from '@pradeeparul2/mantine-hooks';
 import { useScrollAreaContext } from '../ScrollArea.context';
 import { useResizeObserver } from '../use-resize-observer';
 import {
@@ -43,4 +43,4 @@ export const ScrollAreaScrollbarAuto = forwardRef<HTMLDivElement, ScrollAreaScro
   }
 );
 
-ScrollAreaScrollbarAuto.displayName = '@mantine/core/ScrollAreaScrollbarAuto';
+ScrollAreaScrollbarAuto.displayName = '@pradeeparul2/mantine-core/ScrollAreaScrollbarAuto';

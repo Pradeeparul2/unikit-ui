@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import { useId } from '@mantine/hooks';
+import { useId } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -237,7 +237,7 @@ export const Checkbox = factory<CheckboxFactory>((_props, forwardedRef) => {
 });
 
 Checkbox.classes = { ...classes, ...InlineInputClasses };
-Checkbox.displayName = '@mantine/core/Checkbox';
+Checkbox.displayName = '@pradeeparul2/mantine-core/Checkbox';
 Checkbox.Group = CheckboxGroup;
 Checkbox.Indicator = CheckboxIndicator;
 Checkbox.Card = CheckboxCard;

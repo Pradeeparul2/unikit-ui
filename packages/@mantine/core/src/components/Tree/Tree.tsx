@@ -1,5 +1,5 @@
 import { useEffect, useMemo } from 'react';
-import { useClickOutside, useMergedRef } from '@mantine/hooks';
+import { useClickOutside, useMergedRef } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -204,5 +204,5 @@ export const Tree = factory<TreeFactory>((_props, ref) => {
   );
 });
 
-Tree.displayName = '@mantine/core/Tree';
+Tree.displayName = '@pradeeparul2/mantine-core/Tree';
 Tree.classes = classes;

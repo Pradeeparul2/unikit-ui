@@ -217,4 +217,4 @@ export const StepperStep = factory<StepperStepFactory>((props, ref) => {
 });
 
 StepperStep.classes = classes;
-StepperStep.displayName = '@mantine/core/StepperStep';
+StepperStep.displayName = '@pradeeparul2/mantine-core/StepperStep';

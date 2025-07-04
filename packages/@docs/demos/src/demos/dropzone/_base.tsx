@@ -1,8 +1,8 @@
 /* eslint-disable no-console */
 
+import { Group, Text } from '@pradeeparul2/mantine-core';
+import { Dropzone, DropzoneProps, IMAGE_MIME_TYPE } from '@pradeeparul2/mantine-dropzone';
 import { IconPhoto, IconUpload, IconX } from '@tabler/icons-react';
-import { Group, Text } from '@mantine/core';
-import { Dropzone, DropzoneProps, IMAGE_MIME_TYPE } from '@mantine/dropzone';
 
 export function DropzoneDemoChildren() {
   return (

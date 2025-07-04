@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import { createOptionalContext } from '@mantine/core';
+import { createOptionalContext } from '@pradeeparul2/mantine-core';
 import { plainTextAdapter } from './adapters/plain-text-adapter';
 
 interface HighlighterInput {

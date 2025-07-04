@@ -1,10 +1,10 @@
 import { useState } from 'react';
-import { Button, Group, Skeleton, Text } from '@mantine/core';
+import { Button, Group, Skeleton, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { Skeleton, Button } from '@mantine/core';
+import { Skeleton, Button } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [loading, setLoading] = useState(true);

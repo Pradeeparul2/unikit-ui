@@ -1,8 +1,8 @@
-import { RangeSlider } from '@mantine/core';
+import { RangeSlider } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { RangeSlider } from '@mantine/core';
+import { RangeSlider } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

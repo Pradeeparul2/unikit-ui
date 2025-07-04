@@ -1,8 +1,8 @@
-import { DonutChart } from '@mantine/charts';
+import { DonutChart } from '@pradeeparul2/mantine-charts';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = (props: any) => `
-import { DonutChart } from '@mantine/charts';
+import { DonutChart } from '@pradeeparul2/mantine-charts';
 
 function Demo() {
   return (

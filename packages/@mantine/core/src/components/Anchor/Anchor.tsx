@@ -45,4 +45,4 @@ export const Anchor = polymorphicFactory<AnchorFactory>((props, ref) => {
 });
 
 Anchor.classes = classes;
-Anchor.displayName = '@mantine/core/Anchor';
+Anchor.displayName = '@pradeeparul2/mantine-core/Anchor';

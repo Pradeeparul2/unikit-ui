@@ -1,4 +1,4 @@
-import { useUncontrolled } from '@mantine/hooks';
+import { useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import { useProps } from '../../../core';
 import { ChipGroupProvider } from '../ChipGroup.context';
 
@@ -54,4 +54,4 @@ export function ChipGroup<T extends boolean>(props: ChipGroupProps<T>) {
   );
 }
 
-ChipGroup.displayName = '@mantine/core/ChipGroup';
+ChipGroup.displayName = '@pradeeparul2/mantine-core/ChipGroup';

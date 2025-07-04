@@ -1,11 +1,11 @@
-import { CompositeChart } from '@mantine/charts';
-import { alpha, Paper, Text } from '@mantine/core';
+import { CompositeChart } from '@pradeeparul2/mantine-charts';
+import { alpha, Paper, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { data, dataCode } from './_data';
 
 const code = `
-import { CompositeChart } from '@mantine/charts';
-import { alpha, Paper, Text } from '@mantine/core';
+import { CompositeChart } from '@pradeeparul2/mantine-charts';
+import { alpha, Paper, Text } from '@pradeeparul2/mantine-core';
 import { data } from './data';
 
 interface ChartTooltipProps {

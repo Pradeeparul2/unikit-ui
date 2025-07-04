@@ -1,4 +1,4 @@
-import { useDisclosure } from '@mantine/hooks';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { Button } from '../Button';
 import { ModalBase } from './ModalBase';
 import { ModalBaseBody } from './ModalBaseBody';

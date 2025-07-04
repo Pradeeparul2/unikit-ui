@@ -1,10 +1,10 @@
-import { Button, Code, Group, Text } from '@mantine/core';
-import { randomId, useHash } from '@mantine/hooks';
+import { Button, Code, Group, Text } from '@pradeeparul2/mantine-core';
+import { randomId, useHash } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useHash, randomId } from '@mantine/hooks';
-import { Button, Text, Code } from '@mantine/core';
+import { useHash, randomId } from '@pradeeparul2/mantine-hooks';
+import { Button, Text, Code } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [hash, setHash] = useHash();

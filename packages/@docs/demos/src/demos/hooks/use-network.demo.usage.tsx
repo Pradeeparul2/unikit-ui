@@ -1,10 +1,10 @@
-import { Table, Text } from '@mantine/core';
-import { useNetwork } from '@mantine/hooks';
+import { Table, Text } from '@pradeeparul2/mantine-core';
+import { useNetwork } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Text, Table } from '@mantine/core';
-import { useNetwork } from '@mantine/hooks';
+import { Text, Table } from '@pradeeparul2/mantine-core';
+import { useNetwork } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const networkStatus = useNetwork();

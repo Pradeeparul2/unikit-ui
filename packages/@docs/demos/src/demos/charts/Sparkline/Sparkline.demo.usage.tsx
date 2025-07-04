@@ -1,8 +1,8 @@
-import { Sparkline } from '@mantine/charts';
+import { Sparkline } from '@pradeeparul2/mantine-charts';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Sparkline } from '@mantine/charts';
+import { Sparkline } from '@pradeeparul2/mantine-charts';
 
 
 function Demo() {

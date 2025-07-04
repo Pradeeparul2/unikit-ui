@@ -1,5 +1,5 @@
 import { forwardRef } from 'react';
-import { useMergedRef } from '@mantine/hooks';
+import { useMergedRef } from '@pradeeparul2/mantine-hooks';
 import { Box, BoxProps, ElementProps } from '../../../core';
 import { useScrollAreaContext } from '../ScrollArea.context';
 
@@ -28,4 +28,4 @@ export const ScrollAreaViewport = forwardRef<HTMLDivElement, ScrollAreaViewportP
   }
 );
 
-ScrollAreaViewport.displayName = '@mantine/core/ScrollAreaViewport';
+ScrollAreaViewport.displayName = '@pradeeparul2/mantine-core/ScrollAreaViewport';

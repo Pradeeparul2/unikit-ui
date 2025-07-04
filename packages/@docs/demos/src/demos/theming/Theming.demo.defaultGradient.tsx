@@ -1,8 +1,8 @@
-import { Button, createTheme, MantineThemeProvider } from '@mantine/core';
+import { Button, createTheme, MantineThemeProvider } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { MantineProvider, createTheme, Button } from '@mantine/core';
+import { MantineProvider, createTheme, Button } from '@pradeeparul2/mantine-core';
 
 const theme = createTheme({
   defaultGradient: {

@@ -1,10 +1,10 @@
-import { FunnelChart } from '@mantine/charts';
-import { Center } from '@mantine/core';
+import { FunnelChart } from '@pradeeparul2/mantine-charts';
+import { Center } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { data, dataCode } from './_data';
 
 const code = `
-import { FunnelChart } from '@mantine/charts';
+import { FunnelChart } from '@pradeeparul2/mantine-charts';
 import { data } from './data';
 
 function Demo() {

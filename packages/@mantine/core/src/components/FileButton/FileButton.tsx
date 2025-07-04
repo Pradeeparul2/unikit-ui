@@ -1,5 +1,5 @@
 import { forwardRef, useRef } from 'react';
-import { assignRef, useMergedRef } from '@mantine/hooks';
+import { assignRef, useMergedRef } from '@pradeeparul2/mantine-hooks';
 import { useProps } from '../../core';
 
 export interface FileButtonProps<Multiple extends boolean = false> {
@@ -105,4 +105,4 @@ export const FileButton: FileButtonComponent = forwardRef<HTMLInputElement, File
   }
 ) as any;
 
-FileButton.displayName = '@mantine/core/FileButton';
+FileButton.displayName = '@pradeeparul2/mantine-core/FileButton';

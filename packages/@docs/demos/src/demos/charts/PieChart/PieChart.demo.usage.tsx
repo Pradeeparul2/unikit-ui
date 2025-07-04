@@ -1,9 +1,9 @@
-import { PieChart } from '@mantine/charts';
+import { PieChart } from '@pradeeparul2/mantine-charts';
 import { MantineDemo } from '@mantinex/demo';
 import { data, dataCode } from './_data';
 
 const code = `
-import { PieChart } from '@mantine/charts';
+import { PieChart } from '@pradeeparul2/mantine-charts';
 import { data } from './data';
 
 function Demo() {

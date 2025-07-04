@@ -1,4 +1,4 @@
-import { SimpleGrid } from '@mantine/core';
+import { SimpleGrid } from '@pradeeparul2/mantine-core';
 import { useTimePickerContext } from '../TimePicker.context';
 import { TimePickerAmPmLabels, TimePickerFormat, TimePickerPresetGroup } from '../TimePicker.types';
 import { isSameTime } from '../utils/is-same-time/is-same-time';

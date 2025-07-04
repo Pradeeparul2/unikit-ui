@@ -1,8 +1,8 @@
-import { PinInput } from '@mantine/core';
+import { PinInput } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { PinInput } from '@mantine/core';
+import { PinInput } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <PinInput type={/^[0-3]*$/} inputType="tel" inputMode="numeric" />;

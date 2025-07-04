@@ -1,9 +1,9 @@
+import { ColorInput } from '@pradeeparul2/mantine-core';
 import { IconColorPicker } from '@tabler/icons-react';
-import { ColorInput } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { ColorInput } from '@mantine/core';
+import { ColorInput } from '@pradeeparul2/mantine-core';
 import { IconColorPicker } from '@tabler/icons-react';
 
 function Demo() {

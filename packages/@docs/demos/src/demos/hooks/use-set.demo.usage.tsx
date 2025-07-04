@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import { Code, Stack, TextInput } from '@mantine/core';
-import { useSet } from '@mantine/hooks';
+import { Code, Stack, TextInput } from '@pradeeparul2/mantine-core';
+import { useSet } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { Code, Stack, TextInput } from '@mantine/core';
-import { useSet } from '@mantine/hooks';
+import { Code, Stack, TextInput } from '@pradeeparul2/mantine-core';
+import { useSet } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const [input, setInput] = useState('');

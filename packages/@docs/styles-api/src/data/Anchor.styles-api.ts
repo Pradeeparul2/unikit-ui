@@ -1,4 +1,4 @@
-import type { AnchorFactory } from '@mantine/core';
+import type { AnchorFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 import { TextStylesApi } from './Text.styles-api';
 

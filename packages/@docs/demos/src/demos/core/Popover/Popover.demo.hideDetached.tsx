@@ -1,8 +1,8 @@
-import { Box, Button, Group, Popover, useComputedColorScheme } from '@mantine/core';
+import { Box, Button, Group, Popover, useComputedColorScheme } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Box, Button, Group, Popover } from '@mantine/core';
+import { Box, Button, Group, Popover } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

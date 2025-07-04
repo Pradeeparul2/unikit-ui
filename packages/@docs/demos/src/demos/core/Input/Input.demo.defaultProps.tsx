@@ -1,8 +1,14 @@
-import { createTheme, Input, MantineThemeProvider, NativeSelect, TextInput } from '@mantine/core';
+import {
+  createTheme,
+  Input,
+  MantineThemeProvider,
+  NativeSelect,
+  TextInput,
+} from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { TextInput, NativeSelect, MantineProvider, createTheme, Input } from '@mantine/core';
+import { TextInput, NativeSelect, MantineProvider, createTheme, Input } from '@pradeeparul2/mantine-core';
 
 const theme = createTheme({
   components: {

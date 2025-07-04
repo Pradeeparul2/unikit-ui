@@ -1,4 +1,4 @@
-import { SimpleGrid, Text } from '@mantine/core';
+import { SimpleGrid, Text } from '@pradeeparul2/mantine-core';
 import { DemoArea, DemoAreaProps } from '../DemoArea';
 import classes from './DemoColumns.module.css';
 

@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { useId, useUncontrolled } from '@mantine/hooks';
+import { useId, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   BoxProps,
   ElementProps,
@@ -235,4 +235,4 @@ export const Autocomplete = factory<AutocompleteFactory>((_props, ref) => {
 });
 
 Autocomplete.classes = { ...InputBase.classes, ...Combobox.classes };
-Autocomplete.displayName = '@mantine/core/Autocomplete';
+Autocomplete.displayName = '@pradeeparul2/mantine-core/Autocomplete';

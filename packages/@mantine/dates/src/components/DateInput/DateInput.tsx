@@ -15,8 +15,8 @@ import {
   PopoverProps,
   StylesApiProps,
   useInputProps,
-} from '@mantine/core';
-import { useClickOutside, useDidUpdate } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { useClickOutside, useDidUpdate } from '@pradeeparul2/mantine-hooks';
 import { useUncontrolledDates } from '../../hooks';
 import { CalendarLevel, DateStringValue, DateValue } from '../../types';
 import { Calendar, CalendarBaseProps, CalendarStylesNames, pickCalendarProps } from '../Calendar';

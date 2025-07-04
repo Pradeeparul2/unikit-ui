@@ -1,11 +1,11 @@
+import { Select } from '@pradeeparul2/mantine-core';
 import { IconAt } from '@tabler/icons-react';
-import { Select } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { SelectStylesApi } from '@docs/styles-api';
 
 const code = `
 import { IconAt } from '@tabler/icons-react';
-import { Select } from '@mantine/core';
+import { Select } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

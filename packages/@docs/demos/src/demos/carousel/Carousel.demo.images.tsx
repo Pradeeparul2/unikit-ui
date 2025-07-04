@@ -1,11 +1,11 @@
-import { Carousel } from '@mantine/carousel';
-import { Image } from '@mantine/core';
+import { Carousel } from '@pradeeparul2/mantine-carousel';
+import { Image } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { images as _images } from './_images';
 
 const code = `
-import { Carousel } from '@mantine/carousel';
-import { Image } from '@mantine/core';
+import { Carousel } from '@pradeeparul2/mantine-carousel';
+import { Image } from '@pradeeparul2/mantine-core';
 
 const images = [
   'https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-1.png',

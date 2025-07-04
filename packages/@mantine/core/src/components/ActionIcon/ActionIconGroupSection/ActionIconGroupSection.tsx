@@ -115,4 +115,4 @@ export const ActionIconGroupSection = factory<ActionIconGroupSectionFactory>((_p
 });
 
 ActionIconGroupSection.classes = classes;
-ActionIconGroupSection.displayName = '@mantine/core/ActionIconGroupSection';
+ActionIconGroupSection.displayName = '@pradeeparul2/mantine-core/ActionIconGroupSection';

@@ -1,4 +1,4 @@
-import type { LineChartFactory } from '@mantine/charts';
+import type { LineChartFactory } from '@pradeeparul2/mantine-charts';
 import type { StylesApiData } from '../types';
 
 export const LineChartStylesApi: StylesApiData<LineChartFactory> = {

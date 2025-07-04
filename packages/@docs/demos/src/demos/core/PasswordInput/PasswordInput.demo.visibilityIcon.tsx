@@ -1,9 +1,9 @@
+import { PasswordInput } from '@pradeeparul2/mantine-core';
 import { IconEyeCheck, IconEyeOff } from '@tabler/icons-react';
-import { PasswordInput } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { PasswordInput } from '@mantine/core';
+import { PasswordInput } from '@pradeeparul2/mantine-core';
 import { IconEyeCheck, IconEyeOff } from '@tabler/icons-react';
 
 const VisibilityToggleIcon = ({ reveal }: { reveal: boolean }) =>

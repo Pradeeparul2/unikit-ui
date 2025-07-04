@@ -1,8 +1,8 @@
-import { FileInput, FileInputProps, Pill } from '@mantine/core';
+import { FileInput, FileInputProps, Pill } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { FileInput, FileInputProps, Pill } from '@mantine/core';
+import { FileInput, FileInputProps, Pill } from '@pradeeparul2/mantine-core';
 
 const ValueComponent: FileInputProps['valueComponent'] = ({ value }) => {
   if (value === null) {

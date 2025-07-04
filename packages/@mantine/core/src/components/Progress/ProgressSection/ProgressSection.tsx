@@ -96,4 +96,4 @@ export const ProgressSection = factory<ProgressSectionFactory>((props, ref) => {
 });
 
 ProgressSection.classes = classes;
-ProgressSection.displayName = '@mantine/core/ProgressSection';
+ProgressSection.displayName = '@pradeeparul2/mantine-core/ProgressSection';

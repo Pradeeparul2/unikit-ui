@@ -1,12 +1,12 @@
 import dayjs from 'dayjs';
 import { useState } from 'react';
-import { DatePicker, DatePickerProps } from '@mantine/dates';
+import { DatePicker, DatePickerProps } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import dayjs from 'dayjs';
 import { useState } from 'react';
-import { DatePicker, DatePickerProps } from '@mantine/dates';
+import { DatePicker, DatePickerProps } from '@pradeeparul2/mantine-dates';
 
 const getDayProps: DatePickerProps['getDayProps'] = (date) => {
   const d = dayjs(date);

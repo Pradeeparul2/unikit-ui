@@ -1,8 +1,8 @@
-import { Button, Group, Modal, useModalsStack } from '@mantine/core';
+import { Button, Group, Modal, useModalsStack } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button, Group, Modal, useModalsStack } from '@mantine/core';
+import { Button, Group, Modal, useModalsStack } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const stack = useModalsStack(['delete-page', 'confirm-action', 'really-confirm-action']);

@@ -14,7 +14,7 @@ import {
   useProps,
   useResolvedStylesApi,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { useDatesState } from '../../hooks';
 import {
   CalendarLevel,

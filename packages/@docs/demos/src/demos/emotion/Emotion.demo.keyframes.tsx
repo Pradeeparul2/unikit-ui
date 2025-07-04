@@ -1,8 +1,8 @@
-import { createStyles, keyframes } from '@mantine/emotion';
+import { createStyles, keyframes } from '@pradeeparul2/mantine-emotion';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { createStyles, keyframes } from '@mantine/emotion';
+import { createStyles, keyframes } from '@pradeeparul2/mantine-emotion';
 
 // Export animation to reuse it in other components
 export const bounce = keyframes({

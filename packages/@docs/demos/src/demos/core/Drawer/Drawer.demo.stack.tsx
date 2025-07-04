@@ -1,8 +1,8 @@
-import { Button, Drawer, Group, useDrawersStack } from '@mantine/core';
+import { Button, Drawer, Group, useDrawersStack } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button, Group, Drawer, useDrawersStack } from '@mantine/core';
+import { Button, Group, Drawer, useDrawersStack } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const stack = useDrawersStack(['delete-page', 'confirm-action', 'really-confirm-action']);

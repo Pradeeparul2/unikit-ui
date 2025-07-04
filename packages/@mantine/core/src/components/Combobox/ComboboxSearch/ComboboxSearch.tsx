@@ -1,4 +1,4 @@
-import { useMergedRef } from '@mantine/hooks';
+import { useMergedRef } from '@pradeeparul2/mantine-hooks';
 import { ElementProps, factory, Factory, useProps } from '../../../core';
 import { Input, InputProps, InputStylesNames } from '../../Input/Input';
 import { useComboboxContext } from '../Combobox.context';
@@ -66,4 +66,4 @@ export const ComboboxSearch = factory<ComboboxSearchFactory>((_props, ref) => {
 });
 
 ComboboxSearch.classes = classes;
-ComboboxSearch.displayName = '@mantine/core/ComboboxSearch';
+ComboboxSearch.displayName = '@pradeeparul2/mantine-core/ComboboxSearch';

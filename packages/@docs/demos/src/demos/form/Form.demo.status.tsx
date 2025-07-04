@@ -1,12 +1,12 @@
 /* eslint-disable no-console */
 
-import { Button, TextInput } from '@mantine/core';
-import { useForm } from '@mantine/form';
+import { Button, TextInput } from '@pradeeparul2/mantine-core';
+import { useForm } from '@pradeeparul2/mantine-form';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useForm } from '@mantine/form';
-import { TextInput, Button } from '@mantine/core';
+import { useForm } from '@pradeeparul2/mantine-form';
+import { TextInput, Button } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const form = useForm({

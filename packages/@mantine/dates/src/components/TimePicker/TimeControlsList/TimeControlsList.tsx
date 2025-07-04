@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import { ScrollArea } from '@mantine/core';
+import { ScrollArea } from '@pradeeparul2/mantine-core';
 import { useTimePickerContext } from '../TimePicker.context';
 import { TimeControl } from './TimeControl';
 

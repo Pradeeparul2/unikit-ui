@@ -1,10 +1,10 @@
 import { useRef, useState } from 'react';
-import { ScrollArea, TextInput, UnstyledButton } from '@mantine/core';
+import { ScrollArea, TextInput, UnstyledButton } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState, useRef } from 'react';
-import { ScrollArea, UnstyledButton, TextInput } from '@mantine/core';
+import { ScrollArea, UnstyledButton, TextInput } from '@pradeeparul2/mantine-core';
 
 const groceries: string[] = [
   '🍎 Apples',

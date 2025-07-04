@@ -10,7 +10,7 @@ import {
   TooltipFloatingProps,
   useProps,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { getBoundaries } from './get-boundaries/get-boundaries';
 import { getDatesRange } from './get-dates-range/get-dates-range';
 import { getHeatColor } from './get-heat-color/get-heat-color';

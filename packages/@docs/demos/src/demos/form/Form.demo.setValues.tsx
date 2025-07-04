@@ -1,12 +1,12 @@
-import { Button, Group, TextInput } from '@mantine/core';
-import { useForm } from '@mantine/form';
-import { randomId } from '@mantine/hooks';
+import { Button, Group, TextInput } from '@pradeeparul2/mantine-core';
+import { useForm } from '@pradeeparul2/mantine-form';
+import { randomId } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useForm } from '@mantine/form';
-import { TextInput, Button, Group } from '@mantine/core';
-import { randomId } from '@mantine/hooks';
+import { useForm } from '@pradeeparul2/mantine-form';
+import { TextInput, Button, Group } from '@pradeeparul2/mantine-core';
+import { randomId } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const form = useForm({

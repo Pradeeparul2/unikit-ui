@@ -1,8 +1,8 @@
-import { Anchor, Checkbox } from '@mantine/core';
+import { Anchor, Checkbox } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Checkbox, Anchor } from '@mantine/core';
+import { Checkbox, Anchor } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

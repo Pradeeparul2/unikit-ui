@@ -1,11 +1,11 @@
 import { useState } from 'react';
-import { Button, Code, Stack, TextInput } from '@mantine/core';
-import { createFormContext } from '@mantine/form';
+import { Button, Code, Stack, TextInput } from '@pradeeparul2/mantine-core';
+import { createFormContext } from '@pradeeparul2/mantine-form';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button, Code, Stack, TextInput } from '@mantine/core';
-import { createFormContext } from '@mantine/form';
+import { Button, Code, Stack, TextInput } from '@pradeeparul2/mantine-core';
+import { createFormContext } from '@pradeeparul2/mantine-form';
 import { useState } from 'react';
 
 const [Provider, usePersonFormContext, usePersonForm] = createFormContext<{ person: { name: string } }>();

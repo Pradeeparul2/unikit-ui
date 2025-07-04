@@ -1,8 +1,8 @@
-import { Mark, Text, Tooltip } from '@mantine/core';
+import { Mark, Text, Tooltip } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Tooltip, Mark, Text } from '@mantine/core';
+import { Tooltip, Mark, Text } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

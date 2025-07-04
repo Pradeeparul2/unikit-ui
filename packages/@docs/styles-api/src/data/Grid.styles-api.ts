@@ -1,4 +1,4 @@
-import type { GridFactory } from '@mantine/core';
+import type { GridFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const GridStylesApi: StylesApiData<GridFactory> = {

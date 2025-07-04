@@ -1,9 +1,9 @@
-import { Box } from '@mantine/core';
+import { Box } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { TimelineBase } from './_base';
 
 const code = `
-import { Timeline, Text } from '@mantine/core';
+import { Timeline, Text } from '@pradeeparul2/mantine-core';
 import { IconGitBranch, IconGitPullRequest, IconGitCommit, IconMessageDots } from '@tabler/icons-react';
 
 function Demo() {

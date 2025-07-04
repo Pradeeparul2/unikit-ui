@@ -111,4 +111,4 @@ export const Burger = factory<BurgerFactory>((_props, ref) => {
 });
 
 Burger.classes = classes;
-Burger.displayName = '@mantine/core/Burger';
+Burger.displayName = '@pradeeparul2/mantine-core/Burger';

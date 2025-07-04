@@ -1,5 +1,5 @@
-import { NotificationProps } from '@mantine/core';
-import { randomId } from '@mantine/hooks';
+import { NotificationProps } from '@pradeeparul2/mantine-core';
+import { randomId } from '@pradeeparul2/mantine-hooks';
 import { createStore, MantineStore, useStore } from '@mantine/store';
 
 export type NotificationPosition =

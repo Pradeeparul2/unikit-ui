@@ -1,4 +1,4 @@
-import { MultiSelect } from '@mantine/core';
+import { MultiSelect } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './MultiSelect.demo.dropdownOffset.module.css';
 
@@ -21,7 +21,7 @@ const cssCode = `.dropdown {
 `;
 
 const code = `
-import { MultiSelect } from '@mantine/core';
+import { MultiSelect } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 function Demo() {

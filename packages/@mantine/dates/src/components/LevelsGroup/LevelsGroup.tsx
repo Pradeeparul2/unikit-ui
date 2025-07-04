@@ -8,7 +8,7 @@ import {
   StylesApiProps,
   useProps,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import classes from './LevelsGroup.module.css';
 
 export type LevelsGroupStylesNames = 'levelsGroup';

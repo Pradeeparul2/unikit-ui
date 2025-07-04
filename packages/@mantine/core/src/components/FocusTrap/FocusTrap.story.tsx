@@ -1,4 +1,4 @@
-import { useDisclosure } from '@mantine/hooks';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { FocusTrap } from './FocusTrap';
 
 export default { title: 'FocusTrap' };

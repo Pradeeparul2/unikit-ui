@@ -2,9 +2,9 @@ import { MantineDemo } from '@mantinex/demo';
 import { BaseDemo } from './_base';
 
 const code = `
-import { Group, Text } from '@mantine/core';
+import { Group, Text } from '@pradeeparul2/mantine-core';
 import { IconUpload, IconPhoto, IconX } from '@tabler/icons-react';
-import { Dropzone, DropzoneProps, IMAGE_MIME_TYPE } from '@mantine/dropzone';
+import { Dropzone, DropzoneProps, IMAGE_MIME_TYPE } from '@pradeeparul2/mantine-dropzone';
 
 export function BaseDemo(props: Partial<DropzoneProps>) {
   return (

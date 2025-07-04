@@ -1,10 +1,10 @@
-import { Code, Text } from '@mantine/core';
-import { useMouse } from '@mantine/hooks';
+import { Code, Text } from '@pradeeparul2/mantine-core';
+import { useMouse } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Text, Code } from '@mantine/core';
-import { useMouse } from '@mantine/hooks';
+import { Text, Code } from '@pradeeparul2/mantine-core';
+import { useMouse } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const { x, y } = useMouse();

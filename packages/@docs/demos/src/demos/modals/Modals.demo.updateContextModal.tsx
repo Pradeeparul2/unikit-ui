@@ -1,10 +1,10 @@
-import { Button } from '@mantine/core';
-import { modals } from '@mantine/modals';
+import { Button } from '@pradeeparul2/mantine-core';
+import { modals } from '@pradeeparul2/mantine-modals';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button, Text, Stack, Center, Loader } from '@mantine/core';
-import { modals, ContextModalProps, ModalsProvider } from '@mantine/modals';
+import { Button, Text, Stack, Center, Loader } from '@pradeeparul2/mantine-core';
+import { modals, ContextModalProps, ModalsProvider } from '@pradeeparul2/mantine-modals';
 import { IconCheck } from '@tabler/icons-react';
 
 const TestModal = ({

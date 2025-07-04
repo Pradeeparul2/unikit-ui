@@ -1,9 +1,9 @@
+import { MultiSelect } from '@pradeeparul2/mantine-core';
 import { IconComponents } from '@tabler/icons-react';
-import { MultiSelect } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { MultiSelect } from '@mantine/core';
+import { MultiSelect } from '@pradeeparul2/mantine-core';
 import { IconComponents } from '@tabler/icons-react';
 
 function Demo() {

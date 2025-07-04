@@ -239,7 +239,7 @@ export const Table = factory<TableFactory>((_props, ref) => {
 });
 
 Table.classes = classes;
-Table.displayName = '@mantine/core/Table';
+Table.displayName = '@pradeeparul2/mantine-core/Table';
 Table.Td = TableTd;
 Table.Th = TableTh;
 Table.Tr = TableTr;

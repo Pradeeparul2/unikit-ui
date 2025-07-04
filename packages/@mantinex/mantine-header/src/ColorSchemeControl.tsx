@@ -1,6 +1,6 @@
+import { useComputedColorScheme, useMantineColorScheme } from '@pradeeparul2/mantine-core';
 import { IconMoon, IconSun } from '@tabler/icons-react';
 import cx from 'clsx';
-import { useComputedColorScheme, useMantineColorScheme } from '@mantine/core';
 import { HeaderControl } from './HeaderControl';
 import classes from './ColorSchemeControl.module.css';
 

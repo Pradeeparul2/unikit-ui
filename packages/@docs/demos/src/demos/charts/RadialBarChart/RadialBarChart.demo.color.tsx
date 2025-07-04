@@ -1,8 +1,8 @@
-import { RadialBarChart } from '@mantine/charts';
+import { RadialBarChart } from '@pradeeparul2/mantine-charts';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = (props: any) => `
-import { RadialBarChart } from '@mantine/charts';
+import { RadialBarChart } from '@pradeeparul2/mantine-charts';
 
 const data = [
     { name: '18-24', value: 31.47, color: '${props.color}' },

@@ -1,4 +1,4 @@
-import type { FieldsetFactory } from '@mantine/core';
+import type { FieldsetFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const FieldsetStylesApi: StylesApiData<FieldsetFactory> = {

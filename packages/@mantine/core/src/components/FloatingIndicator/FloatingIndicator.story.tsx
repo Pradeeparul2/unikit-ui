@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { useDisclosure, useInterval } from '@mantine/hooks';
+import { useDisclosure, useInterval } from '@pradeeparul2/mantine-hooks';
 import { Button } from '../Button';
 import { Modal } from '../Modal';
 import { FloatingIndicator } from './FloatingIndicator';

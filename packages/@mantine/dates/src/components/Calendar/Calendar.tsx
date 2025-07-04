@@ -9,8 +9,8 @@ import {
   StylesApiProps,
   useProps,
   useResolvedStylesApi,
-} from '@mantine/core';
-import { useUncontrolled } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import { useUncontrolledDates } from '../../hooks';
 import { CalendarLevel, DateStringValue } from '../../types';
 import { toDateString } from '../../utils';

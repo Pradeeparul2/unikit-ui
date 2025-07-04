@@ -1,4 +1,4 @@
-import { Grid, GridColProps } from '@mantine/core';
+import { Grid, GridColProps } from '@pradeeparul2/mantine-core';
 import classes from './_col-wrapper.module.css';
 
 export function ColWrapper({ children, ...others }: GridColProps) {

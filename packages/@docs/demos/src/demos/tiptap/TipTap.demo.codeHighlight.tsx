@@ -1,15 +1,15 @@
+import { RichTextEditor } from '@pradeeparul2/mantine-tiptap';
 import CodeBlockLowlight from '@tiptap/extension-code-block-lowlight';
 import { useEditor } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
 import tsLanguageSyntax from 'highlight.js/lib/languages/typescript';
 import { createLowlight } from 'lowlight';
-import { RichTextEditor } from '@mantine/tiptap';
 import { MantineDemo } from '@mantinex/demo';
 
 const lowlight = createLowlight();
 
 const code = `
-import { RichTextEditor } from '@mantine/tiptap';
+import { RichTextEditor } from '@pradeeparul2/mantine-tiptap';
 import { useEditor } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
 import CodeBlockLowlight from '@tiptap/extension-code-block-lowlight';

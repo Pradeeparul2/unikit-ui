@@ -7,7 +7,7 @@ import {
   Factory,
   StylesApiProps,
   useProps,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { DateStringValue } from '../../types';
 import {
   CalendarHeader,

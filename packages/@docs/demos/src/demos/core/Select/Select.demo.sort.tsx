@@ -1,8 +1,8 @@
-import { ComboboxItem, OptionsFilter, Select } from '@mantine/core';
+import { ComboboxItem, OptionsFilter, Select } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Select, ComboboxItem, OptionsFilter } from '@mantine/core';
+import { Select, ComboboxItem, OptionsFilter } from '@pradeeparul2/mantine-core';
 
 const optionsFilter: OptionsFilter = ({ options, search }) => {
   const filtered = (options as ComboboxItem[]).filter((option) =>

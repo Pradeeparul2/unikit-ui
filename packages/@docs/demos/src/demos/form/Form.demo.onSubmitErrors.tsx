@@ -1,14 +1,14 @@
 /* eslint-disable no-console */
 
-import { Button, TextInput } from '@mantine/core';
-import { useForm } from '@mantine/form';
-import { notifications } from '@mantine/notifications';
+import { Button, TextInput } from '@pradeeparul2/mantine-core';
+import { useForm } from '@pradeeparul2/mantine-form';
+import { notifications } from '@pradeeparul2/mantine-notifications';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useForm } from '@mantine/form';
-import { TextInput, Button } from '@mantine/core';
-import { notifications } from '@mantine/notifications';
+import { useForm } from '@pradeeparul2/mantine-form';
+import { TextInput, Button } from '@pradeeparul2/mantine-core';
+import { notifications } from '@pradeeparul2/mantine-notifications';
 
 function Demo() {
   const form = useForm({

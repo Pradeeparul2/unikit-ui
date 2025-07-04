@@ -1,9 +1,9 @@
-import { createTheme, Input, MantineThemeProvider } from '@mantine/core';
+import { createTheme, Input, MantineThemeProvider } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Styles.demo.dataSize.module.css';
 
 const code = `
-import { Input, createTheme, MantineProvider } from '@mantine/core';
+import { Input, createTheme, MantineProvider } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 const theme = createTheme({

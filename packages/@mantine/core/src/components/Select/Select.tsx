@@ -1,5 +1,5 @@
 import { useEffect, useMemo } from 'react';
-import { useId, usePrevious, useUncontrolled } from '@mantine/hooks';
+import { useId, usePrevious, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   BoxProps,
   ElementProps,
@@ -354,4 +354,4 @@ export const Select = factory<SelectFactory>((_props, ref) => {
 });
 
 Select.classes = { ...InputBase.classes, ...Combobox.classes };
-Select.displayName = '@mantine/core/Select';
+Select.displayName = '@pradeeparul2/mantine-core/Select';

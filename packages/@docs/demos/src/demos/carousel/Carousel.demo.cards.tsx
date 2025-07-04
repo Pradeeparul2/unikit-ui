@@ -1,6 +1,6 @@
-import { Carousel, CarouselProps } from '@mantine/carousel';
-import { Button, Paper, Text, Title, useMantineTheme } from '@mantine/core';
-import { useMediaQuery } from '@mantine/hooks';
+import { Carousel, CarouselProps } from '@pradeeparul2/mantine-carousel';
+import { Button, Paper, Text, Title, useMantineTheme } from '@pradeeparul2/mantine-core';
+import { useMediaQuery } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Carousel.demo.cards.module.css';
 
@@ -33,9 +33,9 @@ const cssCode = `.card {
 `;
 
 const code = `
-import { Carousel } from '@mantine/carousel';
-import { useMediaQuery } from '@mantine/hooks';
-import { Button, Paper, Title, useMantineTheme, Text } from '@mantine/core';
+import { Carousel } from '@pradeeparul2/mantine-carousel';
+import { useMediaQuery } from '@pradeeparul2/mantine-hooks';
+import { Button, Paper, Title, useMantineTheme, Text } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 const data = [

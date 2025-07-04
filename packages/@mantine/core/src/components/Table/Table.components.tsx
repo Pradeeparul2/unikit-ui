@@ -138,7 +138,7 @@ export function tableElement<Factory extends FactoryPayload>(
     );
   });
 
-  Component.displayName = `@mantine/core/${name}`;
+  Component.displayName = `@pradeeparul2/mantine-core/${name}`;
   Component.classes = classes;
   return Component;
 }

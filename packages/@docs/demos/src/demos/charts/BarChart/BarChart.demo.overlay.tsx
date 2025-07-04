@@ -1,11 +1,11 @@
-import { BarChart } from '@mantine/charts';
-import { useMediaQuery } from '@mantine/hooks';
+import { BarChart } from '@pradeeparul2/mantine-charts';
+import { useMediaQuery } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 import { overlayData, overlayDataCode } from './_data';
 import classes from './BarChart.demo.overlay.module.css';
 
 const code = `
-import { BarChart } from '@mantine/charts';
+import { BarChart } from '@pradeeparul2/mantine-charts';
 import classes from './Demo.module.css';
 import { data } from './data';
 

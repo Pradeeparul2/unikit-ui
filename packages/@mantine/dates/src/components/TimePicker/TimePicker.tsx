@@ -20,8 +20,8 @@ import {
   useProps,
   useResolvedStylesApi,
   useStyles,
-} from '@mantine/core';
-import { useId, useMergedRef } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { useId, useMergedRef } from '@pradeeparul2/mantine-hooks';
 import { SpinInput } from '../SpinInput';
 import { AmPmInput } from './AmPmInput/AmPmInput';
 import { AmPmControlsList } from './TimeControlsList/AmPmControlsList';

@@ -1,14 +1,4 @@
 import {
-  Cell,
-  Pie,
-  PieLabel,
-  PieProps,
-  PieChart as ReChartsPieChart,
-  ResponsiveContainer,
-  Tooltip,
-  TooltipProps,
-} from 'recharts';
-import {
   Box,
   BoxProps,
   createVarsResolver,
@@ -23,7 +13,17 @@ import {
   useProps,
   useResolvedStylesApi,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
+import {
+  Cell,
+  Pie,
+  PieLabel,
+  PieProps,
+  PieChart as ReChartsPieChart,
+  ResponsiveContainer,
+  Tooltip,
+  TooltipProps,
+} from 'recharts';
 import { ChartTooltip, ChartTooltipStylesNames } from '../ChartTooltip/ChartTooltip';
 import classes from './PieChart.module.css';
 

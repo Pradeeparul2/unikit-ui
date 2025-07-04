@@ -36,4 +36,4 @@ export const SliderRoot = forwardRef<HTMLDivElement, SliderRootProps>(
   }
 );
 
-SliderRoot.displayName = '@mantine/core/SliderRoot';
+SliderRoot.displayName = '@pradeeparul2/mantine-core/SliderRoot';

@@ -1,10 +1,10 @@
-import { InlineCodeHighlight } from '@mantine/code-highlight';
-import { Text } from '@mantine/core';
+import { InlineCodeHighlight } from '@pradeeparul2/mantine-code-highlight';
+import { Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Text } from '@mantine/core';
-import { InlineCodeHighlight } from '@mantine/code-highlight';
+import { Text } from '@pradeeparul2/mantine-core';
+import { InlineCodeHighlight } from '@pradeeparul2/mantine-code-highlight';
 
 function Demo() {
   return (

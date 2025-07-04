@@ -1,9 +1,9 @@
-import { Avatar, Tooltip } from '@mantine/core';
+import { Avatar, Tooltip } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { avatars } from './_mockdata';
 
 const code = `
-import { Avatar, Tooltip } from '@mantine/core';
+import { Avatar, Tooltip } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

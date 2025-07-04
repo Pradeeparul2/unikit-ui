@@ -1,8 +1,8 @@
-import { Button, TextInput } from '@mantine/core';
+import { Button, TextInput } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = (props: Record<string, any>) => `
-import { MantineProvider, TextInput, Button } from '@mantine/core';
+import { MantineProvider, TextInput, Button } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

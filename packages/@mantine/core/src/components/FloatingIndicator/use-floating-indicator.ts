@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState, type RefObject } from 'react';
-import { useMutationObserver, useTimeout } from '@mantine/hooks';
+import { useMutationObserver, useTimeout } from '@pradeeparul2/mantine-hooks';
 import { getEnv } from '../../core';
 import { toInt } from '../ScrollArea/utils';
 

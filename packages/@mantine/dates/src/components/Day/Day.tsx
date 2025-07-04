@@ -11,7 +11,7 @@ import {
   UnstyledButton,
   useProps,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { DateStringValue } from '../../types';
 import classes from './Day.module.css';
 

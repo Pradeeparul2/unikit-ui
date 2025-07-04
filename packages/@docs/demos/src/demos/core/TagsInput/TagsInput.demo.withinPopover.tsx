@@ -1,8 +1,8 @@
-import { Button, Popover, TagsInput } from '@mantine/core';
+import { Button, Popover, TagsInput } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Popover, Button, TagsInput } from '@mantine/core';
+import { Popover, Button, TagsInput } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

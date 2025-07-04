@@ -7,7 +7,7 @@ import {
   StylesApiProps,
   useProps,
   useResolvedStylesApi,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { useDatesState } from '../../hooks';
 import { DatePickerType, DateStringValue, PickerBaseProps } from '../../types';
 import { Calendar, CalendarBaseProps } from '../Calendar';

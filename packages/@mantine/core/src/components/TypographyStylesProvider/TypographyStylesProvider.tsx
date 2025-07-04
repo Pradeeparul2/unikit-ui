@@ -44,4 +44,4 @@ export const TypographyStylesProvider = factory<TypographyStylesProviderFactory>
 });
 
 TypographyStylesProvider.classes = classes;
-TypographyStylesProvider.displayName = '@mantine/core/TypographyStylesProvider';
+TypographyStylesProvider.displayName = '@pradeeparul2/mantine-core/TypographyStylesProvider';

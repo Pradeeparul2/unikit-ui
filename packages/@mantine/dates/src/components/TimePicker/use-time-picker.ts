@@ -1,5 +1,5 @@
 import { useRef, useState } from 'react';
-import { useDidUpdate } from '@mantine/hooks';
+import { useDidUpdate } from '@pradeeparul2/mantine-hooks';
 import type {
   TimePickerAmPmLabels,
   TimePickerFormat,

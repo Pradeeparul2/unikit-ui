@@ -1,9 +1,9 @@
-import { BarChart } from '@mantine/charts';
+import { BarChart } from '@pradeeparul2/mantine-charts';
 import { MantineDemo } from '@mantinex/demo';
 import { zeroData, zeroDataCode } from './_data';
 
 const code = `
-import { BarChart } from '@mantine/charts';
+import { BarChart } from '@pradeeparul2/mantine-charts';
 import { data } from './data';
 
 function Demo() {

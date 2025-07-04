@@ -1,6 +1,6 @@
 import dayjs from 'dayjs';
 import customParseFormat from 'dayjs/plugin/customParseFormat';
-import { DateInput } from '@mantine/dates';
+import { DateInput } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 dayjs.extend(customParseFormat);
@@ -8,7 +8,7 @@ dayjs.extend(customParseFormat);
 const code = `
 import dayjs from 'dayjs';
 import customParseFormat from 'dayjs/plugin/customParseFormat';
-import { DateInput } from '@mantine/dates';
+import { DateInput } from '@pradeeparul2/mantine-dates';
 
 // It is required to extend dayjs with customParseFormat plugin
 // in order to parse dates with custom format

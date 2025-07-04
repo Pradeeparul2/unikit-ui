@@ -183,5 +183,5 @@ export const Avatar = polymorphicFactory<AvatarFactory>((_props, ref) => {
 });
 
 Avatar.classes = classes;
-Avatar.displayName = '@mantine/core/Avatar';
+Avatar.displayName = '@pradeeparul2/mantine-core/Avatar';
 Avatar.Group = AvatarGroup;

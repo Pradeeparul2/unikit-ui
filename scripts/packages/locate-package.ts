@@ -4,7 +4,10 @@ import { getPath } from '../utils/get-path';
 import { getPackageName } from './get-package-name';
 
 export async function locatePackage(packageName: string) {
-  const packagePath = path.join(getPath('packages'), getPackageName(packageName));
+  let packagePath = path.join(getPath('packages'), getPackageName(packageName));
+  if (packagePath.includes('@pradeeparul2/mantine')) {
+    packagePath = packagePath.replace('@pradeeparul2/mantine-', '@mantine/');
+  }
   const exists = await fs.pathExists(packagePath);
   return exists ? packagePath : null;
 }

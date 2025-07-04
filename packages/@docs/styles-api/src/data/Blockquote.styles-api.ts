@@ -1,4 +1,4 @@
-import type { BlockquoteFactory } from '@mantine/core';
+import type { BlockquoteFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const BlockquoteStylesApi: StylesApiData<BlockquoteFactory> = {

@@ -1,4 +1,4 @@
-import { useId } from '@mantine/hooks';
+import { useId } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -176,4 +176,4 @@ export const Alert = factory<AlertFactory>((_props, ref) => {
 });
 
 Alert.classes = classes;
-Alert.displayName = '@mantine/core/Alert';
+Alert.displayName = '@pradeeparul2/mantine-core/Alert';

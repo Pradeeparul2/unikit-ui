@@ -1,4 +1,4 @@
-import type { TypographyStylesProviderFactory } from '@mantine/core';
+import type { TypographyStylesProviderFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const TypographyStylesProviderStylesApi: StylesApiData<TypographyStylesProviderFactory> = {

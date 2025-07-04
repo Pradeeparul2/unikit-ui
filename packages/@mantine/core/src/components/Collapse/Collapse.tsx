@@ -1,4 +1,4 @@
-import { useReducedMotion } from '@mantine/hooks';
+import { useReducedMotion } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -90,4 +90,4 @@ export const Collapse = factory<CollapseFactory>((props, ref) => {
   );
 });
 
-Collapse.displayName = '@mantine/core/Collapse';
+Collapse.displayName = '@pradeeparul2/mantine-core/Collapse';

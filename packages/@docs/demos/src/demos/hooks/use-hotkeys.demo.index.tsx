@@ -1,10 +1,10 @@
-import { Box, Group, Kbd } from '@mantine/core';
-import { useHotkeys } from '@mantine/hooks';
-import { modals } from '@mantine/modals';
+import { Box, Group, Kbd } from '@pradeeparul2/mantine-core';
+import { useHotkeys } from '@pradeeparul2/mantine-hooks';
+import { modals } from '@pradeeparul2/mantine-modals';
 import { MantineDemo } from '@mantinex/demo';
 
 const shortcutCode = `
-import { Box, Group, Kbd } from '@mantine/core';
+import { Box, Group, Kbd } from '@pradeeparul2/mantine-core';
 
 export function Shortcut({ symbol, description }: { symbol: string; description: string }) {
   return (
@@ -26,9 +26,9 @@ export function Shortcut({ symbol, description }: { symbol: string; description:
 `;
 
 const code = `
-import { useHotkeys } from '@mantine/hooks';
-import { spotlight } from '@mantine/spotlight';
-import { useMantineColorScheme } from '@mantine/core';
+import { useHotkeys } from '@pradeeparul2/mantine-hooks';
+import { spotlight } from '@pradeeparul2/mantine-spotlight';
+import { useMantineColorScheme } from '@pradeeparul2/mantine-core';
 import { Shortcut } from './Shortcut';
 
 function Demo() {

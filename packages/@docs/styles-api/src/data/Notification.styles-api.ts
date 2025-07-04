@@ -1,4 +1,4 @@
-import type { NotificationFactory } from '@mantine/core';
+import type { NotificationFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const NotificationStylesApi: StylesApiData<NotificationFactory> = {

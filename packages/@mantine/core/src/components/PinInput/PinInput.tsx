@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { assignRef, useId, useUncontrolled } from '@mantine/hooks';
+import { assignRef, useId, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   BoxProps,
   createVarsResolver,
@@ -437,4 +437,4 @@ export const PinInput = factory<PinInputFactory>((props, ref) => {
 });
 
 PinInput.classes = { ...classes, ...InputBase.classes };
-PinInput.displayName = '@mantine/core/PinInput';
+PinInput.displayName = '@pradeeparul2/mantine-core/PinInput';

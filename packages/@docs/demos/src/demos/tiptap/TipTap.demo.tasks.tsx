@@ -1,8 +1,8 @@
+import { getTaskListExtension, RichTextEditor } from '@pradeeparul2/mantine-tiptap';
 import TaskItem from '@tiptap/extension-task-item';
 import TipTapTaskList from '@tiptap/extension-task-list';
 import { useEditor } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
-import { getTaskListExtension, RichTextEditor } from '@mantine/tiptap';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
@@ -10,7 +10,7 @@ import TaskItem from '@tiptap/extension-task-item';
 import TipTapTaskList from '@tiptap/extension-task-list';
 import { useEditor } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
-import { RichTextEditor, getTaskListExtension } from '@mantine/tiptap';
+import { RichTextEditor, getTaskListExtension } from '@pradeeparul2/mantine-tiptap';
 
 function Demo() {
   const editor = useEditor({

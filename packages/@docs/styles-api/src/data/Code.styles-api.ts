@@ -1,4 +1,4 @@
-import type { CodeFactory } from '@mantine/core';
+import type { CodeFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const CodeStylesApi: StylesApiData<CodeFactory> = {

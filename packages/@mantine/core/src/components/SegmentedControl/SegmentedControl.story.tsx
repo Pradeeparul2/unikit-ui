@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useDisclosure } from '@mantine/hooks';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { MantineThemeProvider } from '../../core';
 import { Button } from '../Button';
 import { Group } from '../Group';

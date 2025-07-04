@@ -1,4 +1,4 @@
-import type { TooltipFactory } from '@mantine/core';
+import type { TooltipFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const TooltipStylesApi: StylesApiData<TooltipFactory> = {

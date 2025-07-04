@@ -1,11 +1,11 @@
+import { ActionIcon, Group, Switch } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { IconHeart } from '@tabler/icons-react';
-import { ActionIcon, Group, Switch } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { ActionIcon, Group, Switch } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { ActionIcon, Group, Switch } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { IconHeart } from '@tabler/icons-react';
 
 function Demo() {

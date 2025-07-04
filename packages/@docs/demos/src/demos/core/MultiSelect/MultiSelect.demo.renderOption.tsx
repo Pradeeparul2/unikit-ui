@@ -1,8 +1,8 @@
-import { Avatar, Group, MultiSelect, MultiSelectProps, Text } from '@mantine/core';
+import { Avatar, Group, MultiSelect, MultiSelectProps, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { MultiSelect, MultiSelectProps, Avatar, Group, Text } from '@mantine/core';
+import { MultiSelect, MultiSelectProps, Avatar, Group, Text } from '@pradeeparul2/mantine-core';
 
 const usersData: Record<string, { image: string; email: string }> = {
   'Emily Johnson': {

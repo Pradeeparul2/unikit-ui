@@ -1,10 +1,10 @@
+import { Group, ThemeIcon } from '@pradeeparul2/mantine-core';
 import { IconFingerprint } from '@tabler/icons-react';
-import { Group, ThemeIcon } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { IconFingerprint } from '@tabler/icons-react';
-import { ThemeIcon, Group } from '@mantine/core';
+import { ThemeIcon, Group } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

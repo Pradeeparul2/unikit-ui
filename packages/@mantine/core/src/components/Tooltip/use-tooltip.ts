@@ -15,7 +15,7 @@ import {
   useRole,
   type Middleware,
 } from '@floating-ui/react';
-import { useDidUpdate, useId } from '@mantine/hooks';
+import { useDidUpdate, useId } from '@pradeeparul2/mantine-hooks';
 import { FloatingAxesOffsets, FloatingPosition, FloatingStrategy } from '../Floating';
 import { type TooltipMiddlewares } from './Tooltip.types';
 import { useTooltipGroupContext } from './TooltipGroup/TooltipGroup.context';

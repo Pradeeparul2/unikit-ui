@@ -1,5 +1,5 @@
 import { cloneElement, useState } from 'react';
-import { Text, UnstyledButton } from '@mantine/core';
+import { Text, UnstyledButton } from '@pradeeparul2/mantine-core';
 import { DemoAreaProps } from '../DemoArea';
 import { DemoCode } from '../DemoCode';
 import { DemoColumns } from '../DemoColumns';

@@ -1,10 +1,10 @@
-import { Button, FocusTrap, Modal, TextInput } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { Button, FocusTrap, Modal, TextInput } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useDisclosure } from '@mantine/hooks';
-import { Modal, Button, TextInput, FocusTrap } from '@mantine/core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
+import { Modal, Button, TextInput, FocusTrap } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [opened, { open, close }] = useDisclosure(false);

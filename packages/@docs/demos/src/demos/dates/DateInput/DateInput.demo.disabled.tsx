@@ -1,8 +1,8 @@
-import { DateInput } from '@mantine/dates';
+import { DateInput } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { DateInput } from '@mantine/dates';
+import { DateInput } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   return <DateInput label="Disabled" placeholder="Date input" disabled />;

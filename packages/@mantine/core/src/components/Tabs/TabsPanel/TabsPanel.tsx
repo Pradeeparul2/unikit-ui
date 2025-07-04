@@ -67,4 +67,4 @@ export const TabsPanel = factory<TabsPanelFactory>((_props, ref) => {
 });
 
 TabsPanel.classes = classes;
-TabsPanel.displayName = '@mantine/core/TabsPanel';
+TabsPanel.displayName = '@pradeeparul2/mantine-core/TabsPanel';

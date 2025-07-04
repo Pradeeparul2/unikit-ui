@@ -33,4 +33,4 @@ export const HueSlider = forwardRef<HTMLDivElement, HueSliderProps>((props, ref)
   );
 });
 
-HueSlider.displayName = '@mantine/core/HueSlider';
+HueSlider.displayName = '@pradeeparul2/mantine-core/HueSlider';

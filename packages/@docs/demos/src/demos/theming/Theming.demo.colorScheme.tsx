@@ -1,8 +1,8 @@
-import { Button, Group, useMantineColorScheme } from '@mantine/core';
+import { Button, Group, useMantineColorScheme } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useMantineColorScheme, Button, Group } from '@mantine/core';
+import { useMantineColorScheme, Button, Group } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const { setColorScheme, clearColorScheme } = useMantineColorScheme();

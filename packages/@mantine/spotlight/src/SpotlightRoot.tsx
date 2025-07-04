@@ -12,8 +12,8 @@ import {
   useMantineTheme,
   useProps,
   useStyles,
-} from '@mantine/core';
-import { useDidUpdate, useHotkeys } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { useDidUpdate, useHotkeys } from '@pradeeparul2/mantine-hooks';
 import { getHotkeys } from './get-hotkeys';
 import { SpotlightProvider } from './Spotlight.context';
 import { spotlightActions, SpotlightStore, spotlightStore, useSpotlight } from './spotlight.store';

@@ -68,4 +68,4 @@ export const AvatarGroup = factory<AvatarGroupFactory>((_props, ref) => {
 });
 
 AvatarGroup.classes = classes;
-AvatarGroup.displayName = '@mantine/core/AvatarGroup';
+AvatarGroup.displayName = '@pradeeparul2/mantine-core/AvatarGroup';

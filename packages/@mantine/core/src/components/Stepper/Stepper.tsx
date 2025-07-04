@@ -268,6 +268,6 @@ export const Stepper = factory<StepperFactory>((_props, ref) => {
 });
 
 Stepper.classes = classes;
-Stepper.displayName = '@mantine/core/Stepper';
+Stepper.displayName = '@pradeeparul2/mantine-core/Stepper';
 Stepper.Completed = StepperCompleted;
 Stepper.Step = StepperStep;

@@ -1,18 +1,4 @@
 import {
-  ResponsiveContainer,
-  Scatter,
-  ScatterChart,
-  ScatterProps,
-  Tooltip,
-  TooltipProps,
-  XAxis,
-  XAxisProps,
-  YAxis,
-  YAxisProps,
-  ZAxis,
-  ZAxisProps,
-} from 'recharts';
-import {
   Box,
   BoxProps,
   createVarsResolver,
@@ -28,7 +14,21 @@ import {
   useMantineTheme,
   useProps,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
+import {
+  ResponsiveContainer,
+  Scatter,
+  ScatterChart,
+  ScatterProps,
+  Tooltip,
+  TooltipProps,
+  XAxis,
+  XAxisProps,
+  YAxis,
+  YAxisProps,
+  ZAxis,
+  ZAxisProps,
+} from 'recharts';
 import classes from '../grid-chart.module.css';
 
 function getDomain(data: Record<string, any>[], key: string) {

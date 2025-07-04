@@ -1,11 +1,11 @@
+import { TagsInput } from '@pradeeparul2/mantine-core';
 import { IconAt } from '@tabler/icons-react';
-import { TagsInput } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { TagsInputStylesApi } from '@docs/styles-api';
 
 const code = `
 import { IconAt } from '@tabler/icons-react';
-import { TagsInput } from '@mantine/core';
+import { TagsInput } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

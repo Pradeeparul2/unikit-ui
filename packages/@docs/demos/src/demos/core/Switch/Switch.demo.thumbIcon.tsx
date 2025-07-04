@@ -1,11 +1,11 @@
 import { useState } from 'react';
+import { Switch } from '@pradeeparul2/mantine-core';
 import { IconCheck, IconX } from '@tabler/icons-react';
-import { Switch } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { Switch } from '@mantine/core';
+import { Switch } from '@pradeeparul2/mantine-core';
 import { IconCheck, IconX } from '@tabler/icons-react';
 
 function Demo() {

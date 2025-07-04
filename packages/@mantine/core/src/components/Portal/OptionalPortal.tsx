@@ -27,4 +27,4 @@ export const OptionalPortal = factory<OptionalPortalFactory>(
   }
 );
 
-OptionalPortal.displayName = '@mantine/core/OptionalPortal';
+OptionalPortal.displayName = '@pradeeparul2/mantine-core/OptionalPortal';

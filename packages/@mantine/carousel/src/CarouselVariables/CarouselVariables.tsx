@@ -9,7 +9,7 @@ import {
   px,
   rem,
   useMantineTheme,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import type { CarouselProps } from '../Carousel';
 
 interface CarouselVariablesProps extends CarouselProps {

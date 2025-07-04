@@ -1,4 +1,4 @@
-import { useId, useUncontrolled } from '@mantine/hooks';
+import { useId, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import { DataAttributes, factory, Factory, MantineSize, useProps } from '../../../core';
 import { Input, InputWrapperProps, InputWrapperStylesNames } from '../../Input';
 import { InputsGroupFieldset } from '../../InputsGroupFieldset';
@@ -74,4 +74,4 @@ export const RadioGroup = factory<RadioGroupFactory>((props, ref) => {
 });
 
 RadioGroup.classes = Input.Wrapper.classes;
-RadioGroup.displayName = '@mantine/core/RadioGroup';
+RadioGroup.displayName = '@pradeeparul2/mantine-core/RadioGroup';

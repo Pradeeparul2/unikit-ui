@@ -1,13 +1,13 @@
-import { Button, Group, ScrollArea } from '@mantine/core';
-import { useCounter } from '@mantine/hooks';
+import { Button, Group, ScrollArea } from '@pradeeparul2/mantine-core';
+import { useCounter } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const lorem =
   'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta perspiciatis reiciendis voluptate eaque itaque quos. Natus iure tenetur libero, reprehenderit ad, sequi, in aliquam eos necessitatibus expedita delectus veniam culpa!';
 
 const code = `
-import { useCounter } from '@mantine/hooks';
-import { ScrollArea, Button, Group } from '@mantine/core';
+import { useCounter } from '@pradeeparul2/mantine-hooks';
+import { ScrollArea, Button, Group } from '@pradeeparul2/mantine-core';
 
 const lorem =
   'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta perspiciatis reiciendis voluptate eaque itaque quos. Natus iure tenetur libero, reprehenderit ad, sequi, in aliquam eos necessitatibus expedita delectus veniam culpa!';

@@ -1,11 +1,11 @@
+import { JsonInput } from '@pradeeparul2/mantine-core';
 import { IconAt } from '@tabler/icons-react';
-import { JsonInput } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { JsonInputStylesApi } from '@docs/styles-api';
 
 const code = `
 import { IconAt } from '@tabler/icons-react';
-import { JsonInput } from '@mantine/core';
+import { JsonInput } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

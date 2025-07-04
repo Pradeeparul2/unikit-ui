@@ -1,5 +1,5 @@
-import { factory, Factory, getDefaultZIndex, useProps } from '@mantine/core';
-import { useUncontrolled } from '@mantine/hooks';
+import { factory, Factory, getDefaultZIndex, useProps } from '@pradeeparul2/mantine-core';
+import { useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import { defaultSpotlightFilter } from './default-spotlight-filter';
 import { isActionsGroup } from './is-actions-group';
 import { limitActions } from './limit-actions';

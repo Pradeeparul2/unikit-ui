@@ -1,4 +1,4 @@
-import { Pagination } from '@mantine/core';
+import { Pagination } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: any) {
@@ -6,7 +6,7 @@ function Wrapper(props: any) {
 }
 
 const code = `
-import { Pagination } from '@mantine/core';
+import { Pagination } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <Pagination total={10}{{props}} />;

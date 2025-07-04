@@ -13,8 +13,8 @@ import {
   SimpleGrid,
   Tooltip,
   useProps,
-} from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { IconCheck, IconCircleOff, IconColorPicker, IconPalette, IconX } from '../icons/Icons';
 import { useRichTextEditorContext } from '../RichTextEditor.context';
 import { RichTextEditorControl } from './RichTextEditorControl';

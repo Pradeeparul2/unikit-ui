@@ -1,10 +1,10 @@
-import { Box, Portal, Text } from '@mantine/core';
-import { useHeadroom } from '@mantine/hooks';
+import { Box, Portal, Text } from '@pradeeparul2/mantine-core';
+import { useHeadroom } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Box, Portal, Text } from '@mantine/core';
-import { useHeadroom } from '@mantine/hooks';
+import { Box, Portal, Text } from '@pradeeparul2/mantine-core';
+import { useHeadroom } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const pinned = useHeadroom({ fixedAt: 120 });

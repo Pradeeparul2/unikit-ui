@@ -44,4 +44,4 @@ export const VisuallyHidden = factory<VisuallyHiddenFactory>((_props, ref) => {
 });
 
 VisuallyHidden.classes = classes;
-VisuallyHidden.displayName = '@mantine/core/VisuallyHidden';
+VisuallyHidden.displayName = '@pradeeparul2/mantine-core/VisuallyHidden';

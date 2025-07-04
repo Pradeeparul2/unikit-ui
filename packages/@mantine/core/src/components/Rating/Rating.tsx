@@ -1,5 +1,5 @@
 import { useRef, useState } from 'react';
-import { clamp, useId, useMergedRef, useUncontrolled } from '@mantine/hooks';
+import { clamp, useId, useMergedRef, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -327,4 +327,4 @@ export const Rating = factory<RatingFactory>((_props, ref) => {
 });
 
 Rating.classes = classes;
-Rating.displayName = '@mantine/core/Rating';
+Rating.displayName = '@pradeeparul2/mantine-core/Rating';

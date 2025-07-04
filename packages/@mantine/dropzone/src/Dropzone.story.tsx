@@ -1,5 +1,5 @@
 import { useRef } from 'react';
-import { Button, Group } from '@mantine/core';
+import { Button, Group } from '@pradeeparul2/mantine-core';
 import { Dropzone } from './index';
 
 export default { title: 'Dropzone' };

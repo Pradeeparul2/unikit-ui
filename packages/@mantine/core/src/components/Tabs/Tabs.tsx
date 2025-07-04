@@ -1,4 +1,4 @@
-import { useId, useUncontrolled } from '@mantine/hooks';
+import { useId, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -214,7 +214,7 @@ export const Tabs = factory<TabsFactory>((_props, ref) => {
 });
 
 Tabs.classes = classes;
-Tabs.displayName = '@mantine/core/Tabs';
+Tabs.displayName = '@pradeeparul2/mantine-core/Tabs';
 Tabs.Tab = TabsTab;
 Tabs.Panel = TabsPanel;
 Tabs.List = TabsList;

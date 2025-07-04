@@ -1,4 +1,4 @@
-import { useElementSize, useId, useUncontrolled } from '@mantine/hooks';
+import { useElementSize, useId, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -150,4 +150,4 @@ export const Spoiler = factory<SpoilerFactory>((_props, ref) => {
 });
 
 Spoiler.classes = classes;
-Spoiler.displayName = '@mantine/core/Spoiler';
+Spoiler.displayName = '@pradeeparul2/mantine-core/Spoiler';

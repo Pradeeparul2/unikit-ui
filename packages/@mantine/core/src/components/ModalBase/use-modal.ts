@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useFocusReturn, useId, useWindowEvent } from '@mantine/hooks';
+import { useFocusReturn, useId, useWindowEvent } from '@pradeeparul2/mantine-hooks';
 import { TransitionOverride } from '../Transition';
 import { useLockScroll } from './use-lock-scroll';
 

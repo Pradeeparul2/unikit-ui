@@ -83,4 +83,4 @@ export const Stack = factory<StackFactory>((_props, ref) => {
 });
 
 Stack.classes = classes;
-Stack.displayName = '@mantine/core/Stack';
+Stack.displayName = '@pradeeparul2/mantine-core/Stack';

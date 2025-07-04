@@ -1,10 +1,10 @@
-import { Box, Text, TextInput } from '@mantine/core';
-import { useValidatedState } from '@mantine/hooks';
+import { Box, Text, TextInput } from '@pradeeparul2/mantine-core';
+import { useValidatedState } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { TextInput, Text, Box } from '@mantine/core';
-import { useValidatedState } from '@mantine/hooks';
+import { TextInput, Text, Box } from '@pradeeparul2/mantine-core';
+import { useValidatedState } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const [{ value, lastValidValue, valid }, setEmail] = useValidatedState(

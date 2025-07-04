@@ -1,4 +1,4 @@
-import { useUncontrolled } from '@mantine/hooks';
+import { useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -239,4 +239,4 @@ export const NavLink = polymorphicFactory<NavLinkFactory>((_props, ref) => {
 });
 
 NavLink.classes = classes;
-NavLink.displayName = '@mantine/core/NavLink';
+NavLink.displayName = '@pradeeparul2/mantine-core/NavLink';

@@ -1,9 +1,9 @@
+import { ActionIcon, CopyButton, Tooltip } from '@pradeeparul2/mantine-core';
 import { IconCheck, IconCopy } from '@tabler/icons-react';
-import { ActionIcon, CopyButton, Tooltip } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { ActionIcon, CopyButton, Tooltip } from '@mantine/core';
+import { ActionIcon, CopyButton, Tooltip } from '@pradeeparul2/mantine-core';
 import { IconCopy, IconCheck } from '@tabler/icons-react';
 
 function Demo() {

@@ -1,4 +1,4 @@
-import { Box, rem } from '@mantine/core';
+import { Box, rem } from '@pradeeparul2/mantine-core';
 import { DevIconProps } from './types';
 
 export function GithubIcon({ size, style, ...others }: DevIconProps) {

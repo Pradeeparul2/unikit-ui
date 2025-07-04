@@ -1,9 +1,9 @@
-import { Group, Text, useMantineTheme } from '@mantine/core';
-import { useElementSize } from '@mantine/hooks';
+import { Group, Text, useMantineTheme } from '@pradeeparul2/mantine-core';
+import { useElementSize } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useElementSize } from '@mantine/hooks';
+import { useElementSize } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const { ref, width, height } = useElementSize();

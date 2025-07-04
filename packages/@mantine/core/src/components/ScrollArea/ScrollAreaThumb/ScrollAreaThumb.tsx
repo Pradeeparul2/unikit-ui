@@ -1,5 +1,5 @@
 import { forwardRef, useEffect, useRef } from 'react';
-import { useDebouncedCallback, useMergedRef } from '@mantine/hooks';
+import { useDebouncedCallback, useMergedRef } from '@pradeeparul2/mantine-hooks';
 import { useScrollAreaContext } from '../ScrollArea.context';
 import { useScrollbarContext } from '../ScrollAreaScrollbar/Scrollbar.context';
 import { addUnlinkedScrollListener, composeEventHandlers } from '../utils';
@@ -61,7 +61,7 @@ export const Thumb = forwardRef<HTMLDivElement, ThumbProps>((props, forwardedRef
   );
 });
 
-Thumb.displayName = '@mantine/core/ScrollAreaThumb';
+Thumb.displayName = '@pradeeparul2/mantine-core/ScrollAreaThumb';
 
 interface ScrollAreaThumbProps extends ThumbProps {
   forceMount?: true;
@@ -80,4 +80,4 @@ export const ScrollAreaThumb = forwardRef<HTMLDivElement, ScrollAreaThumbProps>(
   }
 );
 
-ScrollAreaThumb.displayName = '@mantine/core/ScrollAreaThumb';
+ScrollAreaThumb.displayName = '@pradeeparul2/mantine-core/ScrollAreaThumb';

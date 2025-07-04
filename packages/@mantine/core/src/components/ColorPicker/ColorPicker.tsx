@@ -1,5 +1,5 @@
 import { useRef, useState } from 'react';
-import { useDidUpdate, useUncontrolled } from '@mantine/hooks';
+import { useDidUpdate, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -312,4 +312,4 @@ export const ColorPicker = factory<ColorPickerFactory>((_props, ref) => {
 });
 
 ColorPicker.classes = classes;
-ColorPicker.displayName = '@mantine/core/ColorPicker';
+ColorPicker.displayName = '@pradeeparul2/mantine-core/ColorPicker';

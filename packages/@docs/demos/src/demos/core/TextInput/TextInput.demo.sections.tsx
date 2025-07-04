@@ -1,9 +1,9 @@
+import { TextInput } from '@pradeeparul2/mantine-core';
 import { IconAt } from '@tabler/icons-react';
-import { TextInput } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { TextInput } from '@mantine/core';
+import { TextInput } from '@pradeeparul2/mantine-core';
 import { IconAt } from '@tabler/icons-react';
 
 function Demo() {

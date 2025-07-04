@@ -1,4 +1,4 @@
-import { Chip, Group } from '@mantine/core';
+import { Chip, Group } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Demo() {

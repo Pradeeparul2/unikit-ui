@@ -11,7 +11,7 @@ import {
   StylesApiProps,
   useProps,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { CodeHighlight } from './CodeHighlight';
 import classes from '../CodeHighlight.module.css';
 

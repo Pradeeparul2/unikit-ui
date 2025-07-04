@@ -1,4 +1,4 @@
-import { Button, Flex, FlexProps } from '@mantine/core';
+import { Button, Flex, FlexProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: FlexProps) {
@@ -12,7 +12,7 @@ function Wrapper(props: FlexProps) {
 }
 
 const code = `
-import { Flex, Button } from '@mantine/core';
+import { Flex, Button } from '@pradeeparul2/mantine-core';
 
 
 function Demo() {

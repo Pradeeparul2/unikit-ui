@@ -1,6 +1,6 @@
 import { cloneElement } from 'react';
+import { useMergedRef } from '@pradeeparul2/mantine-hooks';
 import cx from 'clsx';
-import { useMergedRef } from '@mantine/hooks';
 import { factory, Factory, getRefProp, isElement, useProps } from '../../../core';
 import { usePopoverContext } from '../Popover.context';
 
@@ -73,4 +73,4 @@ export const PopoverTarget = factory<PopoverTargetFactory>((props, ref) => {
   });
 });
 
-PopoverTarget.displayName = '@mantine/core/PopoverTarget';
+PopoverTarget.displayName = '@pradeeparul2/mantine-core/PopoverTarget';

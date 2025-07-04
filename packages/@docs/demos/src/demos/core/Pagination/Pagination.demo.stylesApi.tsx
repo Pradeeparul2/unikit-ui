@@ -1,9 +1,9 @@
-import { Pagination } from '@mantine/core';
+import { Pagination } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { PaginationStylesApi } from '@docs/styles-api';
 
 const code = `
-import { Pagination } from '@mantine/core';
+import { Pagination } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <Pagination total={10}{{props}} />;

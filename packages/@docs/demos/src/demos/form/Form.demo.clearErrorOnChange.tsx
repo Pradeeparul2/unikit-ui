@@ -1,12 +1,12 @@
 /* eslint-disable no-console */
 
-import { Button, Checkbox, Group, TextInput } from '@mantine/core';
-import { useForm } from '@mantine/form';
+import { Button, Checkbox, Group, TextInput } from '@pradeeparul2/mantine-core';
+import { useForm } from '@pradeeparul2/mantine-form';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { TextInput, Checkbox, Button, Group } from '@mantine/core';
-import { useForm } from '@mantine/form';
+import { TextInput, Checkbox, Button, Group } from '@pradeeparul2/mantine-core';
+import { useForm } from '@pradeeparul2/mantine-form';
 
 function Demo() {
   const form = useForm({

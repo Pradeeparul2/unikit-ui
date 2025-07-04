@@ -1,7 +1,7 @@
 /* eslint-disable no-console */
 
+import { SpotlightActionData } from '@pradeeparul2/mantine-spotlight';
 import { IconDashboard, IconFileText, IconHome, IconSearch } from '@tabler/icons-react';
-import { SpotlightActionData } from '@mantine/spotlight';
 import { MantineDemo } from '@mantinex/demo';
 import { SpotlightDemoBase } from './_demo-base';
 
@@ -30,8 +30,8 @@ const actions: SpotlightActionData[] = [
 ];
 
 const code = `
-import { Button } from '@mantine/core';
-import { Spotlight, SpotlightActionData, spotlight } from '@mantine/spotlight';
+import { Button } from '@pradeeparul2/mantine-core';
+import { Spotlight, SpotlightActionData, spotlight } from '@pradeeparul2/mantine-spotlight';
 import { IconHome, IconDashboard, IconFileText, IconSearch } from '@tabler/icons-react';
 
 const actions: SpotlightActionData[] = [

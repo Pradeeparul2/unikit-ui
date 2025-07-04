@@ -85,4 +85,4 @@ export const ButtonGroup = factory<ButtonGroupFactory>((_props, ref) => {
 });
 
 ButtonGroup.classes = classes;
-ButtonGroup.displayName = '@mantine/core/ButtonGroup';
+ButtonGroup.displayName = '@pradeeparul2/mantine-core/ButtonGroup';

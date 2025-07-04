@@ -1,11 +1,11 @@
-import { Button, Text } from '@mantine/core';
-import { modals } from '@mantine/modals';
-import { notifications } from '@mantine/notifications';
+import { Button, Text } from '@pradeeparul2/mantine-core';
+import { modals } from '@pradeeparul2/mantine-modals';
+import { notifications } from '@pradeeparul2/mantine-notifications';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button, Text } from '@mantine/core';
-import { modals } from '@mantine/modals';
+import { Button, Text } from '@pradeeparul2/mantine-core';
+import { modals } from '@pradeeparul2/mantine-modals';
 
 function Demo() {
   const openModal = () => modals.openConfirmModal({

@@ -1,4 +1,4 @@
-import type { TitleFactory } from '@mantine/core';
+import type { TitleFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const TitleStylesApi: StylesApiData<TitleFactory> = {

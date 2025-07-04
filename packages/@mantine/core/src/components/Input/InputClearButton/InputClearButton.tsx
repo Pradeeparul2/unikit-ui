@@ -51,4 +51,4 @@ export const InputClearButton = factory<InputClearButtonFactory>((_props, ref) =
   );
 });
 
-InputClearButton.displayName = '@mantine/core/InputClearButton';
+InputClearButton.displayName = '@pradeeparul2/mantine-core/InputClearButton';

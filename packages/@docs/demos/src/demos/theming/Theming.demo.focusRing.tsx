@@ -1,4 +1,4 @@
-import { Button, Code, Group, MantineThemeProvider, Text } from '@mantine/core';
+import { Button, Code, Group, MantineThemeProvider, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Demo() {

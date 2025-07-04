@@ -114,4 +114,4 @@ export const ScrollAreaScrollbarVisible = forwardRef<
   return null;
 });
 
-ScrollAreaScrollbarVisible.displayName = '@mantine/core/ScrollAreaScrollbarVisible';
+ScrollAreaScrollbarVisible.displayName = '@pradeeparul2/mantine-core/ScrollAreaScrollbarVisible';

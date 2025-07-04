@@ -1,5 +1,20 @@
 import { useState } from 'react';
 import {
+  Box,
+  BoxProps,
+  createVarsResolver,
+  ElementProps,
+  factory,
+  Factory,
+  getThemeColor,
+  MantineColor,
+  StylesApiProps,
+  useMantineTheme,
+  useProps,
+  useResolvedStylesApi,
+  useStyles,
+} from '@pradeeparul2/mantine-core';
+import {
   DotProps,
   Legend,
   LegendProps,
@@ -16,21 +31,6 @@ import {
   Tooltip,
   TooltipProps,
 } from 'recharts';
-import {
-  Box,
-  BoxProps,
-  createVarsResolver,
-  ElementProps,
-  factory,
-  Factory,
-  getThemeColor,
-  MantineColor,
-  StylesApiProps,
-  useMantineTheme,
-  useProps,
-  useResolvedStylesApi,
-  useStyles,
-} from '@mantine/core';
 import { ChartLegend } from '../ChartLegend';
 import { ChartTooltip, ChartTooltipStylesNames } from '../ChartTooltip';
 import classes from './RadarChart.module.css';

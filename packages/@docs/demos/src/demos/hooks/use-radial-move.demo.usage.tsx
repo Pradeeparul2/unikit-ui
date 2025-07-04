@@ -1,13 +1,13 @@
 import { useState } from 'react';
-import { Box } from '@mantine/core';
-import { useRadialMove } from '@mantine/hooks';
+import { Box } from '@pradeeparul2/mantine-core';
+import { useRadialMove } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './use-radial-move.demo.usage.module.css';
 
 const code = `
 import { useState } from 'react';
-import { Box } from '@mantine/core';
-import { useRadialMove } from '@mantine/hooks';
+import { Box } from '@pradeeparul2/mantine-core';
+import { useRadialMove } from '@pradeeparul2/mantine-hooks';
 import classes from './Demo.module.css';
 
 function Demo() {

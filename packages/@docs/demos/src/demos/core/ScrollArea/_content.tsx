@@ -1,4 +1,4 @@
-import { Text } from '@mantine/core';
+import { Text } from '@pradeeparul2/mantine-core';
 
 export function Content() {
   return (

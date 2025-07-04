@@ -105,4 +105,4 @@ export const Affix = factory<AffixFactory>((_props, ref) => {
 });
 
 Affix.classes = classes;
-Affix.displayName = '@mantine/core/Affix';
+Affix.displayName = '@pradeeparul2/mantine-core/Affix';

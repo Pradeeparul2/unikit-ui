@@ -1,11 +1,11 @@
+import { MultiSelect } from '@pradeeparul2/mantine-core';
 import { IconAt } from '@tabler/icons-react';
-import { MultiSelect } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { MultiSelectStylesApi } from '@docs/styles-api';
 
 const code = `
 import { IconAt } from '@tabler/icons-react';
-import { MultiSelect } from '@mantine/core';
+import { MultiSelect } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

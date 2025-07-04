@@ -79,4 +79,4 @@ export const PillGroup = factory<PillGroupFactory>((_props, ref) => {
 });
 
 PillGroup.classes = classes;
-PillGroup.displayName = '@mantine/core/PillGroup';
+PillGroup.displayName = '@pradeeparul2/mantine-core/PillGroup';

@@ -1,10 +1,10 @@
 import { useState } from 'react';
-import { MonthPicker } from '@mantine/dates';
+import { MonthPicker } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { MonthPicker } from '@mantine/dates';
+import { MonthPicker } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   const [value, setValue] = useState<string | null>(null);

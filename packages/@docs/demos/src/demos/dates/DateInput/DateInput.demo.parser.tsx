@@ -1,10 +1,10 @@
 import dayjs from 'dayjs';
-import { DateInput, DateInputProps } from '@mantine/dates';
+import { DateInput, DateInputProps } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import dayjs from 'dayjs';
-import { DateInput, DateInputProps } from '@mantine/dates';
+import { DateInput, DateInputProps } from '@pradeeparul2/mantine-dates';
 
 const dateParser: DateInputProps['dateParser'] = (input) => {
   if (input === 'WW2') {

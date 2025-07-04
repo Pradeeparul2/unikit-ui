@@ -1,4 +1,4 @@
-import type { MultiSelectFactory } from '@mantine/core';
+import type { MultiSelectFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 import { ComboboxLikeSelectors } from './Combobox.styles-api';
 import { InputStylesApi, InputWrapperStylesApi } from './Input.styles-api';

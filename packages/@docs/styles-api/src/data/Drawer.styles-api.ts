@@ -1,4 +1,4 @@
-import type { DrawerFactory } from '@mantine/core';
+import type { DrawerFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const DrawerStylesApi: StylesApiData<DrawerFactory> = {

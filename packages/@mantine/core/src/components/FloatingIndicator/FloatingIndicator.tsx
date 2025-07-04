@@ -1,5 +1,5 @@
 import { useRef } from 'react';
-import { useMergedRef } from '@mantine/hooks';
+import { useMergedRef } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -102,5 +102,5 @@ export const FloatingIndicator = factory<FloatingIndicatorFactory>((_props, ref)
   );
 });
 
-FloatingIndicator.displayName = '@mantine/core/FloatingIndicator';
+FloatingIndicator.displayName = '@pradeeparul2/mantine-core/FloatingIndicator';
 FloatingIndicator.classes = classes;

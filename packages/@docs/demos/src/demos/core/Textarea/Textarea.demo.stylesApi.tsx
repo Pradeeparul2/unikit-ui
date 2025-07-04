@@ -1,11 +1,11 @@
+import { Textarea } from '@pradeeparul2/mantine-core';
 import { IconAt } from '@tabler/icons-react';
-import { Textarea } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { TextareaStylesApi } from '@docs/styles-api';
 
 const code = `
 import { IconAt } from '@tabler/icons-react';
-import { Textarea } from '@mantine/core';
+import { Textarea } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

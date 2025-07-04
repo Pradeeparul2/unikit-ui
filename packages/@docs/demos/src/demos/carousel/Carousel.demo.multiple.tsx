@@ -1,9 +1,9 @@
-import { Carousel } from '@mantine/carousel';
+import { Carousel } from '@pradeeparul2/mantine-carousel';
 import { MantineDemo } from '@mantinex/demo';
 import { Slides } from './_slides';
 
 const code = `
-import { Carousel } from '@mantine/carousel';
+import { Carousel } from '@pradeeparul2/mantine-carousel';
 
 function Demo() {
   return (

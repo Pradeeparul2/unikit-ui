@@ -1,4 +1,4 @@
-import { List, ListProps } from '@mantine/core';
+import { List, ListProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: ListProps) {
@@ -14,7 +14,7 @@ function Wrapper(props: ListProps) {
 }
 
 const code = `
-import { List } from '@mantine/core';
+import { List } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

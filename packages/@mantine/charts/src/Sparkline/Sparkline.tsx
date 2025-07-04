@@ -1,5 +1,4 @@
 import { useId, useMemo } from 'react';
-import { Area, AreaProps, AreaChart as ReChartsAreaChart, ResponsiveContainer } from 'recharts';
 import {
   Box,
   BoxProps,
@@ -12,7 +11,8 @@ import {
   StylesApiProps,
   useProps,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
+import { Area, AreaProps, AreaChart as ReChartsAreaChart, ResponsiveContainer } from 'recharts';
 import { AreaChartCurveType, AreaGradient } from '../AreaChart';
 
 const classes = {};

@@ -1,5 +1,6 @@
+import type { CSSObject as EmotionCSSObject } from '@emotion/react';
+import type { MantineTheme } from '@pradeeparul2/mantine-core';
 import * as CSSType from 'csstype';
-import type { MantineTheme } from '@mantine/core';
 import type { EmotionHelpers } from './create-styles';
 
 export type EmotionSx = CSSObject | ((theme: MantineTheme, u: EmotionHelpers) => CSSObject);
@@ -16,11 +17,7 @@ export interface CSS {
   (...args: CSSInterpolation[]): string;
 }
 
-export interface CSSObject
-  extends CSSPropertiesWithMultiValues,
-    CSSPseudos,
-    CSSOthersObject,
-    CSSTssSpecials {}
+export type CSSObject = EmotionCSSObject & CSSTssSpecials;
 
 export type CSSTssSpecials = {
   ref?: string;

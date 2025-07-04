@@ -1,4 +1,4 @@
-import type { StackFactory } from '@mantine/core';
+import type { StackFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const StackStylesApi: StylesApiData<StackFactory> = {

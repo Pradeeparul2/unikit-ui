@@ -131,5 +131,5 @@ export const Grid = factory<GridFactory>((_props, ref) => {
 });
 
 Grid.classes = classes;
-Grid.displayName = '@mantine/core/Grid';
+Grid.displayName = '@pradeeparul2/mantine-core/Grid';
 Grid.Col = GridCol;

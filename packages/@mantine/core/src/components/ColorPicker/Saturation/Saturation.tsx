@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { clampUseMovePosition, useMove, UseMovePosition } from '@mantine/hooks';
+import { clampUseMovePosition, useMove, UseMovePosition } from '@pradeeparul2/mantine-hooks';
 import { Box, ElementProps, MantineSize } from '../../../core';
 import { useColorPickerContext } from '../ColorPicker.context';
 import { HsvaColor } from '../ColorPicker.types';
@@ -121,4 +121,4 @@ export function Saturation({
   );
 }
 
-Saturation.displayName = '@mantine/core/Saturation';
+Saturation.displayName = '@pradeeparul2/mantine-core/Saturation';

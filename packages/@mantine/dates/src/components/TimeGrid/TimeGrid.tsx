@@ -15,8 +15,8 @@ import {
   StylesApiProps,
   useProps,
   useStyles,
-} from '@mantine/core';
-import { useUncontrolled } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import type { TimePickerAmPmLabels, TimePickerFormat } from '../TimePicker';
 import { isSameTime } from '../TimePicker/utils/is-same-time/is-same-time';
 import { isTimeAfter, isTimeBefore } from './compare-time';

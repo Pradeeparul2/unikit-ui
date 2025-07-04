@@ -1,10 +1,10 @@
-import { Button, Modal, ScrollArea } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { Button, Modal, ScrollArea } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useDisclosure } from '@mantine/hooks';
-import { Modal, Button, ScrollArea } from '@mantine/core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
+import { Modal, Button, ScrollArea } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [opened, { open, close }] = useDisclosure(false);

@@ -1,10 +1,10 @@
 import { useState } from 'react';
-import { Box, Slider, Text } from '@mantine/core';
+import { Box, Slider, Text } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { Slider, Text, Box } from '@mantine/core';
+import { Slider, Text, Box } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [value, setValue] = useState(50);

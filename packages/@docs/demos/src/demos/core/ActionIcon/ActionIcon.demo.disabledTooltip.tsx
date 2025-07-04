@@ -1,9 +1,9 @@
+import { ActionIcon, Tooltip } from '@pradeeparul2/mantine-core';
 import { IconHeart } from '@tabler/icons-react';
-import { ActionIcon, Tooltip } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { ActionIcon, Tooltip } from '@mantine/core';
+import { ActionIcon, Tooltip } from '@pradeeparul2/mantine-core';
 import { IconHeart } from '@tabler/icons-react';
 
 function Demo() {

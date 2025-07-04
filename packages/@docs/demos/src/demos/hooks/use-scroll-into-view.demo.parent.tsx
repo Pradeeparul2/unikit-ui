@@ -1,10 +1,10 @@
-import { Box, Button, Group, Paper, Text } from '@mantine/core';
-import { useScrollIntoView } from '@mantine/hooks';
+import { Box, Button, Group, Paper, Text } from '@pradeeparul2/mantine-core';
+import { useScrollIntoView } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useScrollIntoView } from '@mantine/hooks';
-import { Button, Text, Group, Paper, Box } from '@mantine/core';
+import { useScrollIntoView } from '@pradeeparul2/mantine-hooks';
+import { Button, Text, Group, Paper, Box } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const { scrollIntoView, targetRef, scrollableRef } = useScrollIntoView<

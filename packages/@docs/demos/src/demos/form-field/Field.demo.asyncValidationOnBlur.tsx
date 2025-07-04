@@ -1,10 +1,10 @@
-import { Loader, TextInput } from '@mantine/core';
-import { useField } from '@mantine/form';
+import { Loader, TextInput } from '@pradeeparul2/mantine-core';
+import { useField } from '@pradeeparul2/mantine-form';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Loader, TextInput } from '@mantine/core';
-import { useField } from '@mantine/form';
+import { Loader, TextInput } from '@pradeeparul2/mantine-core';
+import { useField } from '@pradeeparul2/mantine-form';
 
 function validateAsync(value: string): Promise<string | null> {
   return new Promise((resolve) => {

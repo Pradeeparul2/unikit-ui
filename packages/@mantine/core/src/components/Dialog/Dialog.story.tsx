@@ -1,5 +1,5 @@
-import { Button, Group, Text, TextInput } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { Button, Group, Text, TextInput } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { Dialog } from './Dialog';
 
 export default { title: 'Dialog' };

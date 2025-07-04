@@ -1,12 +1,12 @@
+import { ActionIcon, Group, Table } from '@pradeeparul2/mantine-core';
+import { useMap } from '@pradeeparul2/mantine-hooks';
 import { IconPlus, IconTrash } from '@tabler/icons-react';
-import { ActionIcon, Group, Table } from '@mantine/core';
-import { useMap } from '@mantine/hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { IconPlus, IconTrash } from '@tabler/icons-react';
-import { ActionIcon, Group, Table } from '@mantine/core';
-import { useMap } from '@mantine/hooks';
+import { ActionIcon, Group, Table } from '@pradeeparul2/mantine-core';
+import { useMap } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const map = useMap([

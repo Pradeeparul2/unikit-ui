@@ -42,4 +42,4 @@ export const AppShellMain = factory<AppShellMainFactory>((_props, ref) => {
 });
 
 AppShellMain.classes = classes;
-AppShellMain.displayName = '@mantine/core/AppShellMain';
+AppShellMain.displayName = '@pradeeparul2/mantine-core/AppShellMain';

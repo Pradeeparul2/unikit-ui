@@ -45,4 +45,4 @@ export function DrawerStack({ children }: DrawerStackProps) {
   );
 }
 
-DrawerStack.displayName = '@mantine/core/DrawerStack';
+DrawerStack.displayName = '@pradeeparul2/mantine-core/DrawerStack';

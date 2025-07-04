@@ -1,4 +1,4 @@
-import { CodeHighlightTabs } from '@mantine/code-highlight';
+import { CodeHighlightTabs } from '@pradeeparul2/mantine-code-highlight';
 import { MantineDemo } from '@mantinex/demo';
 import { CssIcon, TypeScriptIcon } from '@mantinex/dev-icons';
 
@@ -16,7 +16,7 @@ const cssCode = `
 `;
 
 const code = `
-import { CodeHighlightTabs } from '@mantine/code-highlight';
+import { CodeHighlightTabs } from '@pradeeparul2/mantine-code-highlight';
 import { TypeScriptIcon, CssIcon } from '@mantinex/dev-icons';
 
 const tsxCode = \`${tsxCode}\`;

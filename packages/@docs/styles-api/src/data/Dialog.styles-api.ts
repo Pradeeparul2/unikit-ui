@@ -1,4 +1,4 @@
-import type { DialogFactory } from '@mantine/core';
+import type { DialogFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const DialogStylesApi: StylesApiData<DialogFactory> = {

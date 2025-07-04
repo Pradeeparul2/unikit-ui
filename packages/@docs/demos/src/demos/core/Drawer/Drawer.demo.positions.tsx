@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Button, Drawer, Group } from '@mantine/core';
+import { Button, Drawer, Group } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Demo() {

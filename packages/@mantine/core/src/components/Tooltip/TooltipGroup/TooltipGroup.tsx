@@ -34,5 +34,5 @@ export type TooltipGroupFactory = Factory<{
   props: TooltipGroupProps;
 }>;
 
-TooltipGroup.displayName = '@mantine/core/TooltipGroup';
+TooltipGroup.displayName = '@pradeeparul2/mantine-core/TooltipGroup';
 TooltipGroup.extend = (c: ExtendComponent<TooltipGroupFactory>): MantineThemeComponent => c;

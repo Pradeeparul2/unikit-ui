@@ -8,7 +8,7 @@ import {
   Stack,
   Textarea,
   TextInput,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { formRootRule, isNotEmpty, useForm } from '../index';
 import { FormBase } from './_base';
 

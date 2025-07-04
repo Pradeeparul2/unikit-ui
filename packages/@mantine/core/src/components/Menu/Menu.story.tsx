@@ -1,6 +1,6 @@
 import { useState } from 'react';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { IconSearch, IconTable } from '@tabler/icons-react';
-import { useDisclosure } from '@mantine/hooks';
 import { Button } from '../Button';
 import { Input } from '../Input';
 import { Text } from '../Text';

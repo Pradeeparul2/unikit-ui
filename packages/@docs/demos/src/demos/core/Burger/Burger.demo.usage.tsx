@@ -1,10 +1,10 @@
-import { Burger } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { Burger } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useDisclosure } from '@mantine/hooks';
-import { Burger } from '@mantine/core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
+import { Burger } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [opened, { toggle }] = useDisclosure();

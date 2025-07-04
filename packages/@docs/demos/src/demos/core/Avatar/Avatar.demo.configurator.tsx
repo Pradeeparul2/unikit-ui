@@ -1,9 +1,9 @@
-import { Avatar } from '@mantine/core';
+import { Avatar } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { staticVariantsControl } from '../../../shared';
 
 const code = `
-import { Avatar } from '@mantine/core';
+import { Avatar } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <Avatar{{props}} />;

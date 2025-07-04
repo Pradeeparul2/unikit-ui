@@ -1,4 +1,4 @@
-import { useDisclosure } from '@mantine/hooks';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { ExtendComponent, Factory, useProps } from '../../core';
 import { useDelayedHover } from '../Floating';
 import { Popover, PopoverProps, PopoverStylesNames } from '../Popover';
@@ -56,7 +56,7 @@ export function HoverCard(props: HoverCardProps) {
   );
 }
 
-HoverCard.displayName = '@mantine/core/HoverCard';
+HoverCard.displayName = '@pradeeparul2/mantine-core/HoverCard';
 HoverCard.Target = HoverCardTarget;
 HoverCard.Dropdown = HoverCardDropdown;
 HoverCard.extend = (input: ExtendComponent<HoverCardFactory>) => input;

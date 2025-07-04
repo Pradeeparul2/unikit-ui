@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import { useId, useMergedRef, useUncontrolled } from '@mantine/hooks';
+import { useId, useMergedRef, useUncontrolled } from '@pradeeparul2/mantine-hooks';
 import {
   BoxProps,
   ElementProps,
@@ -494,4 +494,4 @@ export const TagsInput = factory<TagsInputFactory>((_props, ref) => {
 });
 
 TagsInput.classes = { ...InputBase.classes, ...Combobox.classes };
-TagsInput.displayName = '@mantine/core/TagsInput';
+TagsInput.displayName = '@pradeeparul2/mantine-core/TagsInput';

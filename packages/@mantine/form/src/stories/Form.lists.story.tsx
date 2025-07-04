@@ -1,5 +1,5 @@
-import { ActionIcon, Button, Group, Switch, Text, TextInput } from '@mantine/core';
-import { randomId } from '@mantine/hooks';
+import { ActionIcon, Button, Group, Switch, Text, TextInput } from '@pradeeparul2/mantine-core';
+import { randomId } from '@pradeeparul2/mantine-hooks';
 import { useForm } from '../use-form';
 import { FormBase } from './_base';
 

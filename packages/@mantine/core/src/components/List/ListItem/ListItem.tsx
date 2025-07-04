@@ -57,4 +57,4 @@ export const ListItem = factory<ListItemFactory>((_props, ref) => {
 });
 
 ListItem.classes = classes;
-ListItem.displayName = '@mantine/core/ListItem';
+ListItem.displayName = '@pradeeparul2/mantine-core/ListItem';

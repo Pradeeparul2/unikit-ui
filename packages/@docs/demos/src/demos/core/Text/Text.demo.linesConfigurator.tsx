@@ -1,4 +1,4 @@
-import { Box, Text, TextProps } from '@mantine/core';
+import { Box, Text, TextProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: TextProps) {
@@ -19,7 +19,7 @@ function Wrapper(props: TextProps) {
 }
 
 const code = `
-import { Text } from '@mantine/core';
+import { Text } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

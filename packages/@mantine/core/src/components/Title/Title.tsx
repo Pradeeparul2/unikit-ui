@@ -111,4 +111,4 @@ export const Title = factory<TitleFactory>((_props, ref) => {
 });
 
 Title.classes = classes;
-Title.displayName = '@mantine/core/Title';
+Title.displayName = '@pradeeparul2/mantine-core/Title';

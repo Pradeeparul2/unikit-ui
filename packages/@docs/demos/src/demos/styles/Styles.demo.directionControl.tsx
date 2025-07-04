@@ -1,10 +1,10 @@
 import { useEffect } from 'react';
+import { ActionIcon, useDirection } from '@pradeeparul2/mantine-core';
 import { IconTextDirectionLtr, IconTextDirectionRtl } from '@tabler/icons-react';
-import { ActionIcon, useDirection } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { ActionIcon, useDirection } from '@mantine/core';
+import { ActionIcon, useDirection } from '@pradeeparul2/mantine-core';
 import { IconTextDirectionLtr, IconTextDirectionRtl } from '@tabler/icons-react';
 
 function Demo() {

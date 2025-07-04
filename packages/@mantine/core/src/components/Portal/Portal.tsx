@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
+import { assignRef, useIsomorphicEffect } from '@pradeeparul2/mantine-hooks';
 import { createPortal } from 'react-dom';
-import { assignRef, useIsomorphicEffect } from '@mantine/hooks';
 import { Factory, factory, useProps } from '../../core';
 
 function createPortalNode(props: React.ComponentPropsWithoutRef<'div'>) {
@@ -89,4 +89,4 @@ export const Portal = factory<PortalFactory>((props, ref) => {
   return createPortal(<>{children}</>, nodeRef.current);
 });
 
-Portal.displayName = '@mantine/core/Portal';
+Portal.displayName = '@pradeeparul2/mantine-core/Portal';

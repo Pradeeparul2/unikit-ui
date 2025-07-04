@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Checkbox } from '@mantine/core';
+import { Checkbox } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Checkbox.demo.customize.module.css';
 
@@ -30,7 +30,7 @@ const cssCode = `
 
 const code = `
 import { useState } from 'react';
-import { Checkbox } from '@mantine/core';
+import { Checkbox } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 function Demo() {

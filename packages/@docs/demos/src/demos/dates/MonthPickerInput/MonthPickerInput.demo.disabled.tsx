@@ -1,8 +1,8 @@
-import { MonthPickerInput } from '@mantine/dates';
+import { MonthPickerInput } from '@pradeeparul2/mantine-dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { MonthPickerInput } from '@mantine/dates';
+import { MonthPickerInput } from '@pradeeparul2/mantine-dates';
 
 function Demo() {
   return (

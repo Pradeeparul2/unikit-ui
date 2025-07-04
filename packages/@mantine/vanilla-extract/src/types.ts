@@ -6,7 +6,7 @@ import {
   MantineRadius,
   MantineShadow,
   MantineSpacing,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 
 interface ColorValues {
   0: string;

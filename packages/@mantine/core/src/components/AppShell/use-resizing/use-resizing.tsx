@@ -1,5 +1,5 @@
 import { startTransition, useRef, useState } from 'react';
-import { useIsomorphicEffect, useWindowEvent } from '@mantine/hooks';
+import { useIsomorphicEffect, useWindowEvent } from '@pradeeparul2/mantine-hooks';
 
 interface UseResizingInput {
   transitionDuration: number | undefined;

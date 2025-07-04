@@ -1,5 +1,5 @@
+import { Box, BoxProps, ElementProps, Text } from '@pradeeparul2/mantine-core';
 import cx from 'clsx';
-import { Box, BoxProps, ElementProps, Text } from '@mantine/core';
 import classes from './_item.module.css';
 
 interface GridItemProps extends BoxProps, ElementProps<'div'> {}

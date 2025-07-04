@@ -35,7 +35,7 @@
     "directory": "packages/@mantine/vanilla-extract"
   },
   "peerDependencies": {
-    "@mantine/core": "8.1.2"
+    "@pradeeparul2/mantine-core": "8.1.2"
   },
   "devDependencies": {
     "react": "19.0.0",

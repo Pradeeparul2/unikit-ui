@@ -13,7 +13,7 @@ import {
   useProps,
   useResolvedStylesApi,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import classes from './DateInputMask.module.css';
 
 export type DateInputMaskStylesNames = 'fieldsRoot';
@@ -214,5 +214,5 @@ export const DateInputMask = factory<DateInputMaskFactory>((_props, ref) => {
   );
 });
 
-DateInputMask.displayName = '@mantine/core/DateInputMask';
+DateInputMask.displayName = '@pradeeparul2/mantine-core/DateInputMask';
 DateInputMask.classes = classes;

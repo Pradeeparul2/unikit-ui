@@ -1,9 +1,9 @@
+import { Rating } from '@pradeeparul2/mantine-core';
 import { IconMoon, IconSun } from '@tabler/icons-react';
-import { Rating } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Rating } from '@mantine/core';
+import { Rating } from '@pradeeparul2/mantine-core';
 import { IconSun, IconMoon } from '@tabler/icons-react';
 
 function Demo() {

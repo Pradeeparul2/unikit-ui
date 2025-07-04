@@ -1,4 +1,4 @@
-import { createSafeContext } from '@mantine/core';
+import { createSafeContext } from '@pradeeparul2/mantine-core';
 
 export interface DropzoneContextValue {
   idle: boolean;

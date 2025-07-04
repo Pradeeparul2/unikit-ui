@@ -1,5 +1,5 @@
 import { forwardRef, useEffect, useState } from 'react';
-import { useDebouncedCallback } from '@mantine/hooks';
+import { useDebouncedCallback } from '@pradeeparul2/mantine-hooks';
 import { useScrollAreaContext } from '../ScrollArea.context';
 import { composeEventHandlers } from '../utils';
 import {

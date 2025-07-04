@@ -1,8 +1,8 @@
-import { Image } from '@mantine/core';
+import { Image } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Image } from '@mantine/core';
+import { Image } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

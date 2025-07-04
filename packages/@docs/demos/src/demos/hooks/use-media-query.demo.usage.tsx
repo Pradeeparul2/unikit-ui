@@ -1,10 +1,10 @@
-import { Badge, em } from '@mantine/core';
-import { useMediaQuery } from '@mantine/hooks';
+import { Badge, em } from '@pradeeparul2/mantine-core';
+import { useMediaQuery } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Badge } from '@mantine/core';
-import { useMediaQuery } from '@mantine/hooks';
+import { Badge } from '@pradeeparul2/mantine-core';
+import { useMediaQuery } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const matches = useMediaQuery('(min-width: ${em(900)})');

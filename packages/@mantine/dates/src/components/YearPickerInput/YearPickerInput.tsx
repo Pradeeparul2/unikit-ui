@@ -8,7 +8,7 @@ import {
   StylesApiProps,
   useProps,
   useResolvedStylesApi,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { useDatesInput } from '../../hooks';
 import { DatePickerType } from '../../types';
 import { getDefaultClampedDate } from '../../utils';

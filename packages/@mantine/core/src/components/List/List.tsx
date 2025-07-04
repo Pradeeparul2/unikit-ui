@@ -123,5 +123,5 @@ export const List = factory<ListFactory>((_props, ref) => {
 });
 
 List.classes = classes;
-List.displayName = '@mantine/core/List';
+List.displayName = '@pradeeparul2/mantine-core/List';
 List.Item = ListItem;

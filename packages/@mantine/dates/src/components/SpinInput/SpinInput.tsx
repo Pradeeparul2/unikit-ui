@@ -1,5 +1,5 @@
 import { forwardRef } from 'react';
-import { clamp } from '@mantine/hooks';
+import { clamp } from '@pradeeparul2/mantine-hooks';
 import { padTime } from '../TimePicker/utils/pad-time/pad-time';
 
 interface SpinInputProps

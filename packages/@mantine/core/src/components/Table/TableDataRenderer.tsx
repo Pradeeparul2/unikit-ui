@@ -53,4 +53,4 @@ export function TableDataRenderer({ data }: TableDataRendererProps) {
   );
 }
 
-TableDataRenderer.displayName = '@mantine/core/TableDataRenderer';
+TableDataRenderer.displayName = '@pradeeparul2/mantine-core/TableDataRenderer';

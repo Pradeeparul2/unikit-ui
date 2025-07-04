@@ -31,8 +31,8 @@ const data: TreeNodeData[] = [
         label: '@mantine',
         value: 'node_modules/@mantine',
         children: [
-          { label: 'core', value: 'node_modules/@mantine/core' },
-          { label: 'hooks', value: 'node_modules/@mantine/hooks' },
+          { label: 'core', value: 'node_modules/@pradeeparul2/mantine-core' },
+          { label: 'hooks', value: 'node_modules/@pradeeparul2/mantine-hooks' },
           { label: 'form', value: 'node_modules/@mantine/form' },
         ],
       },

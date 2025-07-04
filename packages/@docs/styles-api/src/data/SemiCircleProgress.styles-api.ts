@@ -1,4 +1,4 @@
-import type { SemiCircleProgressFactory } from '@mantine/core';
+import type { SemiCircleProgressFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const SemiCircleProgressStylesApi: StylesApiData<SemiCircleProgressFactory> = {

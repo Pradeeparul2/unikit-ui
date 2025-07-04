@@ -21,7 +21,7 @@ export function useFocusTrap(active = true): React.RefCallback<HTMLElement | nul
     } else if (process.env.NODE_ENV === 'development') {
       // eslint-disable-next-line no-console
       console.warn(
-        '[@mantine/hooks/use-focus-trap] Failed to find focusable element within provided node',
+        '[@pradeeparul2/mantine-hooks/use-focus-trap] Failed to find focusable element within provided node',
         node
       );
     }
@@ -48,7 +48,10 @@ export function useFocusTrap(active = true): React.RefCallback<HTMLElement | nul
             focusNode(node);
           } else if (process.env.NODE_ENV === 'development') {
             // eslint-disable-next-line no-console
-            console.warn('[@mantine/hooks/use-focus-trap] Ref node is not part of the dom', node);
+            console.warn(
+              '[@pradeeparul2/mantine-hooks/use-focus-trap] Ref node is not part of the dom',
+              node
+            );
           }
         });
 

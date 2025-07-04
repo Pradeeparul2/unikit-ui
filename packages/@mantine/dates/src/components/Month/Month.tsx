@@ -13,7 +13,7 @@ import {
   useProps,
   useResolvedStylesApi,
   useStyles,
-} from '@mantine/core';
+} from '@pradeeparul2/mantine-core';
 import { ControlKeydownPayload, DateLabelFormat, DateStringValue, DayOfWeek } from '../../types';
 import { toDateString } from '../../utils';
 import { useDatesContext } from '../DatesProvider';

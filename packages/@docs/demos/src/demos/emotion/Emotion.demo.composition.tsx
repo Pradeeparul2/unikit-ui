@@ -1,8 +1,8 @@
-import { createStyles } from '@mantine/emotion';
+import { createStyles } from '@pradeeparul2/mantine-emotion';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { createStyles } from '@mantine/emotion';
+import { createStyles } from '@pradeeparul2/mantine-emotion';
 
 const useStyles = createStyles((theme, _, u) => ({
   button: {

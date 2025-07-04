@@ -1,9 +1,9 @@
-import { Button } from '@mantine/core';
+import { Button } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { AddressBookIcon } from './_CustomIcon';
 
 const code = `
-import { Button } from '@mantine/core';
+import { Button } from '@pradeeparul2/mantine-core';
 import { AddressBookIcon } from './AddressBookIcon';
 
 function Demo() {

@@ -1,4 +1,4 @@
-import { rem } from '@mantine/core';
+import { rem } from '@pradeeparul2/mantine-core';
 import { LogoProps, useMantineLogoColors } from './use-mantine-logo-colors';
 
 export function MantineLogoRounded({

@@ -34,4 +34,4 @@ export const DrawerBody = factory<DrawerBodyFactory>((_props, ref) => {
 });
 
 DrawerBody.classes = classes;
-DrawerBody.displayName = '@mantine/core/DrawerBody';
+DrawerBody.displayName = '@pradeeparul2/mantine-core/DrawerBody';

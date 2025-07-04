@@ -1,4 +1,4 @@
-import type { TimelineFactory } from '@mantine/core';
+import type { TimelineFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const TimelineStylesApi: StylesApiData<TimelineFactory> = {

@@ -1,9 +1,9 @@
+import { ActionIcon, Card, Group, Image, Menu, SimpleGrid, Text } from '@pradeeparul2/mantine-core';
 import { IconDots, IconEye, IconFileZip, IconTrash } from '@tabler/icons-react';
-import { ActionIcon, Card, Group, Image, Menu, SimpleGrid, Text } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { ActionIcon, Card, Group, Image, Menu, SimpleGrid, Text } from '@mantine/core';
+import { ActionIcon, Card, Group, Image, Menu, SimpleGrid, Text } from '@pradeeparul2/mantine-core';
 import { IconDots, IconEye, IconFileZip, IconTrash } from '@tabler/icons-react';
 
 const images = [

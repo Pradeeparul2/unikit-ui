@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import { Button, Group, Modal } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { Button, Group, Modal } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { Button, Group, Modal } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { Button, Group, Modal } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const [firstOpened, firstHandlers] = useDisclosure(false);

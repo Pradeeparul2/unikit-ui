@@ -1,4 +1,4 @@
-import { Heatmap } from '@mantine/charts';
+import { Heatmap } from '@pradeeparul2/mantine-charts';
 import { MantineDemo } from '@mantinex/demo';
 import { data, dataCode } from './_data';
 import classes from './Heatmap.demo.cssColors.module.css';
@@ -20,7 +20,7 @@ const cssCode = `.root {
 }`;
 
 const code = `
-import { Heatmap } from '@mantine/charts';
+import { Heatmap } from '@pradeeparul2/mantine-charts';
 import { data } from './data';
 import classes from './Demo.module.css';
 

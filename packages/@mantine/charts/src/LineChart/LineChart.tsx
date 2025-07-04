@@ -1,19 +1,5 @@
 import { useState } from 'react';
 import {
-  CartesianGrid,
-  DotProps,
-  Label,
-  Legend,
-  Line,
-  LineProps,
-  LineChart as ReChartsLineChart,
-  ReferenceLine,
-  ResponsiveContainer,
-  Tooltip,
-  XAxis,
-  YAxis,
-} from 'recharts';
-import {
   Box,
   BoxProps,
   createVarsResolver,
@@ -27,8 +13,22 @@ import {
   useProps,
   useResolvedStylesApi,
   useStyles,
-} from '@mantine/core';
-import { useId } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { useId } from '@pradeeparul2/mantine-hooks';
+import {
+  CartesianGrid,
+  DotProps,
+  Label,
+  Legend,
+  Line,
+  LineProps,
+  LineChart as ReChartsLineChart,
+  ReferenceLine,
+  ResponsiveContainer,
+  Tooltip,
+  XAxis,
+  YAxis,
+} from 'recharts';
 import { ChartLegend, ChartLegendStylesNames } from '../ChartLegend';
 import { ChartTooltip, ChartTooltipStylesNames } from '../ChartTooltip';
 import { PointLabel } from '../PointLabel/PointLabel';

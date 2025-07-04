@@ -133,4 +133,4 @@ export const InlineInput = forwardRef<HTMLDivElement, InlineInputProps>(
   }
 );
 
-InlineInput.displayName = '@mantine/core/InlineInput';
+InlineInput.displayName = '@pradeeparul2/mantine-core/InlineInput';

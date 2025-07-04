@@ -1,4 +1,4 @@
-import type { AngleSliderFactory } from '@mantine/core';
+import type { AngleSliderFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const AngleSliderStylesApi: StylesApiData<AngleSliderFactory> = {

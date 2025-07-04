@@ -49,4 +49,4 @@ export const ModalContent = factory<ModalContentFactory>((_props, ref) => {
 });
 
 ModalContent.classes = classes;
-ModalContent.displayName = '@mantine/core/ModalContent';
+ModalContent.displayName = '@pradeeparul2/mantine-core/ModalContent';

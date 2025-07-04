@@ -1,4 +1,4 @@
-import { Avatar, Indicator, IndicatorProps } from '@mantine/core';
+import { Avatar, Indicator, IndicatorProps } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Demo(props: IndicatorProps) {
@@ -14,7 +14,7 @@ function Demo(props: IndicatorProps) {
 }
 
 const code = `
-import { Indicator, Avatar } from '@mantine/core';
+import { Indicator, Avatar } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

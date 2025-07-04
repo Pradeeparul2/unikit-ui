@@ -1,4 +1,4 @@
-import { Box, BoxProps, ElementProps } from '@mantine/core';
+import { Box, BoxProps, ElementProps } from '@pradeeparul2/mantine-core';
 
 export function Content(props: BoxProps & ElementProps<'div'>) {
   return (

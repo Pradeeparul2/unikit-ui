@@ -1,10 +1,10 @@
-import { Button, TextInput } from '@mantine/core';
-import { useField } from '@mantine/form';
+import { Button, TextInput } from '@pradeeparul2/mantine-core';
+import { useField } from '@pradeeparul2/mantine-form';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button, TextInput } from '@mantine/core';
-import { useField } from '@mantine/form';
+import { Button, TextInput } from '@pradeeparul2/mantine-core';
+import { useField } from '@pradeeparul2/mantine-form';
 
 function Demo() {
   const field = useField({

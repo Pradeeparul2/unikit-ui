@@ -84,4 +84,4 @@ export function RatingItem({
   );
 }
 
-RatingItem.displayName = '@mantine/core/RatingItem';
+RatingItem.displayName = '@pradeeparul2/mantine-core/RatingItem';

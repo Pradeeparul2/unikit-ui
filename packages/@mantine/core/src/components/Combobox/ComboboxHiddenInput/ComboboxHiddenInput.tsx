@@ -21,4 +21,4 @@ export function ComboboxHiddenInput({
   );
 }
 
-ComboboxHiddenInput.displayName = '@mantine/core/ComboboxHiddenInput';
+ComboboxHiddenInput.displayName = '@pradeeparul2/mantine-core/ComboboxHiddenInput';

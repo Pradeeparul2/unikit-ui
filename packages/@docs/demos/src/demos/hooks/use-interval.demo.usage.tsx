@@ -1,12 +1,12 @@
 import { useEffect, useState } from 'react';
-import { Button, Stack, Text } from '@mantine/core';
-import { useInterval } from '@mantine/hooks';
+import { Button, Stack, Text } from '@pradeeparul2/mantine-core';
+import { useInterval } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState, useEffect } from 'react';
-import { useInterval } from '@mantine/hooks';
-import { Stack, Button, Text } from '@mantine/core';
+import { useInterval } from '@pradeeparul2/mantine-hooks';
+import { Stack, Button, Text } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [seconds, setSeconds] = useState(0);

@@ -1,10 +1,10 @@
-import { Button } from '@mantine/core';
-import { modals } from '@mantine/modals';
+import { Button } from '@pradeeparul2/mantine-core';
+import { modals } from '@pradeeparul2/mantine-modals';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Button } from '@mantine/core';
-import { modals } from '@mantine/modals';
+import { Button } from '@pradeeparul2/mantine-core';
+import { modals } from '@pradeeparul2/mantine-modals';
 
 function Demo() {
   return (

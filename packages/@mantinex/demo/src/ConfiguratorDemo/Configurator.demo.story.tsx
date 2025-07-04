@@ -1,9 +1,9 @@
-import { Highlight, HighlightProps } from '@mantine/core';
+import { Highlight, HighlightProps } from '@pradeeparul2/mantine-core';
 import { ConfiguratorDemo } from './ConfiguratorDemo';
 
 export default { title: 'DS/ConfiguratorDemo' };
 
-const code = `import { Highlight } from '@mantine/core';
+const code = `import { Highlight } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

@@ -1,9 +1,9 @@
-import { ColorInput } from '@mantine/core';
+import { ColorInput } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { ColorInputStylesApi } from '@docs/styles-api';
 
 const code = `
-import { ColorInput } from '@mantine/core';
+import { ColorInput } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

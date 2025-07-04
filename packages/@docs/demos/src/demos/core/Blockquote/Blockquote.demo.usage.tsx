@@ -1,9 +1,9 @@
+import { Blockquote } from '@pradeeparul2/mantine-core';
 import { IconInfoCircle } from '@tabler/icons-react';
-import { Blockquote } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Blockquote } from '@mantine/core';
+import { Blockquote } from '@pradeeparul2/mantine-core';
 import { IconInfoCircle } from '@tabler/icons-react';
 
 function Demo() {

@@ -1,8 +1,8 @@
-import { Loader } from '@mantine/core';
+import { Loader } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { Loader } from '@mantine/core';
+import { Loader } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return <Loader{{props}} />;

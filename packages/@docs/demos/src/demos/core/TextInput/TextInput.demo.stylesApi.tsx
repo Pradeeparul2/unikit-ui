@@ -1,11 +1,11 @@
+import { TextInput } from '@pradeeparul2/mantine-core';
 import { IconAt } from '@tabler/icons-react';
-import { TextInput } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { TextInputStylesApi } from '@docs/styles-api';
 
 const code = `
 import { IconAt } from '@tabler/icons-react';
-import { TextInput } from '@mantine/core';
+import { TextInput } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

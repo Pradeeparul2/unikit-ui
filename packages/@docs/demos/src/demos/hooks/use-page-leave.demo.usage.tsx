@@ -1,11 +1,11 @@
 import { useState } from 'react';
-import { Text } from '@mantine/core';
-import { usePageLeave } from '@mantine/hooks';
+import { Text } from '@pradeeparul2/mantine-core';
+import { usePageLeave } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { usePageLeave } from '@mantine/hooks';
+import { usePageLeave } from '@pradeeparul2/mantine-hooks';
 
 function Demo() {
   const [leftsCount, setLeftsCount] = useState(0);

@@ -1,7 +1,7 @@
 import { MantineDemo } from '@mantinex/demo';
 
 const getCodeTemplate = (component: string) =>
-  `import { ${component} } from '@mantine/dates';
+  `import { ${component} } from '@pradeeparul2/mantine-dates';
 
 
 function Demo() {
@@ -19,7 +19,7 @@ export function getPickerInputConfiguratorDemo(Component: React.FC<any>): Mantin
     component: Component,
     centered: true,
     maxWidth: 400,
-    code: getCodeTemplate(Component.displayName!.replace('@mantine/dates/', '')),
+    code: getCodeTemplate(Component.displayName!.replace('@pradeeparul2/mantine-dates/', '')),
     controls: [
       { prop: 'placeholder', type: 'string', initialValue: 'Pick date', libraryValue: '__' },
       {

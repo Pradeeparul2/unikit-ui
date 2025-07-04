@@ -1,4 +1,4 @@
-import type { TextareaFactory } from '@mantine/core';
+import type { TextareaFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 import { InputStylesApi, InputWrapperStylesApi } from './Input.styles-api';
 

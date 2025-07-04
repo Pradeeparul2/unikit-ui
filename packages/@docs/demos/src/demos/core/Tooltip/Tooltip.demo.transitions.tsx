@@ -1,4 +1,4 @@
-import { Badge, Group, keys, MANTINE_TRANSITIONS, Tooltip } from '@mantine/core';
+import { Badge, Group, keys, MANTINE_TRANSITIONS, Tooltip } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 export function Demo() {

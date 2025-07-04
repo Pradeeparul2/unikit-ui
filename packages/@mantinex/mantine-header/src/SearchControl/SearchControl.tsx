@@ -1,6 +1,13 @@
+import {
+  BoxProps,
+  ElementProps,
+  Group,
+  rem,
+  Text,
+  UnstyledButton,
+} from '@pradeeparul2/mantine-core';
 import { IconSearch } from '@tabler/icons-react';
 import cx from 'clsx';
-import { BoxProps, ElementProps, Group, rem, Text, UnstyledButton } from '@mantine/core';
 import classes from './SearchControl.module.css';
 
 interface SearchControlProps extends BoxProps, ElementProps<'button'> {}

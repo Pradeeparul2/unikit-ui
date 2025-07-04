@@ -1,4 +1,4 @@
-import { useClipboard } from '@mantine/hooks';
+import { useClipboard } from '@pradeeparul2/mantine-hooks';
 import { CodeHighlightControl } from '../CodeHighlightControl/CodeHighlightControl';
 import { CopyIcon } from './CopyIcon';
 

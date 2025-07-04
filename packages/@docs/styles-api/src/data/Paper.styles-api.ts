@@ -1,4 +1,4 @@
-import type { PaperFactory } from '@mantine/core';
+import type { PaperFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const PaperStylesApi: StylesApiData<PaperFactory> = {

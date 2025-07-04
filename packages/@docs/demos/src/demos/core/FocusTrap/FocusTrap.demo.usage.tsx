@@ -1,10 +1,10 @@
-import { Box, Button, FocusTrap, TextInput } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { Box, Button, FocusTrap, TextInput } from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useDisclosure } from '@mantine/hooks';
-import { FocusTrap, TextInput, Button, Box } from '@mantine/core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
+import { FocusTrap, TextInput, Button, Box } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [active, { toggle }] = useDisclosure(false);

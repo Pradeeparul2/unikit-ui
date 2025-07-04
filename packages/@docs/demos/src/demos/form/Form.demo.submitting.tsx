@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import { Button, Group, Stack, Text, TextInput } from '@mantine/core';
-import { useForm } from '@mantine/form';
+import { Button, Group, Stack, Text, TextInput } from '@pradeeparul2/mantine-core';
+import { useForm } from '@pradeeparul2/mantine-form';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useState } from 'react';
-import { Button, Group, Stack, Text, TextInput } from '@mantine/core';
-import { useForm } from '@mantine/form';
+import { Button, Group, Stack, Text, TextInput } from '@pradeeparul2/mantine-core';
+import { useForm } from '@pradeeparul2/mantine-form';
 
 const asyncSubmit = (values: any) =>
   new Promise((resolve) => setTimeout(() => resolve(values), 3000));

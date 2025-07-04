@@ -1,4 +1,4 @@
-import type { TimeGridFactory } from '@mantine/dates';
+import type { TimeGridFactory } from '@pradeeparul2/mantine-dates';
 import type { StylesApiData } from '../types';
 
 export const TimeGridStylesApi: StylesApiData<TimeGridFactory> = {

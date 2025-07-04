@@ -1,4 +1,4 @@
-import { useDisclosure } from '@mantine/hooks';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
 import { Button } from '../Button';
 import { useModalsStack } from '../Modal';
 import { ScrollArea } from '../ScrollArea';

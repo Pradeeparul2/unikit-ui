@@ -1,4 +1,10 @@
-import { BackgroundImage, BackgroundImageProps, Box, Center, Text } from '@mantine/core';
+import {
+  BackgroundImage,
+  BackgroundImageProps,
+  Box,
+  Center,
+  Text,
+} from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 function Wrapper(props: BackgroundImageProps) {
@@ -20,7 +26,7 @@ function Wrapper(props: BackgroundImageProps) {
 }
 
 const code = `
-import { BackgroundImage, Center, Text, Box } from '@mantine/core';
+import { BackgroundImage, Center, Text, Box } from '@pradeeparul2/mantine-core';
 
 
 function Demo() {

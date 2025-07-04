@@ -71,4 +71,4 @@ export const GridCol = factory<GridColFactory>((_props, ref) => {
 });
 
 GridCol.classes = classes;
-GridCol.displayName = '@mantine/core/GridCol';
+GridCol.displayName = '@pradeeparul2/mantine-core/GridCol';

@@ -1,5 +1,5 @@
-import { Carousel } from '@mantine/carousel';
-import { Box } from '@mantine/core';
+import { Carousel } from '@pradeeparul2/mantine-carousel';
+import { Box } from '@pradeeparul2/mantine-core';
 
 function Slide({ children }: { children: React.ReactNode }) {
   return (

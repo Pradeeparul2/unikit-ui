@@ -1,10 +1,10 @@
-import { Button, em, Modal } from '@mantine/core';
-import { useDisclosure, useMediaQuery } from '@mantine/hooks';
+import { Button, em, Modal } from '@pradeeparul2/mantine-core';
+import { useDisclosure, useMediaQuery } from '@pradeeparul2/mantine-hooks';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
-import { useDisclosure, useMediaQuery } from '@mantine/hooks';
-import { Modal, Button } from '@mantine/core';
+import { useDisclosure, useMediaQuery } from '@pradeeparul2/mantine-hooks';
+import { Modal, Button } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   const [opened, { open, close }] = useDisclosure(false);

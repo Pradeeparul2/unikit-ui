@@ -4,4 +4,4 @@ export interface StepperCompletedProps {
 }
 
 export const StepperCompleted: React.FC<StepperCompletedProps> = () => null;
-StepperCompleted.displayName = '@mantine/core/StepperCompleted';
+StepperCompleted.displayName = '@pradeeparul2/mantine-core/StepperCompleted';

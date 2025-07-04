@@ -1,4 +1,4 @@
-import type { SkeletonFactory } from '@mantine/core';
+import type { SkeletonFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const SkeletonStylesApi: StylesApiData<SkeletonFactory> = {

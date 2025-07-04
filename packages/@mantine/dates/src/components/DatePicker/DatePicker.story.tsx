@@ -2,7 +2,7 @@ import 'dayjs/locale/ru';
 
 import dayjs from 'dayjs';
 import { useState } from 'react';
-import { Button, Stack } from '@mantine/core';
+import { Button, Stack } from '@pradeeparul2/mantine-core';
 import { DatesRangeValue, DateStringValue } from '../../types';
 import { DatePicker } from './DatePicker';
 

@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
+import { useDidUpdate, useReducedMotion } from '@pradeeparul2/mantine-hooks';
 import ReactDOM from 'react-dom';
-import { useDidUpdate, useReducedMotion } from '@mantine/hooks';
 import { useMantineTheme } from '../../core';
 
 export type TransitionStatus =

@@ -1,13 +1,13 @@
 import { useRef } from 'react';
+import { ActionIcon } from '@pradeeparul2/mantine-core';
+import { TimeInput } from '@pradeeparul2/mantine-dates';
 import { IconClock } from '@tabler/icons-react';
-import { ActionIcon } from '@mantine/core';
-import { TimeInput } from '@mantine/dates';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useRef } from 'react';
-import { ActionIcon } from '@mantine/core';
-import { TimeInput } from '@mantine/dates';
+import { ActionIcon } from '@pradeeparul2/mantine-core';
+import { TimeInput } from '@pradeeparul2/mantine-dates';
 import { IconClock } from '@tabler/icons-react';
 
 function Demo() {

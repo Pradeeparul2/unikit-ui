@@ -1,4 +1,4 @@
-import type { AppShellFactory } from '@mantine/core';
+import type { AppShellFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const AppShellStylesApi: StylesApiData<AppShellFactory> = {

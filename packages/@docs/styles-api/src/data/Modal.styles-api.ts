@@ -1,4 +1,4 @@
-import type { ModalFactory } from '@mantine/core';
+import type { ModalFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const ModalStylesApi: StylesApiData<ModalFactory> = {

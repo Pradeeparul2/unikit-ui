@@ -124,4 +124,4 @@ export const ModalRoot = factory<ModalRootFactory>((_props, ref) => {
 });
 
 ModalRoot.classes = classes;
-ModalRoot.displayName = '@mantine/core/ModalRoot';
+ModalRoot.displayName = '@pradeeparul2/mantine-core/ModalRoot';

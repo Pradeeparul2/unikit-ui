@@ -1,5 +1,5 @@
 import { Fragment } from 'react';
-import { useId } from '@mantine/hooks';
+import { useId } from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -264,4 +264,4 @@ export const InputWrapper = factory<InputWrapperFactory>((_props, ref) => {
 });
 
 InputWrapper.classes = classes;
-InputWrapper.displayName = '@mantine/core/InputWrapper';
+InputWrapper.displayName = '@pradeeparul2/mantine-core/InputWrapper';

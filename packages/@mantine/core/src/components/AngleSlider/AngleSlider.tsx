@@ -1,5 +1,10 @@
 import { useRef } from 'react';
-import { normalizeRadialValue, useMergedRef, useRadialMove, useUncontrolled } from '@mantine/hooks';
+import {
+  normalizeRadialValue,
+  useMergedRef,
+  useRadialMove,
+  useUncontrolled,
+} from '@pradeeparul2/mantine-hooks';
 import {
   Box,
   BoxProps,
@@ -246,5 +251,5 @@ export const AngleSlider = factory<AngleSliderFactory>((_props, ref) => {
   );
 });
 
-AngleSlider.displayName = '@mantine/core/AngleSlider';
+AngleSlider.displayName = '@pradeeparul2/mantine-core/AngleSlider';
 AngleSlider.classes = classes;

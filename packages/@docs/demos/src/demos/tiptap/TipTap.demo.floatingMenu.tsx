@@ -1,12 +1,12 @@
+import { Link, RichTextEditor } from '@pradeeparul2/mantine-tiptap';
 import { FloatingMenu, useEditor } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
-import { Link, RichTextEditor } from '@mantine/tiptap';
 import { MantineDemo } from '@mantinex/demo';
 
 const code = `
 import { useEditor, FloatingMenu } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
-import { RichTextEditor, Link } from '@mantine/tiptap';
+import { RichTextEditor, Link } from '@pradeeparul2/mantine-tiptap';
 
 function Demo() {
   const editor = useEditor({

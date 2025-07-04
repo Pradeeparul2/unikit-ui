@@ -1,11 +1,11 @@
+import { createTheme, MantineThemeProvider, TextInput } from '@pradeeparul2/mantine-core';
 import cx from 'clsx';
-import { createTheme, MantineThemeProvider, TextInput } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import classes from './Styles.demo.classNamesProps.module.css';
 
 const code = `
 import cx from 'clsx';
-import { MantineProvider, createTheme, TextInput } from '@mantine/core';
+import { MantineProvider, createTheme, TextInput } from '@pradeeparul2/mantine-core';
 import classes from './Demo.module.css';
 
 const theme = createTheme({

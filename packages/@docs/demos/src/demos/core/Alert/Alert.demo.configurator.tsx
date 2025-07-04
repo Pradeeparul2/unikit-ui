@@ -1,10 +1,10 @@
+import { Alert } from '@pradeeparul2/mantine-core';
 import { IconInfoCircle } from '@tabler/icons-react';
-import { Alert } from '@mantine/core';
 import { MantineDemo } from '@mantinex/demo';
 import { staticVariantsControl } from '../../../shared';
 
 const code = `
-import { Alert } from '@mantine/core';
+import { Alert } from '@pradeeparul2/mantine-core';
 import { IconInfoCircle } from '@tabler/icons-react';
 
 function Demo() {

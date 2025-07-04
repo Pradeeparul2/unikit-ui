@@ -1,4 +1,4 @@
-import type { AvatarFactory, AvatarGroupFactory } from '@mantine/core';
+import type { AvatarFactory, AvatarGroupFactory } from '@pradeeparul2/mantine-core';
 import type { StylesApiData } from '../types';
 
 export const AvatarStylesApi: StylesApiData<AvatarFactory> = {

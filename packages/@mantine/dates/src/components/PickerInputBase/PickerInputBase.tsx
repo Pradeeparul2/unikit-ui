@@ -1,4 +1,3 @@
-import cx from 'clsx';
 import {
   __BaseInputProps,
   __InputStylesNames,
@@ -15,8 +14,9 @@ import {
   PopoverProps,
   StylesApiProps,
   useInputProps,
-} from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { useDisclosure } from '@pradeeparul2/mantine-hooks';
+import cx from 'clsx';
 import { DatePickerType } from '../../types';
 import { DateFormatter } from '../../utils';
 import { HiddenDatesInput, HiddenDatesInputValue } from '../HiddenDatesInput';

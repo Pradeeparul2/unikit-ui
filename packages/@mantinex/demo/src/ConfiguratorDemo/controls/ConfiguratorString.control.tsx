@@ -1,4 +1,4 @@
-import { BoxProps, ElementProps, TextInput } from '@mantine/core';
+import { BoxProps, ElementProps, TextInput } from '@pradeeparul2/mantine-core';
 import { getControlLabel } from './get-control-label';
 import { ConfiguratorControl } from './types';
 

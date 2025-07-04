@@ -1,4 +1,4 @@
-import { FunnelChartFactory } from '@mantine/charts';
+import { FunnelChartFactory } from '@pradeeparul2/mantine-charts';
 import type { StylesApiData } from '../types';
 
 export const FunnelChartStylesApi: StylesApiData<FunnelChartFactory> = {

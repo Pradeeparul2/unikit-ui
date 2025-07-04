@@ -1,8 +1,8 @@
-import { Button, ButtonFactory, Group, PartialVarsResolver } from '@mantine/core';
+import { Button, ButtonFactory, Group, PartialVarsResolver } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 
 const inlineCode = `
-import { Button, PartialVarsResolver, ButtonFactory, Group } from '@mantine/core';
+import { Button, PartialVarsResolver, ButtonFactory, Group } from '@pradeeparul2/mantine-core';
 
 const varsResolver: PartialVarsResolver<ButtonFactory> = (theme, props) => {
   if (props.size === 'xxl') {
@@ -43,7 +43,7 @@ function Demo() {
 `;
 
 const providerCode = `
-import { Button, Group, MantineProvider, createTheme } from '@mantine/core';
+import { Button, Group, MantineProvider, createTheme } from '@pradeeparul2/mantine-core';
 
 const theme = createTheme({
   components: {

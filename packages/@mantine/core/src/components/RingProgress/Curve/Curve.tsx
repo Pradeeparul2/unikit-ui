@@ -47,4 +47,4 @@ export function Curve({
   );
 }
 
-Curve.displayName = '@mantine/core/Curve';
+Curve.displayName = '@pradeeparul2/mantine-core/Curve';

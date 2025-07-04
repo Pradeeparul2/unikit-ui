@@ -13,8 +13,8 @@ import {
   UnstyledButton,
   useProps,
   useResolvedStylesApi,
-} from '@mantine/core';
-import { useDisclosure, useInputState, useWindowEvent } from '@mantine/hooks';
+} from '@pradeeparul2/mantine-core';
+import { useDisclosure, useInputState, useWindowEvent } from '@pradeeparul2/mantine-hooks';
 import { IconExternalLink, IconLink } from '../icons/Icons';
 import { useRichTextEditorContext } from '../RichTextEditor.context';
 import { RichTextEditorControlBase, RichTextEditorControlBaseProps } from './RichTextEditorControl';

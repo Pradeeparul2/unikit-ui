@@ -1,9 +1,9 @@
-import { createTheme, Loader, MantineThemeProvider } from '@mantine/core';
+import { createTheme, Loader, MantineThemeProvider } from '@pradeeparul2/mantine-core';
 import { MantineDemo } from '@mantinex/demo';
 import { CssLoader, cssLoaderModuleCssCode, cssLoaderTsxCode } from './_CssLoader';
 
 const code = `
-import { MantineProvider, Loader } from '@mantine/core';
+import { MantineProvider, Loader } from '@pradeeparul2/mantine-core';
 import { CssLoader } from './CssLoader';
 
 const theme = createTheme({

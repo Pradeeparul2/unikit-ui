@@ -2,7 +2,7 @@ import { MantineDemo } from '@mantinex/demo';
 import { Wrapper } from './_wrapper';
 
 const code = `
-import { Spoiler } from '@mantine/core';
+import { Spoiler } from '@pradeeparul2/mantine-core';
 
 function Demo() {
   return (

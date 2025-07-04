@@ -1,4 +1,4 @@
-import type { ScatterChartFactory } from '@mantine/charts';
+import type { ScatterChartFactory } from '@pradeeparul2/mantine-charts';
 import type { StylesApiData } from '../types';
 
 export const ScatterChartStylesApi: StylesApiData<ScatterChartFactory> = {
