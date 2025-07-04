@@ -44,7 +44,7 @@ async function release() {
   });
 
   logger.log(`New version: ${chalk.cyan(incrementedVersion)}`);
-  await setMantinePackagesVersion(incrementedVersion);
+  // await setMantinePackagesVersion(incrementedVersion);
 
   await buildAllPackages();
   logger.success('All packages have been built successfully');
@@ -65,17 +65,17 @@ async function release() {
 
   logger.success('All packages have been published successfully');
 
-  await $`yarn`;
-  await git.add([
-    getPath('packages'),
-    getPath('package.json'),
-    getPath('yarn.lock'),
-    getPath('scripts/plop/templates/package.json'),
-  ]);
-  await git.commit(`[release] Version: ${incrementedVersion}`);
-  await git.push();
+  // await $`yarn`;
+  // await git.add([
+  //   getPath('packages'),
+  //   getPath('package.json'),
+  //   getPath('yarn.lock'),
+  //   getPath('scripts/plop/templates/package.json'),
+  // ]);
+  // await git.commit(`[release] Version: ${incrementedVersion}`);
+  // await git.push();
 
-  openGithubRelease(incrementedVersion);
+  // openGithubRelease(incrementedVersion);
 }
 
 release();
