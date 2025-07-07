@@ -22,7 +22,11 @@ npm run storybook
 npx tsx scripts/release
 ```
 
+#### Push single package to npm
 
+```bash
+npm publish --registry https://npm.pkg.github.com
+```
 
 ### Get started with Mantine locally
 - Install the editorconfig extension for your editor.
